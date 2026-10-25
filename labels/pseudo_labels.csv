@@ -1,0 +1,22 @@
+﻿ticker,event_date,event_type,event_source,event_severity,notes
+ART,2021-11-15,warning,pseudo_alert_high,high,pseudo | score=1.250 | methods=8 | priority=HIGH
+FLC,2021-03-15,warning,pseudo_alert_high,high,pseudo | score=1.243 | methods=8 | priority=HIGH
+FLC,2019-10-15,warning,pseudo_alert_high,high,pseudo | score=1.150 | methods=8 | priority=HIGH
+ART,2021-01-19,warning,pseudo_alert_high,high,pseudo | score=1.076 | methods=7 | priority=HIGH
+HAI,2021-11-01,warning,pseudo_alert_high,high,pseudo | score=1.061 | methods=4 | priority=HIGH
+ART,2022-03-18,warning,pseudo_alert_high,high,pseudo | score=1.050 | methods=4 | priority=HIGH
+HAI,2017-07-19,warning,pseudo_alert_high,high,pseudo | score=1.050 | methods=4 | priority=HIGH
+FLC,2022-06-27,warning,pseudo_alert_high,high,pseudo | score=1.044 | methods=6 | priority=HIGH
+HAI,2022-02-07,warning,pseudo_alert_high,high,pseudo | score=1.044 | methods=4 | priority=HIGH
+AMD,2021-12-01,warning,pseudo_alert_high,high,pseudo | score=1.043 | methods=4 | priority=HIGH
+AMD,2022-03-16,warning,pseudo_alert_high,high,pseudo | score=1.022 | methods=4 | priority=HIGH
+ART,2018-05-10,warning,pseudo_alert_high,high,pseudo | score=1.000 | methods=5 | priority=HIGH
+GAB,2020-02-07,warning,pseudo_alert_high,high,pseudo | score=0.997 | methods=6 | priority=HIGH
+GAB,2021-10-11,warning,pseudo_alert_high,high,pseudo | score=0.973 | methods=4 | priority=HIGH
+HAI,2021-09-21,warning,pseudo_alert_high,high,pseudo | score=0.962 | methods=4 | priority=HIGH
+AMD,2021-11-05,warning,pseudo_alert_high,high,pseudo | score=0.957 | methods=4 | priority=HIGH
+AMD,2020-03-02,warning,pseudo_alert_high,high,pseudo | score=0.956 | methods=4 | priority=HIGH
+GAB,2021-12-22,warning,pseudo_alert_high,high,pseudo | score=0.956 | methods=4 | priority=HIGH
+GAB,2022-01-06,warning,pseudo_alert_high,high,pseudo | score=0.956 | methods=4 | priority=HIGH
+AMD,2020-03-18,warning,pseudo_alert_high,high,pseudo | score=1.162 | methods=8 | priority=HIGH
+HAI,2020-03-18,warning,pseudo_alert_high,high,pseudo | score=1.135 | methods=8 | priority=HIGH

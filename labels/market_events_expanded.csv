@@ -1,0 +1,2588 @@
+﻿ticker,event_date,event_type,event_source,event_severity,notes
+ACV,2016-05-27,news_event,DNSE,low,auto_keyword_match: upcom
+ACV,2016-11-01,news_event,CafeF,low,auto_keyword_match: upcom
+ACV,2016-11-10,news_event,CafeF,low,auto_keyword_match: upcom
+ACV,2016-11-21,news_event,DNSE,low,auto_keyword_match: upcom
+ACV,2016-12-07,news_event,DNSE,low,auto_keyword_match: upcom
+ACV,2017-03-07,news_event,CafeF,low,auto_keyword_match: hose
+ACV,2017-09-22,news_event,CafeF,low,auto_keyword_match: ubcknn
+ACV,2019-06-22,news_event,CafeF,low,auto_keyword_match: hose
+ACV,2020-06-02,news_event,DNSE,low,auto_keyword_match: upcom
+ACV,2021-07-22,news_event,CafeF,low,"auto_keyword_match: upcom, tạm ngừng giao dịch"
+ACV,2021-07-26,news_event,CafeF,low,auto_keyword_match: upcom
+ACV,2024-05-06,news_event,CafeF,low,"auto_keyword_match: upcom, hnx"
+ACV,2024-05-24,news_event,CafeF,low,auto_keyword_match: upcom
+ACV,2024-07-24,news_event,CafeF,low,"auto_keyword_match: upcom, ubcknn"
+ACV,2025-02-20,news_event,CafeF,low,auto_keyword_match: hose
+AMD,2016-01-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+AMD,2016-01-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.8x
+AMD,2016-01-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.9x
+AMD,2016-01-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.9x
+AMD,2016-01-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+AMD,2016-01-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.6x
+AMD,2016-01-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+AMD,2016-01-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.1x
+AMD,2016-01-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2016-02-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.8x
+AMD,2016-02-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+AMD,2016-02-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+AMD,2016-02-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.9x
+AMD,2016-02-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.6x
+AMD,2016-02-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2016-02-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+AMD,2016-02-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+AMD,2016-03-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.1x
+AMD,2016-03-30,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+AMD,2016-04-07,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+AMD,2016-04-22,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.9 | buy_imbalance=2.1x
+AMD,2016-05-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+AMD,2016-05-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+AMD,2016-05-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.1x
+AMD,2016-06-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+AMD,2016-06-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+AMD,2016-06-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+AMD,2016-06-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+AMD,2016-06-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2016-06-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2016-06-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2016-06-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.7x
+AMD,2016-06-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+AMD,2016-06-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+AMD,2016-07-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2016-07-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2016-07-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+AMD,2016-07-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.7x
+AMD,2016-07-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+AMD,2016-07-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+AMD,2016-07-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+AMD,2016-07-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+AMD,2016-08-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2016-08-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+AMD,2016-09-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+AMD,2016-10-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.8x
+AMD,2016-10-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.2x
+AMD,2016-10-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+AMD,2016-10-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2016-10-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+AMD,2016-10-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.9x
+AMD,2016-11-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2016-12-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.8x
+AMD,2017-01-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+AMD,2017-05-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2017-05-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.0x
+AMD,2017-05-31,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2017-06-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+AMD,2017-06-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.8x
+AMD,2017-06-05,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.7
+AMD,2017-06-06,investigation,auto_extreme,low,auto_detect: volume_spike_z=11.2
+AMD,2017-06-07,investigation,auto_extreme,low,auto_detect: volume_spike_z=13.2
+AMD,2017-06-08,investigation,auto_extreme,low,auto_detect: volume_spike_z=10.2
+AMD,2017-06-12,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.7
+AMD,2017-06-13,investigation,auto_extreme,low,auto_detect: volume_spike_z=7.5
+AMD,2017-06-14,investigation,auto_extreme,low,auto_detect: volume_spike_z=8.0
+AMD,2017-06-15,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.3x
+AMD,2017-06-16,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.9 | sell_imbalance=3.0x
+AMD,2017-06-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.7 | buy_imbalance=2.2x
+AMD,2017-06-20,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.5
+AMD,2017-06-21,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.1
+AMD,2017-06-22,investigation,auto_extreme,low,auto_detect: volume_spike_z=7.5
+AMD,2017-06-23,investigation,auto_extreme,low,auto_detect: volume_spike_z=7.7
+AMD,2017-06-26,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.5
+AMD,2017-06-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+AMD,2017-06-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+AMD,2017-06-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.0x
+AMD,2017-07-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.6x
+AMD,2017-07-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+AMD,2017-07-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.8x
+AMD,2017-07-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+AMD,2017-07-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+AMD,2017-07-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.6x
+AMD,2017-08-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.1x
+AMD,2017-08-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+AMD,2017-08-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.6x
+AMD,2017-08-09,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.2
+AMD,2017-08-10,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+AMD,2017-08-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.0x
+AMD,2017-08-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.0x
+AMD,2017-08-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.8x
+AMD,2017-08-25,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3 | buy_imbalance=3.1x
+AMD,2017-08-28,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+AMD,2017-08-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.7x
+AMD,2017-08-31,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.2
+AMD,2017-09-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+AMD,2017-09-21,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2017-10-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.9x
+AMD,2017-10-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.7x
+AMD,2017-10-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+AMD,2017-10-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+AMD,2017-10-20,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.1
+AMD,2017-10-23,investigation,auto_extreme,low,auto_detect: volume_spike_z=6.5
+AMD,2017-11-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.5x
+AMD,2017-11-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.1x
+AMD,2017-11-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.4x
+AMD,2017-11-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.6x
+AMD,2017-11-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.2x
+AMD,2017-11-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.4x
+AMD,2017-11-29,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3
+AMD,2017-12-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.7x
+AMD,2017-12-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.3x
+AMD,2017-12-12,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.8 | buy_imbalance=4.8x
+AMD,2017-12-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.0x
+AMD,2017-12-14,investigation,auto_extreme,low,auto_detect: volume_spike_z=8.3 | buy_imbalance=2.9x
+AMD,2017-12-15,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.5
+AMD,2017-12-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.7
+AMD,2017-12-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.0x
+AMD,2017-12-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.1x
+AMD,2017-12-27,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.2
+AMD,2018-01-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+AMD,2018-01-04,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.6x
+AMD,2018-01-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.3x
+AMD,2018-01-10,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2018-01-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+AMD,2018-01-16,investigation,auto_extreme,low,auto_detect: volume_spike_z=6.3 | buy_imbalance=3.3x
+AMD,2018-01-17,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+AMD,2018-01-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=8.0
+AMD,2018-02-07,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.4 | buy_imbalance=2.4x
+AMD,2018-02-08,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.6
+AMD,2018-02-13,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.4
+AMD,2018-03-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2018-03-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.6x
+AMD,2018-03-08,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.5
+AMD,2018-04-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+AMD,2018-05-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.5x
+AMD,2018-05-22,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2018-06-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+AMD,2018-07-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2018-07-18,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2018-07-24,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+AMD,2018-07-27,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+AMD,2018-08-03,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2018-08-22,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+AMD,2018-08-27,investigation,auto_extreme,low,auto_detect: sell_imbalance=4.3x
+AMD,2018-08-28,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.6x
+AMD,2018-08-29,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+AMD,2018-09-05,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+AMD,2018-09-10,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+AMD,2018-09-14,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+AMD,2018-09-17,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+AMD,2018-09-21,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.2
+AMD,2018-10-19,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.7x
+AMD,2018-10-22,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+AMD,2018-10-23,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2018-11-06,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.9x
+AMD,2018-11-12,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.9x
+AMD,2018-11-14,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+AMD,2018-11-15,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.9x
+AMD,2018-11-16,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2018-11-19,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+AMD,2018-11-22,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+AMD,2018-11-23,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+AMD,2018-11-28,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.7x
+AMD,2018-12-03,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+AMD,2019-01-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.0x
+AMD,2019-01-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2019-01-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.6x
+AMD,2019-01-30,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3
+AMD,2019-02-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.1x
+AMD,2019-02-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.4x
+AMD,2019-02-18,investigation,auto_extreme,low,auto_detect: volume_spike_z=6.7 | buy_imbalance=2.1x
+AMD,2019-02-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.9
+AMD,2019-02-20,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.4
+AMD,2019-02-21,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.0
+AMD,2019-02-22,investigation,auto_extreme,low,auto_detect: volume_spike_z=8.3
+AMD,2019-02-25,investigation,auto_extreme,low,auto_detect: volume_spike_z=9.5
+AMD,2019-02-26,investigation,auto_extreme,low,auto_detect: volume_spike_z=9.3
+AMD,2019-02-27,investigation,auto_extreme,low,auto_detect: volume_spike_z=8.2
+AMD,2019-03-06,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+AMD,2019-03-12,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.5x
+AMD,2019-03-19,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+AMD,2019-04-03,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+AMD,2019-05-02,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2019-05-22,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2019-05-31,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.5x
+AMD,2019-06-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.6x
+AMD,2019-06-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.9x
+AMD,2019-07-12,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2019-07-17,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.6x
+AMD,2019-08-13,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+AMD,2019-08-14,investigation,auto_extreme,low,auto_detect: sell_imbalance=4.0x
+AMD,2019-08-26,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2019-09-06,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.6x
+AMD,2019-10-17,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.6x
+AMD,2019-10-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+AMD,2019-11-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+AMD,2019-12-05,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.5
+AMD,2019-12-13,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.8
+AMD,2019-12-16,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.1
+AMD,2019-12-17,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.8
+AMD,2019-12-18,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.4 | sell_imbalance=3.2x
+AMD,2019-12-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.4
+AMD,2019-12-26,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.2
+AMD,2020-02-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2020-02-13,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+AMD,2020-02-14,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.7
+AMD,2020-02-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+AMD,2020-02-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.6
+AMD,2020-03-02,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.1
+AMD,2020-03-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=42.6x
+AMD,2020-03-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=68.0x
+AMD,2020-03-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=18.3x
+AMD,2020-03-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=21.7x
+AMD,2020-03-09,investigation,auto_extreme,low,auto_detect: volume_spike_z=10.2
+AMD,2020-03-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.6x
+AMD,2020-03-11,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.7 | buy_imbalance=2.8x
+AMD,2020-03-12,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.0 | buy_imbalance=3.2x
+AMD,2020-03-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.3x
+AMD,2020-03-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=78.8x
+AMD,2020-03-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=64.9x
+AMD,2020-03-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=58.9x
+AMD,2020-03-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=16.3
+AMD,2020-03-20,investigation,auto_extreme,low,auto_detect: sell_imbalance=5.6x
+AMD,2020-03-23,investigation,auto_extreme,low,auto_detect: sell_imbalance=336.5x
+AMD,2020-03-24,investigation,auto_extreme,low,auto_detect: sell_imbalance=359.3x
+AMD,2020-03-25,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.3 | sell_imbalance=4.3x
+AMD,2020-03-26,investigation,auto_extreme,low,auto_detect: sell_imbalance=23.2x
+AMD,2020-03-27,investigation,auto_extreme,low,auto_detect: sell_imbalance=109.3x
+AMD,2020-03-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=681.1x
+AMD,2020-03-31,investigation,auto_extreme,low,auto_detect: volume_spike_z=7.9 | sell_imbalance=2.2x
+AMD,2020-04-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.4x
+AMD,2020-04-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=22.1x
+AMD,2020-04-06,investigation,auto_extreme,low,auto_detect: volume_spike_z=8.4
+AMD,2020-04-07,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.2
+AMD,2020-04-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.1x
+AMD,2020-04-10,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.1
+AMD,2020-04-21,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+AMD,2020-04-24,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.0
+AMD,2020-04-27,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.5
+AMD,2020-05-04,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.9x
+AMD,2020-05-27,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2020-06-04,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.5
+AMD,2020-06-05,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.9
+AMD,2020-06-08,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+AMD,2020-06-09,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.6
+AMD,2020-06-17,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.8
+AMD,2020-07-27,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+AMD,2020-07-29,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.6x
+AMD,2020-08-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+AMD,2020-08-31,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+AMD,2020-10-23,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3
+AMD,2020-11-16,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+AMD,2020-11-19,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2020-12-07,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+AMD,2021-01-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+AMD,2021-01-19,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2021-01-28,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.9x
+AMD,2021-03-04,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+AMD,2021-03-23,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.0
+AMD,2021-03-30,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.0
+AMD,2021-03-31,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.9
+AMD,2021-04-05,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.0
+AMD,2021-04-06,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.7
+AMD,2021-04-07,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.4
+AMD,2021-04-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+AMD,2021-04-13,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.5
+AMD,2021-04-14,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.5
+AMD,2021-04-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+AMD,2021-04-16,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.7
+AMD,2021-04-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=8.1
+AMD,2021-04-20,investigation,auto_extreme,low,auto_detect: volume_spike_z=6.5
+AMD,2021-04-22,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.1
+AMD,2021-04-26,investigation,auto_extreme,low,auto_detect: volume_spike_z=6.4
+AMD,2021-05-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+AMD,2021-05-06,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.4
+AMD,2021-05-07,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.9
+AMD,2021-05-10,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.7
+AMD,2021-05-19,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+AMD,2021-05-25,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.8
+AMD,2021-05-26,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.0
+AMD,2021-05-31,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+AMD,2021-06-04,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+AMD,2021-07-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+AMD,2021-07-21,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+AMD,2021-08-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+AMD,2021-09-14,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.6
+AMD,2021-09-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2021-09-23,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.3
+AMD,2021-11-05,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.2
+AMD,2021-11-15,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.2
+AMD,2021-11-16,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.7
+AMD,2021-12-10,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.5
+AMD,2021-12-16,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.4
+AMD,2021-12-17,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.7
+AMD,2021-12-23,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.2
+AMD,2022-01-06,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.5
+AMD,2022-01-07,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3 | buy_imbalance=2.3x
+AMD,2022-01-10,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.5
+AMD,2022-01-11,investigation,auto_extreme,low,auto_detect: volume_spike_z=7.6
+AMD,2022-01-12,investigation,auto_extreme,low,auto_detect: sell_imbalance=36.1x
+AMD,2022-01-13,investigation,auto_extreme,low,auto_detect: sell_imbalance=309.4x
+AMD,2022-01-14,investigation,auto_extreme,low,auto_detect: sell_imbalance=290.7x
+AMD,2022-01-17,investigation,auto_extreme,low,auto_detect: sell_imbalance=146.2x
+AMD,2022-01-18,investigation,auto_extreme,low,auto_detect: sell_imbalance=162.9x
+AMD,2022-01-19,investigation,auto_extreme,low,auto_detect: sell_imbalance=85.1x
+AMD,2022-01-20,investigation,auto_extreme,low,auto_detect: volume_spike_z=7.5
+AMD,2022-02-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.3x
+AMD,2022-03-18,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+AMD,2022-03-28,investigation,auto_extreme,low,auto_detect: sell_imbalance=16.0x
+AMD,2022-03-29,investigation,auto_extreme,low,auto_detect: volume_spike_z=6.6 | sell_imbalance=2.2x
+AMD,2022-03-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=21.7x
+AMD,2022-03-31,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.4
+AMD,2022-04-18,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.8x
+AMD,2022-05-04,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+AMD,2022-05-24,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+AMD,2022-06-01,warning,HOSE,medium,AMD_001 | source_type=abnormal_trading | AMD bị cảnh báo giao dịch bất thường
+AMD,2022-07-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.1x
+AMD,2022-07-06,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2022-07-13,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+AMD,2022-07-18,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+AMD,2022-07-21,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+AMD,2022-07-29,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.7x
+AMD,2022-08-31,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2022-09-06,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2022-09-19,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2022-10-06,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+AMD,2022-10-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.6x
+AMD,2022-10-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.3x
+AMD,2022-10-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.8x
+AMD,2022-10-19,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.1x
+AMD,2022-10-20,investigation,auto_extreme,low,auto_detect: sell_imbalance=4.0x
+AMD,2022-10-28,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+AMD,2022-11-15,investigation,auto_extreme,low,auto_detect: sell_imbalance=4.7x
+AMD,2022-11-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.7x
+AMD,2022-11-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+AMD,2022-11-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+AMD,2022-11-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2022-11-23,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.4x
+AMD,2022-12-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.9x
+AMD,2022-12-07,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.5x
+AMD,2023-01-18,warning,HOSE,medium,AMD_002 | source_type=disclosure_violation | AMD vi phạm công bố thông tin
+AMD,2023-01-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+AMD,2023-02-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+AMD,2023-02-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+AMD,2023-02-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.0x
+AMD,2023-02-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.2x
+AMD,2023-02-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+AMD,2023-02-28,investigation,auto_extreme,low,auto_detect: sell_imbalance=6.1x
+AMD,2023-03-01,news_event,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+AMD,2023-03-02,investigation,auto_extreme,low,auto_detect: sell_imbalance=10.6x
+AMD,2023-03-03,investigation,auto_extreme,low,auto_detect: sell_imbalance=13.9x
+AMD,2023-03-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+AMD,2023-03-08,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+AMD,2023-07-17,news_event,Vneconomy,low,"auto_keyword_match: upcom, đình chỉ giao dịch"
+ART,2016-06-22,news_event,DNSE,low,auto_keyword_match: upcom
+ART,2016-10-25,news_event,Baodautu,low,auto_keyword_match: hose
+ART,2017-01-01,news_event,CafeF,low,auto_keyword_match: upcom
+ART,2017-03-22,news_event,DNSE,low,auto_keyword_match: upcom
+ART,2017-04-05,news_event,CafeF,low,auto_keyword_match: hose
+ART,2017-07-05,news_event,CafeF,low,auto_keyword_match: hose
+ART,2017-07-26,news_event,CafeF,low,auto_keyword_match: upcom
+ART,2017-08-18,news_event,CafeF,low,auto_keyword_match: hnx
+ART,2017-08-31,investigation,auto_extreme,low,auto_detect: price_gap=13.02% | buy_imbalance=2.9x
+ART,2017-09-01,investigation,auto_extreme,low,auto_detect: price_gap=19.35% | buy_imbalance=3.7x
+ART,2017-09-05,investigation,auto_extreme,low,auto_detect: price_gap=12.91%
+ART,2017-09-12,investigation,auto_extreme,low,auto_detect: price_gap=16.49%
+ART,2017-09-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.9x
+ART,2017-09-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+ART,2017-09-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.6x
+ART,2017-09-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.7x
+ART,2017-09-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+ART,2017-09-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.8x
+ART,2017-09-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.1x
+ART,2017-09-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.1x
+ART,2017-10-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+ART,2017-10-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.7x
+ART,2017-10-04,investigation,auto_extreme,low,auto_detect: price_gap=15.25% | buy_imbalance=8.4x
+ART,2017-10-05,news_event,CafeF,low,auto_keyword_match: hose
+ART,2017-10-06,investigation,auto_extreme,low,auto_detect: price_gap=14.81% | buy_imbalance=10.0x
+ART,2017-10-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+ART,2017-10-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+ART,2017-10-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+ART,2017-10-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+ART,2017-10-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+ART,2017-10-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+ART,2017-10-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+ART,2017-10-27,investigation,auto_extreme,low,auto_detect: price_gap=16.58% | buy_imbalance=9.2x
+ART,2017-11-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+ART,2017-11-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+ART,2017-11-03,investigation,auto_extreme,low,auto_detect: price_gap=16.95% | buy_imbalance=8.2x
+ART,2017-11-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+ART,2017-11-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+ART,2017-11-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+ART,2017-11-15,investigation,auto_extreme,low,auto_detect: price_gap=14.62% | buy_imbalance=4.3x
+ART,2017-11-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+ART,2017-11-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+ART,2017-11-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+ART,2017-11-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+ART,2017-11-27,investigation,auto_extreme,low,auto_detect: price_gap=14.59% | buy_imbalance=5.7x
+ART,2017-11-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+ART,2017-11-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.9x
+ART,2017-11-30,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3
+ART,2017-12-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+ART,2017-12-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+ART,2017-12-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+ART,2017-12-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.7x
+ART,2017-12-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+ART,2017-12-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+ART,2017-12-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.6x
+ART,2017-12-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.3x
+ART,2017-12-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+ART,2017-12-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.7x
+ART,2017-12-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.1x
+ART,2017-12-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.9x
+ART,2017-12-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.6x
+ART,2017-12-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+ART,2017-12-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.2x
+ART,2017-12-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.4x
+ART,2017-12-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+ART,2017-12-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.1x
+ART,2017-12-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.7x
+ART,2018-01-09,news_event,CafeF,low,auto_keyword_match: hose
+ART,2018-01-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.9x
+ART,2018-02-05,investigation,auto_extreme,low,auto_detect: price_gap=12.71%
+ART,2018-02-07,investigation,auto_extreme,low,auto_detect: price_gap=13.25% | buy_imbalance=7.6x
+ART,2018-02-21,investigation,auto_extreme,low,auto_detect: price_gap=14.63% | buy_imbalance=3.6x
+ART,2018-02-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.7x
+ART,2018-02-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+ART,2018-03-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.6x
+ART,2018-03-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+ART,2018-03-07,investigation,auto_extreme,low,auto_detect: price_gap=14.48% | buy_imbalance=4.7x
+ART,2018-03-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+ART,2018-03-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.6x
+ART,2018-03-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+ART,2018-03-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+ART,2018-03-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+ART,2018-03-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+ART,2018-03-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+ART,2018-03-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+ART,2018-03-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+ART,2018-04-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+ART,2018-04-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+ART,2018-04-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+ART,2018-04-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+ART,2018-04-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+ART,2018-04-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+ART,2018-04-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.6x
+ART,2018-04-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+ART,2018-04-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.9x
+ART,2018-04-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.5x
+ART,2018-04-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.6x
+ART,2018-04-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.2x
+ART,2018-04-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.7x
+ART,2018-05-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.7x
+ART,2018-05-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.1x
+ART,2018-05-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.6x
+ART,2018-05-09,investigation,auto_extreme,low,auto_detect: price_gap=14.75% | buy_imbalance=3.2x
+ART,2018-05-10,investigation,auto_extreme,low,auto_detect: volume_spike_z=7.0 | price_gap=11.83% | buy_imbalance=2.6x
+ART,2018-05-15,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+ART,2018-05-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.8x
+ART,2018-06-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.8x
+ART,2018-07-05,investigation,auto_extreme,low,auto_detect: price_gap=11.80%
+ART,2018-07-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+ART,2018-07-10,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1 | price_gap=10.91%
+ART,2018-07-11,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.1 | price_gap=15.57%
+ART,2018-07-12,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.4 | price_gap=11.04%
+ART,2018-07-13,investigation,auto_extreme,low,auto_detect: price_gap=12.96%
+ART,2018-07-16,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.5
+ART,2018-07-17,news_event,DNSE,low,auto_keyword_match: hnx
+ART,2018-07-18,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+ART,2018-07-20,investigation,auto_extreme,low,auto_detect: price_gap=14.42% | buy_imbalance=2.9x
+ART,2018-07-23,investigation,auto_extreme,low,auto_detect: price_gap=12.61% | buy_imbalance=2.8x
+ART,2018-07-24,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.5 | price_gap=12.69% | buy_imbalance=2.1x
+ART,2018-07-25,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1 | price_gap=17.22%
+ART,2018-07-26,investigation,auto_extreme,low,auto_detect: price_gap=16.80% | buy_imbalance=4.1x
+ART,2018-07-27,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.5 | price_gap=17.12%
+ART,2018-07-31,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.4
+ART,2018-08-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.7x
+ART,2018-08-02,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.4 | price_gap=11.00%
+ART,2018-08-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+ART,2018-08-14,news_event,DNSE,low,auto_keyword_match: hnx
+ART,2018-08-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+ART,2018-09-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+ART,2018-09-13,investigation,auto_extreme,low,auto_detect: price_gap=12.99% | buy_imbalance=3.4x
+ART,2018-09-18,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.8 | price_gap=14.29% | buy_imbalance=3.2x
+ART,2018-09-21,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.0
+ART,2018-09-28,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.8 | price_gap=10.53% | buy_imbalance=4.8x
+ART,2018-09-29,news_event,DNSE,low,auto_keyword_match: hnx
+ART,2018-10-05,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.8
+ART,2018-10-08,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.4 | sell_imbalance=2.1x
+ART,2018-10-09,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.6
+ART,2018-10-11,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3
+ART,2018-10-12,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.5
+ART,2018-10-18,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.2
+ART,2018-12-27,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.8
+ART,2019-01-03,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+ART,2019-01-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+ART,2019-03-07,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.2
+ART,2019-04-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+ART,2019-04-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.2x
+ART,2019-04-09,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.5
+ART,2019-06-20,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+ART,2019-06-25,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.8x
+ART,2019-06-27,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+ART,2019-07-03,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+ART,2019-07-04,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+ART,2019-07-16,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+ART,2019-07-17,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.8x
+ART,2019-07-19,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+ART,2019-07-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+ART,2019-08-19,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+ART,2019-09-09,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+ART,2019-09-10,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.3x
+ART,2019-09-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.3x
+ART,2019-09-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+ART,2019-09-27,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+ART,2019-10-11,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+ART,2019-10-16,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+ART,2019-10-21,investigation,auto_extreme,low,auto_detect: price_gap=10.00% | buy_imbalance=2.0x
+ART,2019-11-05,news_event,DNSE,low,auto_keyword_match: ủy ban chứng khoán
+ART,2019-11-13,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+ART,2019-12-04,investigation,auto_extreme,low,auto_detect: price_gap=10.00%
+ART,2019-12-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+ART,2019-12-17,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.7
+ART,2019-12-24,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+ART,2020-01-06,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.6x
+ART,2020-01-08,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.5x
+ART,2020-01-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+ART,2020-02-24,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+ART,2020-02-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+ART,2020-03-05,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.2
+ART,2020-03-09,investigation,auto_extreme,low,auto_detect: sell_imbalance=7.4x
+ART,2020-03-10,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3
+ART,2020-03-12,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.2
+ART,2020-03-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.2x
+ART,2020-03-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.3x
+ART,2020-03-18,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+ART,2020-03-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=7.3
+ART,2020-03-23,investigation,auto_extreme,low,auto_detect: sell_imbalance=6.1x
+ART,2020-03-24,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.7
+ART,2020-04-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.9x
+ART,2020-04-03,investigation,auto_extreme,low,auto_detect: price_gap=10.00% | buy_imbalance=11.2x
+ART,2020-04-06,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3
+ART,2020-05-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+ART,2020-05-14,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1 | buy_imbalance=2.1x
+ART,2020-05-15,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.2 | buy_imbalance=4.5x
+ART,2020-05-18,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.7x
+ART,2020-05-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.4
+ART,2020-06-18,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.7x
+ART,2020-07-08,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+ART,2020-07-10,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+ART,2020-07-17,news_event,DNSE,low,auto_keyword_match: upcom
+ART,2020-07-28,investigation,auto_extreme,low,auto_detect: price_gap=10.00% | buy_imbalance=2.2x
+ART,2020-07-29,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+ART,2020-07-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+ART,2020-08-03,investigation,auto_extreme,low,auto_detect: price_gap=10.00% | buy_imbalance=2.7x
+ART,2020-08-20,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+ART,2020-09-11,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.5x
+ART,2020-10-06,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+ART,2020-10-13,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.9x
+ART,2020-10-19,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+ART,2020-10-23,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.5
+ART,2020-11-19,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+ART,2020-11-24,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.6x
+ART,2020-11-25,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+ART,2020-11-26,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+ART,2020-11-27,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.6
+ART,2020-11-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+ART,2020-12-10,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.5x
+ART,2020-12-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+ART,2020-12-23,investigation,auto_extreme,low,auto_detect: volume_spike_z=7.7
+ART,2020-12-24,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.0
+ART,2020-12-25,investigation,auto_extreme,low,auto_detect: price_gap=10.00%
+ART,2021-01-05,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.2
+ART,2021-01-07,investigation,auto_extreme,low,auto_detect: volume_spike_z=6.5
+ART,2021-01-08,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.0
+ART,2021-01-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+ART,2021-01-12,investigation,auto_extreme,low,auto_detect: volume_spike_z=7.2
+ART,2021-01-13,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.1
+ART,2021-01-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+ART,2021-01-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=10.3
+ART,2021-01-20,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.4
+ART,2021-01-22,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.8 | price_gap=10.00%
+ART,2021-01-25,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.8
+ART,2021-01-26,investigation,auto_extreme,low,auto_detect: sell_imbalance=5.9x
+ART,2021-01-27,investigation,auto_extreme,low,auto_detect: sell_imbalance=6.8x
+ART,2021-01-28,investigation,auto_extreme,low,auto_detect: sell_imbalance=34.8x
+ART,2021-01-29,investigation,auto_extreme,low,auto_detect: volume_spike_z=8.6
+ART,2021-02-24,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.2
+ART,2021-03-04,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.0
+ART,2021-03-22,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.9 | buy_imbalance=3.0x
+ART,2021-03-23,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.4 | buy_imbalance=2.2x
+ART,2021-03-24,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3
+ART,2021-03-26,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.1
+ART,2021-03-30,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.4
+ART,2021-03-31,investigation,auto_extreme,low,auto_detect: volume_spike_z=9.1 | price_gap=10.00%
+ART,2021-04-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.0x
+ART,2021-04-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.9x
+ART,2021-04-07,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+ART,2021-04-08,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.5
+ART,2021-04-09,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.4
+ART,2021-04-12,investigation,auto_extreme,low,auto_detect: volume_spike_z=7.4
+ART,2021-04-14,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.2
+ART,2021-04-15,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.9
+ART,2021-04-16,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+ART,2021-05-04,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.4
+ART,2021-05-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.3x
+ART,2021-05-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+ART,2021-05-31,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.6
+ART,2021-06-01,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.4
+ART,2021-06-03,investigation,auto_extreme,low,auto_detect: volume_spike_z=6.0
+ART,2021-06-04,investigation,auto_extreme,low,auto_detect: volume_spike_z=6.4
+ART,2021-07-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+ART,2021-07-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+ART,2021-07-29,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+ART,2021-08-05,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+ART,2021-08-13,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+ART,2021-08-16,investigation,auto_extreme,low,auto_detect: volume_spike_z=6.3
+ART,2021-08-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3
+ART,2021-09-07,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+ART,2021-09-22,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.3
+ART,2021-09-23,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.0
+ART,2021-11-15,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3
+ART,2021-11-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.7
+ART,2021-11-22,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+ART,2021-12-21,news_event,DNSE,low,auto_keyword_match: hose
+ART,2021-12-30,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.4
+ART,2022-01-11,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.7
+ART,2022-01-12,investigation,auto_extreme,low,auto_detect: sell_imbalance=6.3x
+ART,2022-01-13,investigation,auto_extreme,low,auto_detect: sell_imbalance=31.0x
+ART,2022-01-14,investigation,auto_extreme,low,auto_detect: sell_imbalance=26.8x
+ART,2022-01-17,investigation,auto_extreme,low,auto_detect: volume_spike_z=6.3
+ART,2022-03-28,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.5x
+ART,2022-03-29,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.4
+ART,2022-03-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=6.0x
+ART,2022-04-01,investigation,auto_extreme,low,auto_detect: price_gap=10.00%
+ART,2022-05-11,investigation,auto_extreme,low,auto_detect: price_gap=10.00%
+ART,2022-07-18,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+ART,2022-07-21,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+ART,2022-08-12,warning,HNX,medium,ART_001 | source_type=supervisory_warning | ART bị cảnh báo giao dịch
+ART,2022-09-09,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+ART,2022-09-26,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+ART,2022-10-21,investigation,auto_extreme,low,auto_detect: sell_imbalance=6.3x
+ART,2022-11-04,investigation,auto_extreme,low,auto_detect: sell_imbalance=7.3x
+ART,2022-11-11,investigation,auto_extreme,low,auto_detect: sell_imbalance=11.9x
+ART,2022-11-18,news_event,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+ART,2023-03-22,warning,HNX,high,ART_002 | source_type=trading_restriction | ART bị hạn chế giao dịch
+ART,2023-04-06,news_event,CafeF,low,auto_keyword_match: hnx
+ART,2023-07-06,news_event,CafeF,low,auto_keyword_match: hnx
+ART,2023-07-18,news_event,DNSE,low,"auto_keyword_match: upcom, hose"
+ART,2023-07-26,news_event,CafeF,low,auto_keyword_match: xử phạt
+ART,2024-05-27,news_event,DNSE,low,auto_keyword_match: xử phạt
+ART,2024-10-29,news_event,CafeF,low,auto_keyword_match: xử phạt
+ART,2024-11-23,news_event,Baodautu,low,auto_keyword_match: xử phạt
+BID,2016-11-28,news_event,CafeF,low,auto_keyword_match: hose
+BID,2017-08-02,news_event,CafeF,low,auto_keyword_match: hose
+BID,2017-08-06,news_event,CafeF,low,auto_keyword_match: hose
+BID,2018-04-16,news_event,CafeF,low,auto_keyword_match: xả hàng
+BID,2018-05-28,news_event,CafeF,low,auto_keyword_match: hose
+BID,2018-07-16,news_event,DNSE,low,auto_keyword_match: hose
+BID,2021-03-09,news_event,CafeF,low,"auto_keyword_match: hnx, hose"
+BID,2021-04-18,news_event,Baodautu,low,auto_keyword_match: hnx
+BID,2021-05-21,news_event,Baodautu,low,auto_keyword_match: hose
+BID,2023-05-30,news_event,DNSE,low,auto_keyword_match: hose
+BID,2024-02-28,news_event,CafeF,low,auto_keyword_match: hose
+BID,2025-02-13,news_event,Fireant,low,auto_keyword_match: ubcknn
+BVH,2018-04-10,news_event,CafeF,low,auto_keyword_match: hose
+BVH,2018-07-16,news_event,DNSE,low,auto_keyword_match: hose
+BVH,2020-07-20,news_event,DNSE,low,auto_keyword_match: hose
+CTG,2019-11-16,news_event,CafeF,low,auto_keyword_match: hose
+CTG,2020-01-19,news_event,CafeF,low,auto_keyword_match: hose
+CTG,2020-09-06,news_event,CafeF,low,auto_keyword_match: tự doanh
+CTG,2021-04-06,news_event,Vneconomy,low,auto_keyword_match: hose
+CTG,2021-11-12,news_event,CafeF,low,auto_keyword_match: hose
+CTG,2021-12-27,news_event,CafeF,low,auto_keyword_match: hose
+CTG,2021-12-29,news_event,CafeF,low,auto_keyword_match: hose
+CTG,2023-10-03,news_event,CafeF,low,auto_keyword_match: hose
+DGC,2016-11-15,news_event,DNSE,low,auto_keyword_match: hnx
+DGC,2020-07-13,news_event,DNSE,low,auto_keyword_match: hnx
+DGC,2020-07-22,news_event,CafeF,low,auto_keyword_match: hose
+DGC,2022-06-11,news_event,DNSE,low,auto_keyword_match: upcom
+DGC,2023-04-13,news_event,CafeF,low,auto_keyword_match: tự doanh
+FLC,2015-10-29,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+FLC,2015-11-04,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.6x
+FLC,2015-11-06,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+FLC,2015-11-07,news_event,Vneconomy,low,auto_keyword_match: hose
+FLC,2015-11-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.7x
+FLC,2015-11-10,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.5
+FLC,2015-12-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+FLC,2015-12-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+FLC,2016-01-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+FLC,2016-01-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+FLC,2016-01-13,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.4
+FLC,2016-01-14,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3
+FLC,2016-01-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+FLC,2016-04-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+FLC,2016-05-25,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+FLC,2016-07-25,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+FLC,2016-08-03,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.6x
+FLC,2016-08-29,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+FLC,2016-09-12,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+FLC,2016-09-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+FLC,2016-09-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.9x
+FLC,2016-09-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+FLC,2016-10-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.7x
+FLC,2016-10-31,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.7
+FLC,2016-11-02,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.4
+FLC,2016-12-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+FLC,2016-12-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.6x
+FLC,2017-02-23,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.9
+FLC,2017-02-24,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.2
+FLC,2017-03-01,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.0
+FLC,2017-03-02,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.5
+FLC,2017-03-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+FLC,2017-03-07,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.3
+FLC,2017-03-08,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.3
+FLC,2017-03-10,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.0
+FLC,2017-03-21,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+FLC,2017-03-22,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.2
+FLC,2017-03-31,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.1
+FLC,2017-08-23,news_event,CafeF,low,auto_keyword_match: hose
+FLC,2017-08-24,investigation,auto_extreme,low,auto_detect: volume_spike_z=6.7 | buy_imbalance=2.7x
+FLC,2017-08-25,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.6 | buy_imbalance=2.6x
+FLC,2017-08-28,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.1 | buy_imbalance=2.1x
+FLC,2017-08-29,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.9
+FLC,2017-08-30,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.6
+FLC,2017-10-23,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.6
+FLC,2017-12-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+FLC,2017-12-14,news_event,CafeF,low,auto_keyword_match: ubcknn
+FLC,2017-12-18,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.1
+FLC,2017-12-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+FLC,2018-01-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+FLC,2018-01-25,news_event,DNSE,low,auto_keyword_match: hose
+FLC,2018-02-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.7x
+FLC,2018-07-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+FLC,2019-10-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.9x
+FLC,2019-10-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.5x
+FLC,2019-10-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+FLC,2019-10-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.5x
+FLC,2019-10-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.5x
+FLC,2019-10-22,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.1
+FLC,2019-10-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+FLC,2019-10-31,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.0x
+FLC,2019-11-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+FLC,2019-11-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.5x
+FLC,2019-12-26,news_event,DNSE,low,auto_keyword_match: hose
+FLC,2020-03-03,news_event,CafeF,low,auto_keyword_match: hose
+FLC,2020-03-09,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+FLC,2020-03-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.4x
+FLC,2020-04-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.2x
+FLC,2020-04-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.6x
+FLC,2020-06-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+FLC,2020-06-26,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+FLC,2020-07-07,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+FLC,2020-07-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+FLC,2020-10-22,news_event,DNSE,low,auto_keyword_match: hnx
+FLC,2020-10-29,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+FLC,2020-11-09,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+FLC,2020-11-10,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.7
+FLC,2020-11-13,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.8
+FLC,2020-11-16,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.5
+FLC,2020-12-25,news_event,DNSE,low,auto_keyword_match: hose
+FLC,2021-01-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.0
+FLC,2021-01-22,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.2
+FLC,2021-01-27,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.9
+FLC,2021-01-28,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.8x
+FLC,2021-01-29,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.9
+FLC,2021-03-17,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.4
+FLC,2021-03-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+FLC,2021-03-22,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.8
+FLC,2021-03-23,news_event,DNSE,low,auto_keyword_match: hose
+FLC,2021-03-24,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.4
+FLC,2021-03-25,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.7 | buy_imbalance=2.1x
+FLC,2021-03-26,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.4
+FLC,2021-03-30,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.8
+FLC,2021-03-31,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.9
+FLC,2021-04-12,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.9
+FLC,2021-04-14,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+FLC,2021-04-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+FLC,2021-04-16,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.1
+FLC,2021-04-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.2
+FLC,2021-04-26,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.1
+FLC,2021-05-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+FLC,2021-06-02,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.6
+FLC,2021-06-17,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.7
+FLC,2021-06-18,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.9
+FLC,2021-06-21,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+FLC,2021-06-22,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+FLC,2021-06-23,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3
+FLC,2021-07-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+FLC,2021-07-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+FLC,2021-09-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+FLC,2021-10-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+FLC,2021-10-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+FLC,2021-11-08,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.0
+FLC,2021-11-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+FLC,2021-11-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.0
+FLC,2021-11-22,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.4
+FLC,2022-01-10,sanction,UBCKNN,high,FLC_001 | source_type=market_manipulation | UBCK xử phạt liên quan thao túng giá cổ phiếu FLC
+FLC,2022-01-11,news_event,Baodautu,low,auto_keyword_match: hose
+FLC,2022-01-12,investigation,auto_extreme,low,auto_detect: sell_imbalance=45.6x
+FLC,2022-01-13,investigation,auto_extreme,low,auto_detect: sell_imbalance=190.0x
+FLC,2022-01-14,investigation,auto_extreme,low,auto_detect: sell_imbalance=465.5x
+FLC,2022-01-17,investigation,auto_extreme,low,auto_detect: sell_imbalance=184.3x
+FLC,2022-01-18,investigation,auto_extreme,low,auto_detect: sell_imbalance=290.6x
+FLC,2022-01-19,news_event,Fireant,low,auto_keyword_match: ubcknn
+FLC,2022-01-20,investigation,auto_extreme,low,auto_detect: sell_imbalance=4.7x
+FLC,2022-01-21,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.2
+FLC,2022-01-23,news_event,Vneconomy,low,auto_keyword_match: xử phạt
+FLC,2022-01-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+FLC,2022-02-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+FLC,2022-02-09,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.2
+FLC,2022-03-28,investigation,auto_extreme,low,auto_detect: sell_imbalance=36.3x
+FLC,2022-03-29,investigation,auto_extreme,low,auto_detect: sell_imbalance=57.3x
+FLC,2022-03-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=216.8x
+FLC,2022-03-31,investigation,auto_extreme,low,auto_detect: sell_imbalance=101.0x
+FLC,2022-04-01,investigation,auto_extreme,low,auto_detect: volume_spike_z=7.1
+FLC,2022-04-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.9x
+FLC,2022-04-06,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3
+FLC,2022-04-10,news_event,DNSE,low,auto_keyword_match: hose
+FLC,2022-04-11,news_event,Vneconomy,low,auto_keyword_match: hose
+FLC,2022-04-12,investigation,auto_extreme,low,auto_detect: sell_imbalance=4.9x
+FLC,2022-04-15,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+FLC,2022-04-18,news_event,Vneconomy,low,auto_keyword_match: hose
+FLC,2022-04-19,news_event,Vneconomy,low,auto_keyword_match: diện cảnh báo
+FLC,2022-04-20,news_event,DNSE,low,auto_keyword_match: diện cảnh báo
+FLC,2022-04-21,investigation,auto_extreme,low,auto_detect: sell_imbalance=18.3x
+FLC,2022-05-04,investigation,auto_extreme,low,auto_detect: sell_imbalance=5.8x
+FLC,2022-05-06,news_event,Vneconomy,low,auto_keyword_match: diện kiểm soát
+FLC,2022-05-12,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+FLC,2022-05-25,news_event,Vneconomy,low,auto_keyword_match: hose
+FLC,2022-05-26,news_event,Fireant,low,auto_keyword_match: diện cảnh báo
+FLC,2022-06-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.1x
+FLC,2022-06-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.3x
+FLC,2022-06-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.6x
+FLC,2022-06-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.0x
+FLC,2022-06-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.1x
+FLC,2022-06-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.6x
+FLC,2022-06-29,news_event,Fireant,low,auto_keyword_match: hose
+FLC,2022-06-30,news_event,Baodautu,low,auto_keyword_match: hose
+FLC,2022-07-04,news_event,Vneconomy,low,"auto_keyword_match: hose, diện cảnh báo"
+FLC,2022-07-11,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+FLC,2022-08-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+FLC,2022-08-03,news_event,DNSE,low,auto_keyword_match: đình chỉ giao dịch
+FLC,2022-08-17,news_event,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+FLC,2022-08-18,news_event,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+FLC,2022-08-19,news_event,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+FLC,2022-08-24,news_event,CafeF,low,"auto_keyword_match: hose, đình chỉ giao dịch"
+FLC,2022-08-26,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+FLC,2022-08-29,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.4x
+FLC,2022-08-30,news_event,Vneconomy,low,auto_keyword_match: upcom
+FLC,2022-09-01,news_event,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+FLC,2022-09-05,warning,HOSE,high,FLC_002 | source_type=trading_restriction | Cổ phiếu FLC bị đình chỉ giao dịch
+FLC,2022-09-06,investigation,auto_extreme,low,auto_detect: sell_imbalance=5.5x
+FLC,2022-09-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+FLC,2022-09-29,news_event,CafeF,low,auto_keyword_match: diện cảnh báo
+FLC,2022-10-18,news_event,CafeF,low,auto_keyword_match: hose
+FLC,2022-11-18,news_event,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+FLC,2022-12-26,news_event,Baodautu,low,auto_keyword_match: xử phạt
+FLC,2023-02-14,news_event,Baodautu,low,auto_keyword_match: hose
+FLC,2023-02-15,warning,HOSE,medium,FLC_003 | source_type=disclosure_violation | FLC bị cảnh báo vi phạm công bố thông tin
+FLC,2023-02-16,news_event,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+FLC,2023-02-17,news_event,DNSE,low,auto_keyword_match: upcom
+FLC,2023-02-19,news_event,CafeF,low,auto_keyword_match: upcom
+FLC,2023-02-20,news_event,DNSE,low,"auto_keyword_match: upcom, hose"
+FLC,2023-02-21,news_event,CafeF,low,auto_keyword_match: upcom
+FLC,2023-02-22,news_event,CafeF,low,auto_keyword_match: upcom
+FLC,2023-02-24,news_event,Baodautu,low,auto_keyword_match: đình chỉ giao dịch
+FLC,2023-02-25,news_event,Vneconomy,low,"auto_keyword_match: upcom, đình chỉ giao dịch"
+FLC,2023-02-28,news_event,Vneconomy,low,auto_keyword_match: upcom
+FLC,2023-03-01,news_event,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+FLC,2023-03-07,news_event,Fireant,low,auto_keyword_match: đình chỉ giao dịch
+FLC,2023-03-08,news_event,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+FLC,2023-04-24,news_event,CafeF,low,"auto_keyword_match: upcom, đình chỉ giao dịch"
+FLC,2023-05-23,news_event,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+FLC,2023-05-24,news_event,CafeF,low,auto_keyword_match: upcom
+FLC,2023-07-11,news_event,CafeF,low,"auto_keyword_match: upcom, diện cảnh báo"
+FLC,2023-07-12,news_event,Vneconomy,low,auto_keyword_match: diện cảnh báo
+FLC,2023-07-16,news_event,Fireant,low,"auto_keyword_match: upcom, đình chỉ giao dịch"
+FLC,2023-10-04,news_event,DNSE,low,auto_keyword_match: xử phạt
+FLC,2023-11-25,news_event,CafeF,low,auto_keyword_match: xử phạt
+FLC,2024-02-25,news_event,CafeF,low,auto_keyword_match: hose
+FLC,2024-02-26,news_event,Fireant,low,auto_keyword_match: hose
+FLC,2024-11-27,news_event,CafeF,low,auto_keyword_match: xử phạt
+FLC,2025-12-27,news_event,Vneconomy,low,auto_keyword_match: upcom
+FPT,2016-03-09,news_event,CafeF,low,auto_keyword_match: tự doanh
+FPT,2016-10-31,news_event,CafeF,low,auto_keyword_match: hose
+FPT,2016-11-24,news_event,CafeF,low,auto_keyword_match: hose
+FPT,2016-12-09,news_event,DNSE,low,auto_keyword_match: upcom
+FPT,2016-12-20,news_event,CafeF,low,auto_keyword_match: upcom
+FPT,2016-12-21,news_event,CafeF,low,auto_keyword_match: upcom
+FPT,2016-12-30,news_event,CafeF,low,auto_keyword_match: upcom
+FPT,2016-12-31,news_event,Vneconomy,low,auto_keyword_match: upcom
+FPT,2017-01-06,news_event,CafeF,low,auto_keyword_match: hose
+FPT,2017-01-07,news_event,CafeF,low,auto_keyword_match: hose
+FPT,2017-01-12,news_event,Vneconomy,low,auto_keyword_match: hose
+FPT,2017-01-13,news_event,DNSE,low,auto_keyword_match: upcom
+FPT,2017-02-12,news_event,CafeF,low,auto_keyword_match: làm giá
+FPT,2017-07-05,news_event,DNSE,low,auto_keyword_match: hose
+FPT,2017-09-05,news_event,CafeF,low,auto_keyword_match: hose
+FPT,2017-09-19,news_event,Vneconomy,low,auto_keyword_match: hose
+FPT,2017-10-05,news_event,DNSE,low,auto_keyword_match: hose
+FPT,2018-03-19,news_event,CafeF,low,auto_keyword_match: hose
+FPT,2018-03-21,news_event,Baodautu,low,auto_keyword_match: hose
+FPT,2018-04-10,news_event,Baodautu,low,"auto_keyword_match: hnx, hose"
+FPT,2018-04-18,news_event,Vneconomy,low,auto_keyword_match: hose
+FPT,2018-04-26,news_event,Baodautu,low,auto_keyword_match: hose
+FPT,2018-12-05,news_event,Vneconomy,low,auto_keyword_match: upcom
+FPT,2019-04-03,news_event,DNSE,low,auto_keyword_match: hose
+FPT,2020-08-28,news_event,Baodautu,low,auto_keyword_match: xả hàng
+FPT,2020-08-31,news_event,Baodautu,low,auto_keyword_match: hose
+FPT,2021-03-09,news_event,CafeF,low,auto_keyword_match: hose
+FPT,2021-03-10,news_event,Vneconomy,low,auto_keyword_match: hose
+FPT,2021-03-19,news_event,DNSE,low,auto_keyword_match: hose
+FPT,2021-03-30,news_event,CafeF,low,auto_keyword_match: hose
+FPT,2021-04-08,news_event,CafeF,low,auto_keyword_match: hose
+FPT,2021-04-12,news_event,CafeF,low,auto_keyword_match: hose
+FPT,2021-06-01,news_event,CafeF,low,"auto_keyword_match: tạm ngừng giao dịch, hose"
+FPT,2021-06-09,news_event,CafeF,low,auto_keyword_match: hose
+FPT,2021-06-14,news_event,DNSE,low,auto_keyword_match: hose
+FPT,2021-07-02,news_event,CafeF,low,auto_keyword_match: hose
+FPT,2021-10-15,news_event,CafeF,low,auto_keyword_match: hose
+FPT,2022-10-05,news_event,CafeF,low,auto_keyword_match: hose
+FPT,2023-04-18,news_event,CafeF,low,auto_keyword_match: xử phạt
+FPT,2023-05-28,news_event,Fireant,low,auto_keyword_match: hose
+FPT,2023-07-13,news_event,CafeF,low,auto_keyword_match: tự doanh
+FPT,2023-08-16,news_event,CafeF,low,auto_keyword_match: tự doanh
+FPT,2024-02-28,news_event,CafeF,low,auto_keyword_match: hose
+FPT,2024-03-06,news_event,DNSE,low,auto_keyword_match: hose
+FPT,2024-06-18,news_event,CafeF,low,auto_keyword_match: xả hàng
+FPT,2024-06-24,news_event,CafeF,low,auto_keyword_match: xả hàng
+FPT,2024-06-26,news_event,CafeF,low,auto_keyword_match: tự doanh
+FPT,2024-07-03,news_event,CafeF,low,auto_keyword_match: tự doanh
+FPT,2024-07-10,news_event,CafeF,low,auto_keyword_match: tự doanh
+FPT,2024-11-22,news_event,Fireant,low,auto_keyword_match: xả hàng
+FPT,2025-02-03,news_event,CafeF,low,auto_keyword_match: tự doanh
+FPT,2025-03-19,news_event,CafeF,low,auto_keyword_match: tự doanh
+FPT,2025-03-20,news_event,CafeF,low,auto_keyword_match: tự doanh
+FPT,2025-03-31,news_event,CafeF,low,auto_keyword_match: tự doanh
+FPT,2025-04-30,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+FPT,2025-06-29,news_event,Fireant,low,auto_keyword_match: hose
+FPT,2025-07-01,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+FPT,2025-07-18,news_event,CafeF,low,auto_keyword_match: tự doanh
+FPT,2025-08-11,news_event,CafeF,low,auto_keyword_match: hose
+FPT,2025-10-21,news_event,CafeF,low,auto_keyword_match: tự doanh
+FRT,2017-09-08,news_event,DNSE,low,auto_keyword_match: hose
+FRT,2018-04-27,news_event,DNSE,low,auto_keyword_match: hose
+FRT,2020-04-25,news_event,CafeF,low,auto_keyword_match: xả hàng
+FRT,2022-07-06,news_event,Fireant,low,auto_keyword_match: hose
+FRT,2023-10-04,news_event,CafeF,low,auto_keyword_match: hose
+FRT,2024-03-11,news_event,CafeF,low,auto_keyword_match: hose
+FRT,2024-05-09,news_event,Fireant,low,auto_keyword_match: hose
+FRT,2024-05-11,news_event,CafeF,low,auto_keyword_match: hose
+FRT,2024-06-10,news_event,Fireant,low,auto_keyword_match: hose
+FRT,2024-06-20,news_event,CafeF,low,auto_keyword_match: hose
+FRT,2024-06-26,news_event,CafeF,low,auto_keyword_match: hose
+FRT,2024-07-03,news_event,CafeF,low,auto_keyword_match: hose
+FRT,2024-08-15,news_event,CafeF,low,auto_keyword_match: hose
+GAB,2019-08-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.6x
+GAB,2019-08-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.9x
+GAB,2019-08-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.7x
+GAB,2019-08-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+GAB,2019-08-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+GAB,2019-09-12,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+GAB,2019-10-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.6x
+GAB,2019-10-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.3x
+GAB,2019-11-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.0x
+GAB,2019-11-22,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+GAB,2019-11-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.5x
+GAB,2019-11-28,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+GAB,2019-12-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+GAB,2019-12-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.1x
+GAB,2019-12-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.2x
+GAB,2019-12-31,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+GAB,2020-01-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.8x
+GAB,2020-01-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+GAB,2020-01-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.3x
+GAB,2020-01-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.6x
+GAB,2020-01-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.9x
+GAB,2020-01-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.8x
+GAB,2020-01-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=20.8x
+GAB,2020-01-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=25.3x
+GAB,2020-01-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.0x
+GAB,2020-01-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+GAB,2020-01-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.0x
+GAB,2020-01-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=22.9x
+GAB,2020-01-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=61.4x
+GAB,2020-01-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=31.0x
+GAB,2020-01-31,investigation,auto_extreme,low,auto_detect: buy_imbalance=16.1x
+GAB,2020-02-03,news_event,DNSE,low,auto_keyword_match: tự doanh
+GAB,2020-02-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.4x
+GAB,2020-02-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.2x
+GAB,2020-02-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.7x
+GAB,2020-02-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=37.6x
+GAB,2020-02-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+GAB,2020-02-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+GAB,2020-02-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+GAB,2020-02-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.5x
+GAB,2020-02-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+GAB,2020-02-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.4x
+GAB,2020-02-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.6x
+GAB,2020-03-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.5x
+GAB,2020-03-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.8x
+GAB,2020-03-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+GAB,2020-03-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.6x
+GAB,2020-03-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.7x
+GAB,2020-03-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.1x
+GAB,2020-03-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.1x
+GAB,2020-03-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.6x
+GAB,2020-03-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+GAB,2020-03-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+GAB,2020-03-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+GAB,2020-03-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.1x
+GAB,2020-03-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+GAB,2020-03-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+GAB,2020-03-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+GAB,2020-03-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.2x
+GAB,2020-03-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.7x
+GAB,2020-03-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.7x
+GAB,2020-03-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.7x
+GAB,2020-03-31,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.9x
+GAB,2020-04-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.6x
+GAB,2020-04-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=16.8x
+GAB,2020-04-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.6x
+GAB,2020-04-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=14.4x
+GAB,2020-04-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.8x
+GAB,2020-04-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.6x
+GAB,2020-04-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.0x
+GAB,2020-04-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.9x
+GAB,2020-04-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.4x
+GAB,2020-04-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.0x
+GAB,2020-04-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.6x
+GAB,2020-04-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.4x
+GAB,2020-04-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.6x
+GAB,2020-04-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.2x
+GAB,2020-04-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.7x
+GAB,2020-04-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.1x
+GAB,2020-04-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.7x
+GAB,2020-04-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.1x
+GAB,2020-04-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.9x
+GAB,2020-04-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.9x
+GAB,2020-05-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.0x
+GAB,2020-05-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.3x
+GAB,2020-05-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.5x
+GAB,2020-05-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.1x
+GAB,2020-05-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.8x
+GAB,2020-05-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.9x
+GAB,2020-05-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.9x
+GAB,2020-05-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.9x
+GAB,2020-05-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.1x
+GAB,2020-05-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.8x
+GAB,2020-05-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.7x
+GAB,2020-05-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.8x
+GAB,2020-05-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.6x
+GAB,2020-05-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+GAB,2020-05-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.5x
+GAB,2020-05-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+GAB,2020-05-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.7x
+GAB,2020-05-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.7x
+GAB,2020-05-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.6x
+GAB,2020-06-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.3x
+GAB,2020-06-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.3x
+GAB,2020-06-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.5x
+GAB,2020-06-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+GAB,2020-06-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+GAB,2020-06-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.0x
+GAB,2020-06-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.2x
+GAB,2020-06-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.1x
+GAB,2020-06-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.6x
+GAB,2020-06-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.4x
+GAB,2020-06-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.1x
+GAB,2020-06-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+GAB,2020-06-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.5x
+GAB,2020-06-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.1x
+GAB,2020-06-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.2x
+GAB,2020-06-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.7x
+GAB,2020-06-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+GAB,2020-06-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.7x
+GAB,2020-06-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.8x
+GAB,2020-06-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.1x
+GAB,2020-06-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.9x
+GAB,2020-07-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.4x
+GAB,2020-07-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.9x
+GAB,2020-07-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.2x
+GAB,2020-07-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.6x
+GAB,2020-07-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.0x
+GAB,2020-07-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.3x
+GAB,2020-07-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.7x
+GAB,2020-07-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.9x
+GAB,2020-07-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.9x
+GAB,2020-07-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.7x
+GAB,2020-07-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.5x
+GAB,2020-07-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.7x
+GAB,2020-07-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.0x
+GAB,2020-07-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.2x
+GAB,2020-07-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.6x
+GAB,2020-07-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.6x
+GAB,2020-07-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.5x
+GAB,2020-07-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.4x
+GAB,2020-07-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+GAB,2020-07-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.8x
+GAB,2020-07-31,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.5x
+GAB,2020-08-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.5x
+GAB,2020-08-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.8x
+GAB,2020-08-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+GAB,2020-08-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+GAB,2020-08-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.4x
+GAB,2020-08-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.6x
+GAB,2020-08-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+GAB,2020-08-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.7x
+GAB,2020-08-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+GAB,2020-08-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.5x
+GAB,2020-08-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.9x
+GAB,2020-08-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.6x
+GAB,2020-08-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+GAB,2020-08-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.9x
+GAB,2020-08-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+GAB,2020-08-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.2x
+GAB,2020-08-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.2x
+GAB,2020-08-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.7x
+GAB,2020-08-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.0x
+GAB,2020-08-31,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.9x
+GAB,2020-09-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.5x
+GAB,2020-09-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.4x
+GAB,2020-09-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.8x
+GAB,2020-09-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.5x
+GAB,2020-09-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.8x
+GAB,2020-09-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.9x
+GAB,2020-09-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.2x
+GAB,2020-09-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.0x
+GAB,2020-09-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.7x
+GAB,2020-09-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.9x
+GAB,2020-09-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.2x
+GAB,2020-09-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+GAB,2020-09-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.9x
+GAB,2020-09-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.8x
+GAB,2020-09-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+GAB,2020-09-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.8x
+GAB,2020-09-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+GAB,2020-09-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.8x
+GAB,2020-09-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+GAB,2020-10-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.0x
+GAB,2020-10-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.1x
+GAB,2020-10-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.1x
+GAB,2020-10-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.7x
+GAB,2020-10-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.6x
+GAB,2020-10-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.9x
+GAB,2020-10-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.3x
+GAB,2020-10-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.2x
+GAB,2020-10-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.0x
+GAB,2020-10-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.6x
+GAB,2020-10-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+GAB,2020-10-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+GAB,2020-11-04,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.0
+GAB,2020-11-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.2x
+GAB,2020-11-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.2x
+GAB,2020-11-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.7x
+GAB,2020-11-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.4x
+GAB,2020-11-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.9x
+GAB,2020-11-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.7x
+GAB,2020-11-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.8x
+GAB,2020-11-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.8x
+GAB,2020-11-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.3x
+GAB,2020-11-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.5x
+GAB,2020-11-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.0x
+GAB,2020-11-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.0x
+GAB,2020-11-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.0x
+GAB,2020-12-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.9x
+GAB,2020-12-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=16.0x
+GAB,2020-12-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.7x
+GAB,2020-12-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.1x
+GAB,2020-12-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.9x
+GAB,2020-12-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.2x
+GAB,2020-12-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.4x
+GAB,2020-12-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.2x
+GAB,2020-12-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.5x
+GAB,2020-12-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.8x
+GAB,2020-12-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.3x
+GAB,2020-12-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.5x
+GAB,2020-12-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.4x
+GAB,2020-12-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.9x
+GAB,2020-12-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.1x
+GAB,2020-12-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.3x
+GAB,2020-12-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.4x
+GAB,2020-12-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.3x
+GAB,2020-12-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.4x
+GAB,2021-01-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+GAB,2021-01-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.3x
+GAB,2021-01-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.1x
+GAB,2021-01-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.7x
+GAB,2021-01-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.5x
+GAB,2021-01-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.3x
+GAB,2021-01-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=17.7x
+GAB,2021-01-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.9x
+GAB,2021-01-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.0x
+GAB,2021-01-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.8x
+GAB,2021-01-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.8x
+GAB,2021-01-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=17.2x
+GAB,2021-01-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=14.7x
+GAB,2021-01-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.6x
+GAB,2021-01-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.5x
+GAB,2021-01-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=19.0x
+GAB,2021-01-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.6x
+GAB,2021-01-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=21.7x
+GAB,2021-01-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.2x
+GAB,2021-02-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=14.5x
+GAB,2021-02-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=27.9x
+GAB,2021-02-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.8x
+GAB,2021-02-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=14.3x
+GAB,2021-02-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.2x
+GAB,2021-02-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.4x
+GAB,2021-02-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.7x
+GAB,2021-02-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=21.7x
+GAB,2021-02-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=31.2x
+GAB,2021-02-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=19.5x
+GAB,2021-02-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.2x
+GAB,2021-02-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=17.0x
+GAB,2021-02-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=20.5x
+GAB,2021-02-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.3x
+GAB,2021-02-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.7x
+GAB,2021-03-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.7x
+GAB,2021-03-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.5x
+GAB,2021-03-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=27.7x
+GAB,2021-03-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.5x
+GAB,2021-03-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=30.3x
+GAB,2021-03-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=23.2x
+GAB,2021-03-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.0x
+GAB,2021-03-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=40.9x
+GAB,2021-03-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=27.5x
+GAB,2021-03-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=21.6x
+GAB,2021-03-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=21.8x
+GAB,2021-03-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.5x
+GAB,2021-03-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=20.3x
+GAB,2021-03-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.4x
+GAB,2021-03-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=25.2x
+GAB,2021-03-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.8x
+GAB,2021-03-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.9x
+GAB,2021-03-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=16.5x
+GAB,2021-03-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.1x
+GAB,2021-03-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=18.4x
+GAB,2021-03-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.0x
+GAB,2021-03-31,investigation,auto_extreme,low,auto_detect: buy_imbalance=21.2x
+GAB,2021-04-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=30.0x
+GAB,2021-04-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=22.0x
+GAB,2021-04-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=36.7x
+GAB,2021-04-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=19.4x
+GAB,2021-04-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=31.6x
+GAB,2021-04-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=18.3x
+GAB,2021-04-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=21.0x
+GAB,2021-04-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.4x
+GAB,2021-04-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=29.7x
+GAB,2021-04-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.5x
+GAB,2021-04-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=27.3x
+GAB,2021-04-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=20.2x
+GAB,2021-04-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=22.3x
+GAB,2021-04-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=30.1x
+GAB,2021-04-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=23.4x
+GAB,2021-04-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=25.6x
+GAB,2021-04-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.6x
+GAB,2021-04-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.5x
+GAB,2021-04-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.9x
+GAB,2021-04-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.0x
+GAB,2021-05-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.4x
+GAB,2021-05-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.9x
+GAB,2021-05-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.8x
+GAB,2021-05-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=32.3x
+GAB,2021-05-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.0x
+GAB,2021-05-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=16.2x
+GAB,2021-05-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.9x
+GAB,2021-05-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.8x
+GAB,2021-05-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.9x
+GAB,2021-05-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.4x
+GAB,2021-05-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.4x
+GAB,2021-05-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.0x
+GAB,2021-05-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.3x
+GAB,2021-05-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.7x
+GAB,2021-05-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.0x
+GAB,2021-05-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.9x
+GAB,2021-05-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.1x
+GAB,2021-05-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.7x
+GAB,2021-05-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.9x
+GAB,2021-05-31,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.2x
+GAB,2021-06-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=14.1x
+GAB,2021-06-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.1x
+GAB,2021-06-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.0x
+GAB,2021-06-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.1x
+GAB,2021-06-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.5x
+GAB,2021-06-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.0x
+GAB,2021-06-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.4x
+GAB,2021-06-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=19.3x
+GAB,2021-06-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.6x
+GAB,2021-06-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.8x
+GAB,2021-06-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.0x
+GAB,2021-06-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.2x
+GAB,2021-06-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.1x
+GAB,2021-06-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.5x
+GAB,2021-06-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.6x
+GAB,2021-06-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.9x
+GAB,2021-06-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.1x
+GAB,2021-06-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.2x
+GAB,2021-06-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=17.9x
+GAB,2021-06-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.4x
+GAB,2021-07-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.3x
+GAB,2021-07-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.4x
+GAB,2021-07-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.7x
+GAB,2021-07-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.8x
+GAB,2021-07-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.0x
+GAB,2021-07-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.4x
+GAB,2021-07-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.0x
+GAB,2021-07-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.8x
+GAB,2021-07-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.6x
+GAB,2021-07-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.0x
+GAB,2021-07-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.9x
+GAB,2021-07-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=19.7x
+GAB,2021-07-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.2x
+GAB,2021-07-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.1x
+GAB,2021-07-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.8x
+GAB,2021-07-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.4x
+GAB,2021-07-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.9x
+GAB,2021-07-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.3x
+GAB,2021-07-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=16.1x
+GAB,2021-08-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=14.4x
+GAB,2021-08-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.5x
+GAB,2021-08-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.5x
+GAB,2021-08-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=19.0x
+GAB,2021-08-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=14.1x
+GAB,2021-08-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.0x
+GAB,2021-08-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.9x
+GAB,2021-08-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.2x
+GAB,2021-08-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.4x
+GAB,2021-08-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=17.5x
+GAB,2021-08-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=23.6x
+GAB,2021-08-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.8x
+GAB,2021-08-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.5x
+GAB,2021-08-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.5x
+GAB,2021-08-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.8x
+GAB,2021-08-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.0x
+GAB,2021-08-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.6x
+GAB,2021-08-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.0x
+GAB,2021-08-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=19.7x
+GAB,2021-08-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.0x
+GAB,2021-08-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.4x
+GAB,2021-08-31,investigation,auto_extreme,low,auto_detect: buy_imbalance=21.7x
+GAB,2021-09-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.5x
+GAB,2021-09-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.5x
+GAB,2021-09-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=32.5x
+GAB,2021-09-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.3x
+GAB,2021-09-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.2x
+GAB,2021-09-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.7x
+GAB,2021-09-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=28.7x
+GAB,2021-09-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.8x
+GAB,2021-09-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+GAB,2021-09-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=19.2x
+GAB,2021-09-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.7x
+GAB,2021-09-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.6x
+GAB,2021-09-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=51.9x
+GAB,2021-09-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.3x
+GAB,2021-09-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=16.9x
+GAB,2021-09-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.5x
+GAB,2021-09-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.3x
+GAB,2021-09-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.4x
+GAB,2021-09-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.6x
+GAB,2021-09-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.5x
+GAB,2021-10-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=18.4x
+GAB,2021-10-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.5x
+GAB,2021-10-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=19.8x
+GAB,2021-10-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=14.8x
+GAB,2021-10-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=26.6x
+GAB,2021-10-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=16.7x
+GAB,2021-10-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=23.9x
+GAB,2021-10-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=16.4x
+GAB,2021-10-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.5x
+GAB,2021-10-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=18.9x
+GAB,2021-10-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=19.3x
+GAB,2021-10-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.8x
+GAB,2021-10-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=20.9x
+GAB,2021-10-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=20.7x
+GAB,2021-10-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=23.5x
+GAB,2021-10-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=24.8x
+GAB,2021-10-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=24.7x
+GAB,2021-10-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=19.4x
+GAB,2021-10-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=18.1x
+GAB,2021-10-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=20.3x
+GAB,2021-11-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.1x
+GAB,2021-11-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.0x
+GAB,2021-11-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=22.7x
+GAB,2021-11-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=24.7x
+GAB,2021-11-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=14.5x
+GAB,2021-11-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=20.5x
+GAB,2021-11-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.7x
+GAB,2021-11-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=21.1x
+GAB,2021-11-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.2x
+GAB,2021-11-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=18.4x
+GAB,2021-11-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.7x
+GAB,2021-11-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.3x
+GAB,2021-11-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.7x
+GAB,2021-11-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=16.4x
+GAB,2021-11-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=20.0x
+GAB,2021-11-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=17.6x
+GAB,2021-11-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=19.1x
+GAB,2021-11-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=16.0x
+GAB,2021-11-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=16.4x
+GAB,2021-11-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=17.6x
+GAB,2021-11-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.8x
+GAB,2021-12-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=19.3x
+GAB,2021-12-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=19.6x
+GAB,2021-12-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.4x
+GAB,2021-12-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.5x
+GAB,2021-12-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=18.9x
+GAB,2021-12-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.1x
+GAB,2021-12-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.6x
+GAB,2021-12-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.5x
+GAB,2021-12-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=21.3x
+GAB,2021-12-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=20.2x
+GAB,2021-12-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.6x
+GAB,2021-12-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=19.3x
+GAB,2021-12-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.7x
+GAB,2021-12-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=22.7x
+GAB,2021-12-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=23.8x
+GAB,2021-12-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.2x
+GAB,2021-12-23,investigation,auto_extreme,low,auto_detect: sell_imbalance=17.3x
+GAB,2021-12-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.0x
+GAB,2021-12-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=19.0x
+GAB,2021-12-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=14.7x
+GAB,2021-12-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=17.9x
+GAB,2021-12-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=28.8x
+GAB,2021-12-31,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.4x
+GAB,2022-01-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=14.3x
+GAB,2022-01-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=26.9x
+GAB,2022-01-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.2x
+GAB,2022-01-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=18.6x
+GAB,2022-01-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=18.0x
+GAB,2022-01-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.8x
+GAB,2022-01-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.9x
+GAB,2022-01-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=15.5x
+GAB,2022-01-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=132.4x
+GAB,2022-01-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.9x
+GAB,2022-01-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.9x
+GAB,2022-01-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.1x
+GAB,2022-01-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.4x
+GAB,2022-01-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=14.8x
+GAB,2022-01-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=27.8x
+GAB,2022-01-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=36.8x
+GAB,2022-01-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.0x
+GAB,2022-01-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.5x
+GAB,2022-02-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.7x
+GAB,2022-02-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.7x
+GAB,2022-02-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.5x
+GAB,2022-02-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.8x
+GAB,2022-02-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.2x
+GAB,2022-02-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.2x
+GAB,2022-02-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.3x
+GAB,2022-02-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.7x
+GAB,2022-02-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.9x
+GAB,2022-02-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.2x
+GAB,2022-02-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.8x
+GAB,2022-02-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.6x
+GAB,2022-02-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.0x
+GAB,2022-02-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.5x
+GAB,2022-02-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.0x
+GAB,2022-02-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.1x
+GAB,2022-03-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.2x
+GAB,2022-03-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.6x
+GAB,2022-03-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.2x
+GAB,2022-03-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.8x
+GAB,2022-03-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.3x
+GAB,2022-03-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.8x
+GAB,2022-03-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=10.2x
+GAB,2022-03-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.7x
+GAB,2022-03-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=6.1x
+GAB,2022-03-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.8x
+GAB,2022-03-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.8x
+GAB,2022-03-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.7x
+GAB,2022-03-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.3x
+GAB,2022-03-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.4x
+GAB,2022-03-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.0x
+GAB,2022-03-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.1x
+GAB,2022-03-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.0x
+GAB,2022-03-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.8x
+GAB,2022-03-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=200000000001.0x
+GAB,2022-03-31,investigation,auto_extreme,low,auto_detect: buy_imbalance=100000000001.0x
+GAB,2022-04-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=63.0x
+GAB,2022-04-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=100000000001.0x
+GAB,2022-04-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=100000000001.0x
+GAB,2022-04-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=100000000001.0x
+GAB,2022-05-20,investigation,auto_extreme,low,auto_detect: sell_imbalance=600000000001.0x
+GAB,2022-06-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=100000000001.0x
+GAB,2022-08-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=100000000001.0x
+GAB,2022-09-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=200000000001.0x
+GAB,2022-09-21,news_event,DNSE,low,auto_keyword_match: diện cảnh báo
+GAB,2022-11-10,warning,HOSE,medium,GAB_001 | source_type=abnormal_trading | GAB bị cảnh báo bất thường
+GAB,2022-11-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=100000000001.0x
+GAB,2022-12-28,news_event,Vneconomy,low,auto_keyword_match: diện kiểm soát
+GAB,2023-01-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=100000000001.0x
+GAB,2023-01-19,investigation,auto_extreme,low,auto_detect: sell_imbalance=100000000001.0x
+GAB,2023-02-17,news_event,Vneconomy,low,auto_keyword_match: đình chỉ giao dịch
+GAB,2023-04-01,warning,HOSE,medium,GAB_002 | source_type=disclosure_violation | GAB vi phạm công bố thông tin
+GAB,2023-07-17,news_event,Vneconomy,low,"auto_keyword_match: upcom, đình chỉ giao dịch"
+GAB,2024-11-27,news_event,CafeF,low,auto_keyword_match: xử phạt
+GAS,2016-02-29,news_event,CafeF,low,auto_keyword_match: hose
+GAS,2018-01-31,news_event,Baodautu,low,auto_keyword_match: xả hàng
+GAS,2018-02-05,news_event,CafeF,low,auto_keyword_match: đẩy giá
+GAS,2022-07-23,news_event,Fireant,low,auto_keyword_match: tự doanh
+GAS,2025-07-08,news_event,DNSE,low,auto_keyword_match: upcom
+GAS,2025-07-27,news_event,Fireant,low,auto_keyword_match: hose
+GVR,2019-05-31,news_event,DNSE,low,auto_keyword_match: hose
+GVR,2020-01-03,news_event,DNSE,low,auto_keyword_match: hose
+GVR,2020-03-04,news_event,DNSE,low,auto_keyword_match: upcom
+GVR,2020-03-10,news_event,DNSE,low,auto_keyword_match: hose
+GVR,2020-03-17,news_event,DNSE,low,auto_keyword_match: hose
+HAI,2015-11-10,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.6x
+HAI,2015-11-17,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.7
+HAI,2015-12-09,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+HAI,2015-12-10,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+HAI,2016-01-04,news_event,Vneconomy,low,"auto_keyword_match: xử phạt, ủy ban chứng khoán"
+HAI,2016-01-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+HAI,2016-01-25,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.3x
+HAI,2016-02-29,news_event,CafeF,low,"auto_keyword_match: hnx, hose"
+HAI,2016-03-02,news_event,CafeF,low,auto_keyword_match: hnx
+HAI,2016-03-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.5x
+HAI,2016-03-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.2x
+HAI,2016-03-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.7x
+HAI,2016-03-31,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.2
+HAI,2016-04-01,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+HAI,2016-04-05,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.8
+HAI,2016-04-08,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.0
+HAI,2016-05-09,news_event,CafeF,low,auto_keyword_match: xử phạt
+HAI,2016-05-27,news_event,DNSE,low,auto_keyword_match: ủy ban chứng khoán
+HAI,2016-06-15,news_event,DNSE,low,auto_keyword_match: upcom
+HAI,2016-06-17,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+HAI,2016-08-22,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+HAI,2016-08-25,news_event,DNSE,low,auto_keyword_match: hose
+HAI,2016-08-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+HAI,2016-08-31,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+HAI,2016-09-01,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+HAI,2016-09-12,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.7x
+HAI,2016-09-13,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.7x
+HAI,2016-09-14,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.6x
+HAI,2016-09-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+HAI,2016-10-17,news_event,Baodautu,low,auto_keyword_match: upcom
+HAI,2016-10-25,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+HAI,2016-11-25,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.8x
+HAI,2016-12-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+HAI,2016-12-06,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+HAI,2016-12-13,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+HAI,2016-12-21,news_event,Vneconomy,low,auto_keyword_match: hnx
+HAI,2016-12-22,news_event,CafeF,low,auto_keyword_match: ubcknn
+HAI,2016-12-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+HAI,2017-01-13,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.1x
+HAI,2017-01-19,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+HAI,2017-02-08,news_event,DNSE,low,auto_keyword_match: hose
+HAI,2017-02-13,news_event,Baodautu,low,auto_keyword_match: xử phạt
+HAI,2017-03-01,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+HAI,2017-03-08,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.7x
+HAI,2017-03-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+HAI,2017-04-26,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.5x
+HAI,2017-05-12,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+HAI,2017-05-15,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.2x
+HAI,2017-05-16,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+HAI,2017-05-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.5x
+HAI,2017-06-13,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+HAI,2017-06-20,news_event,Baodautu,low,auto_keyword_match: hnx
+HAI,2017-06-28,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.7
+HAI,2017-07-03,news_event,DNSE,low,auto_keyword_match: hnx
+HAI,2017-07-04,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.9
+HAI,2017-07-05,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.6
+HAI,2017-07-06,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.4
+HAI,2017-07-07,investigation,auto_extreme,low,auto_detect: volume_spike_z=7.1
+HAI,2017-07-13,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.6
+HAI,2017-07-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+HAI,2017-07-19,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.6x
+HAI,2017-07-25,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.9
+HAI,2017-07-28,news_event,DNSE,low,auto_keyword_match: hnx
+HAI,2017-07-31,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.0x
+HAI,2017-08-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.5x
+HAI,2017-08-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=12.9x
+HAI,2017-08-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=52.8x
+HAI,2017-08-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.6x
+HAI,2017-08-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.2x
+HAI,2017-08-08,news_event,CafeF,low,auto_keyword_match: ubcknn
+HAI,2017-08-09,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.3
+HAI,2017-08-10,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.0 | sell_imbalance=3.7x
+HAI,2017-08-11,investigation,auto_extreme,low,auto_detect: sell_imbalance=1217.6x
+HAI,2017-08-14,investigation,auto_extreme,low,auto_detect: sell_imbalance=761.8x
+HAI,2017-08-15,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.0 | sell_imbalance=2.6x
+HAI,2017-08-16,investigation,auto_extreme,low,auto_detect: sell_imbalance=4.2x
+HAI,2017-08-17,investigation,auto_extreme,low,auto_detect: sell_imbalance=558.2x
+HAI,2017-08-18,investigation,auto_extreme,low,auto_detect: volume_spike_z=10.0 | buy_imbalance=2.6x
+HAI,2017-08-21,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.8 | buy_imbalance=2.8x
+HAI,2017-08-23,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.7
+HAI,2017-08-24,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+HAI,2017-08-25,investigation,auto_extreme,low,auto_detect: volume_spike_z=6.9
+HAI,2017-08-29,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+HAI,2017-08-30,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.0
+HAI,2017-08-31,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+HAI,2017-09-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.6x
+HAI,2017-09-04,news_event,DNSE,low,auto_keyword_match: hnx
+HAI,2017-09-07,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+HAI,2017-09-19,news_event,CafeF,low,auto_keyword_match: upcom
+HAI,2017-09-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+HAI,2017-10-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.4x
+HAI,2017-10-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.3x
+HAI,2017-10-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.9x
+HAI,2017-10-09,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.0x
+HAI,2017-10-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.7x
+HAI,2017-10-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.3x
+HAI,2017-10-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=8.3x
+HAI,2017-10-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.7x
+HAI,2017-10-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.6x
+HAI,2017-10-17,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+HAI,2017-10-18,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3 | sell_imbalance=2.9x
+HAI,2017-10-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.0 | buy_imbalance=2.5x
+HAI,2017-10-23,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+HAI,2017-10-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.9x
+HAI,2017-10-30,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.5x
+HAI,2017-10-31,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+HAI,2017-11-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+HAI,2017-11-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+HAI,2017-11-10,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.5x
+HAI,2017-11-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.0x
+HAI,2017-11-28,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.8x
+HAI,2017-12-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.7x
+HAI,2017-12-08,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+HAI,2017-12-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.2x
+HAI,2017-12-26,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+HAI,2017-12-28,news_event,Vneconomy,low,auto_keyword_match: xử phạt
+HAI,2018-01-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.0x
+HAI,2018-01-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.1x
+HAI,2018-01-17,investigation,auto_extreme,low,auto_detect: volume_spike_z=8.1
+HAI,2018-01-18,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3
+HAI,2018-01-19,news_event,CafeF,low,auto_keyword_match: đẩy giá
+HAI,2018-01-25,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.5
+HAI,2018-02-06,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.6x
+HAI,2018-02-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.3x
+HAI,2018-03-07,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+HAI,2018-03-28,news_event,DNSE,low,auto_keyword_match: hnx
+HAI,2018-04-19,news_event,Vneconomy,low,auto_keyword_match: hose
+HAI,2018-04-21,news_event,Baodautu,low,auto_keyword_match: upcom
+HAI,2018-06-01,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.7x
+HAI,2018-06-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=13.0x
+HAI,2018-06-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+HAI,2018-06-20,news_event,DNSE,low,auto_keyword_match: hose
+HAI,2018-07-26,news_event,Baodautu,low,auto_keyword_match: tự doanh
+HAI,2018-10-31,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+HAI,2018-11-09,news_event,DNSE,low,auto_keyword_match: diện kiểm soát
+HAI,2018-11-12,news_event,Vneconomy,low,auto_keyword_match: hose
+HAI,2018-11-16,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.5x
+HAI,2018-11-20,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+HAI,2018-11-22,news_event,Vneconomy,low,auto_keyword_match: hose
+HAI,2018-11-23,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.7x
+HAI,2018-12-12,investigation,auto_extreme,low,auto_detect: sell_imbalance=4.3x
+HAI,2018-12-13,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+HAI,2018-12-14,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.5x
+HAI,2018-12-17,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.6x
+HAI,2018-12-24,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.9x
+HAI,2018-12-25,news_event,Vneconomy,low,auto_keyword_match: hose
+HAI,2018-12-26,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.6x
+HAI,2019-01-03,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.8x
+HAI,2019-01-31,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+HAI,2019-02-11,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.8x
+HAI,2019-02-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.8x
+HAI,2019-02-18,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+HAI,2019-02-21,news_event,CafeF,low,auto_keyword_match: ubcknn
+HAI,2019-02-25,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.9x
+HAI,2019-03-08,news_event,CafeF,low,auto_keyword_match: hnx
+HAI,2019-04-02,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+HAI,2019-04-08,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+HAI,2019-04-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+HAI,2019-04-17,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+HAI,2019-04-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+HAI,2019-04-27,news_event,DNSE,low,auto_keyword_match: hnx
+HAI,2019-05-07,news_event,Vneconomy,low,auto_keyword_match: hose
+HAI,2019-05-10,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+HAI,2019-05-14,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+HAI,2019-05-29,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.2x
+HAI,2019-05-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+HAI,2019-06-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.6x
+HAI,2019-06-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=11.5x
+HAI,2019-06-24,news_event,DNSE,low,auto_keyword_match: upcom
+HAI,2019-07-05,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+HAI,2019-07-17,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+HAI,2019-07-26,news_event,DNSE,low,auto_keyword_match: hose
+HAI,2019-08-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+HAI,2019-09-11,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+HAI,2019-09-18,news_event,Vneconomy,low,auto_keyword_match: diện cảnh báo
+HAI,2019-09-22,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2019-10-09,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+HAI,2019-10-14,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.5x
+HAI,2019-10-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+HAI,2019-10-23,news_event,Baodautu,low,auto_keyword_match: xử phạt
+HAI,2019-10-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.6x
+HAI,2019-11-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+HAI,2019-11-14,news_event,CafeF,low,auto_keyword_match: hose
+HAI,2019-11-15,investigation,auto_extreme,low,auto_detect: volume_spike_z=6.0
+HAI,2019-12-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+HAI,2019-12-13,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.0
+HAI,2019-12-17,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.2
+HAI,2019-12-18,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.6x
+HAI,2019-12-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.6 | sell_imbalance=2.4x
+HAI,2019-12-26,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+HAI,2019-12-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.3x
+HAI,2020-01-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.6x
+HAI,2020-01-13,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+HAI,2020-01-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+HAI,2020-02-10,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.0x
+HAI,2020-03-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+HAI,2020-03-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.8x
+HAI,2020-03-05,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.8
+HAI,2020-03-09,investigation,auto_extreme,low,auto_detect: sell_imbalance=14.6x
+HAI,2020-03-10,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.7
+HAI,2020-03-11,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.1
+HAI,2020-03-12,news_event,DNSE,low,"auto_keyword_match: hnx, diện cảnh báo"
+HAI,2020-03-13,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+HAI,2020-03-16,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+HAI,2020-03-17,investigation,auto_extreme,low,auto_detect: buy_imbalance=7.1x
+HAI,2020-03-18,investigation,auto_extreme,low,auto_detect: buy_imbalance=9.3x
+HAI,2020-03-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=8.2 | sell_imbalance=2.1x
+HAI,2020-03-20,investigation,auto_extreme,low,auto_detect: sell_imbalance=27.9x
+HAI,2020-03-23,investigation,auto_extreme,low,auto_detect: sell_imbalance=612.9x
+HAI,2020-03-24,investigation,auto_extreme,low,auto_detect: sell_imbalance=59.1x
+HAI,2020-03-25,investigation,auto_extreme,low,auto_detect: sell_imbalance=4.4x
+HAI,2020-03-26,investigation,auto_extreme,low,auto_detect: sell_imbalance=78.2x
+HAI,2020-03-27,investigation,auto_extreme,low,auto_detect: sell_imbalance=56.2x
+HAI,2020-03-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=121.0x
+HAI,2020-03-31,investigation,auto_extreme,low,auto_detect: sell_imbalance=7.9x
+HAI,2020-04-01,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.8
+HAI,2020-04-06,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.4
+HAI,2020-04-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+HAI,2020-04-09,news_event,DNSE,low,auto_keyword_match: xử phạt
+HAI,2020-05-26,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+HAI,2020-05-27,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.2x
+HAI,2020-06-12,news_event,DNSE,low,auto_keyword_match: hnx
+HAI,2020-06-17,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.1
+HAI,2020-06-18,news_event,Baodautu,low,auto_keyword_match: hnx
+HAI,2020-07-27,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+HAI,2020-08-17,news_event,DNSE,low,auto_keyword_match: xử phạt
+HAI,2020-08-18,news_event,DNSE,low,auto_keyword_match: xử phạt
+HAI,2020-09-07,news_event,DNSE,low,auto_keyword_match: hose
+HAI,2020-10-08,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+HAI,2020-10-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+HAI,2020-12-28,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.7x
+HAI,2021-01-19,news_event,DNSE,low,auto_keyword_match: cảnh báo rủi ro
+HAI,2021-01-28,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.9x
+HAI,2021-02-20,news_event,Baodautu,low,auto_keyword_match: xử phạt
+HAI,2021-02-21,news_event,DNSE,low,auto_keyword_match: xử phạt
+HAI,2021-03-09,news_event,CafeF,low,"auto_keyword_match: hnx, hose"
+HAI,2021-03-29,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+HAI,2021-03-30,news_event,CafeF,low,auto_keyword_match: hose
+HAI,2021-03-31,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.7
+HAI,2021-04-12,news_event,CafeF,low,auto_keyword_match: hose
+HAI,2021-04-13,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.8
+HAI,2021-04-14,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.4
+HAI,2021-04-16,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.3
+HAI,2021-04-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=6.9
+HAI,2021-04-20,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.3
+HAI,2021-04-27,investigation,auto_extreme,low,auto_detect: price_gap=13.13%
+HAI,2021-05-06,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.5
+HAI,2021-05-26,news_event,DNSE,low,auto_keyword_match: xử phạt
+HAI,2021-06-25,news_event,Vneconomy,low,auto_keyword_match: hnx
+HAI,2021-07-06,investigation,auto_extreme,low,auto_detect: price_gap=10.82%
+HAI,2021-07-13,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+HAI,2021-08-03,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.2x
+HAI,2021-08-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.9x
+HAI,2021-08-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+HAI,2021-08-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+HAI,2021-08-13,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3
+HAI,2021-08-23,news_event,CafeF,low,auto_keyword_match: hnx
+HAI,2021-08-27,news_event,DNSE,low,auto_keyword_match: hose
+HAI,2021-09-02,news_event,Vneconomy,low,auto_keyword_match: xử phạt
+HAI,2021-09-06,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.1x
+HAI,2021-09-13,news_event,CafeF,low,"auto_keyword_match: upcom, hose"
+HAI,2021-09-23,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.8
+HAI,2021-09-27,news_event,Fireant,low,auto_keyword_match: xử phạt
+HAI,2021-10-19,news_event,DNSE,low,auto_keyword_match: hose
+HAI,2021-10-21,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.4
+HAI,2021-10-22,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.3x
+HAI,2021-10-26,news_event,Fireant,low,auto_keyword_match: upcom
+HAI,2021-11-01,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.2
+HAI,2021-11-03,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.5
+HAI,2021-11-05,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+HAI,2021-11-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=4.3x
+HAI,2021-11-09,investigation,auto_extreme,low,auto_detect: volume_spike_z=7.8
+HAI,2021-11-16,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.1
+HAI,2021-11-18,news_event,Fireant,low,"auto_keyword_match: upcom, hnx"
+HAI,2021-11-19,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.5
+HAI,2021-12-03,news_event,CafeF,low,auto_keyword_match: hose
+HAI,2021-12-16,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.9
+HAI,2021-12-23,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3
+HAI,2022-01-07,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.3
+HAI,2022-01-10,investigation,auto_extreme,low,auto_detect: volume_spike_z=3.6
+HAI,2022-01-11,investigation,auto_extreme,low,auto_detect: volume_spike_z=5.3 | sell_imbalance=2.8x
+HAI,2022-01-12,investigation,auto_extreme,low,auto_detect: sell_imbalance=63.6x
+HAI,2022-01-13,investigation,auto_extreme,low,auto_detect: sell_imbalance=153.0x
+HAI,2022-01-14,investigation,auto_extreme,low,auto_detect: sell_imbalance=142.6x
+HAI,2022-01-16,news_event,CafeF,low,"auto_keyword_match: ubcknn, xử phạt"
+HAI,2022-01-17,investigation,auto_extreme,low,auto_detect: sell_imbalance=60.3x
+HAI,2022-01-18,investigation,auto_extreme,low,auto_detect: sell_imbalance=86.6x
+HAI,2022-01-19,investigation,auto_extreme,low,auto_detect: sell_imbalance=45.2x
+HAI,2022-01-20,investigation,auto_extreme,low,auto_detect: volume_spike_z=6.1
+HAI,2022-01-21,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.0x
+HAI,2022-01-26,news_event,DNSE,low,auto_keyword_match: hose
+HAI,2022-01-29,news_event,Baodautu,low,auto_keyword_match: xử phạt
+HAI,2022-01-30,news_event,Vneconomy,low,auto_keyword_match: xử phạt
+HAI,2022-02-10,news_event,Baodautu,low,auto_keyword_match: hose
+HAI,2022-03-15,warning,HOSE,medium,HAI_001 | source_type=abnormal_trading | Cảnh báo giao dịch bất thường cổ phiếu HAI
+HAI,2022-03-28,investigation,auto_extreme,low,auto_detect: sell_imbalance=10.2x
+HAI,2022-03-29,investigation,auto_extreme,low,auto_detect: volume_spike_z=6.6
+HAI,2022-03-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=8.1x
+HAI,2022-03-31,investigation,auto_extreme,low,auto_detect: volume_spike_z=4.0
+HAI,2022-04-04,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.2x
+HAI,2022-04-11,news_event,Vneconomy,low,auto_keyword_match: hose
+HAI,2022-04-12,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+HAI,2022-04-18,news_event,Vneconomy,low,auto_keyword_match: hose
+HAI,2022-04-20,investigation,auto_extreme,low,auto_detect: price_gap=13.21% | sell_imbalance=2.9x
+HAI,2022-04-21,investigation,auto_extreme,low,auto_detect: sell_imbalance=9.6x
+HAI,2022-04-25,news_event,Baodautu,low,auto_keyword_match: hose
+HAI,2022-05-04,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.4x
+HAI,2022-05-17,news_event,Baodautu,low,auto_keyword_match: tự doanh
+HAI,2022-05-18,news_event,Baodautu,low,auto_keyword_match: hose
+HAI,2022-05-19,news_event,DNSE,low,auto_keyword_match: hose
+HAI,2022-05-25,news_event,Vneconomy,low,auto_keyword_match: hose
+HAI,2022-05-26,investigation,auto_extreme,low,auto_detect: sell_imbalance=6.4x
+HAI,2022-06-07,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.3x
+HAI,2022-06-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=5.0x
+HAI,2022-06-17,news_event,Fireant,low,auto_keyword_match: tự doanh
+HAI,2022-06-21,news_event,Baodautu,low,auto_keyword_match: xử phạt
+HAI,2022-06-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.5x
+HAI,2022-06-27,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+HAI,2022-06-30,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+HAI,2022-07-04,news_event,Vneconomy,low,"auto_keyword_match: hose, diện cảnh báo"
+HAI,2022-07-11,news_event,CafeF,low,auto_keyword_match: hose
+HAI,2022-07-12,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+HAI,2022-07-13,news_event,DNSE,low,auto_keyword_match: hose
+HAI,2022-07-25,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+HAI,2022-08-02,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.6x
+HAI,2022-08-11,investigation,auto_extreme,low,auto_detect: sell_imbalance=2.1x
+HAI,2022-08-15,news_event,Fireant,low,auto_keyword_match: tự doanh
+HAI,2022-08-17,news_event,DNSE,low,auto_keyword_match: đình chỉ giao dịch
+HAI,2022-08-18,investigation,auto_extreme,low,auto_detect: sell_imbalance=9.4x
+HAI,2022-08-20,news_event,Fireant,low,auto_keyword_match: ubcknn
+HAI,2022-08-22,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.3x
+HAI,2022-08-23,investigation,auto_extreme,low,auto_detect: buy_imbalance=2.4x
+HAI,2022-08-27,news_event,DNSE,low,auto_keyword_match: hose
+HAI,2022-08-29,investigation,auto_extreme,low,auto_detect: sell_imbalance=3.6x
+HAI,2022-09-04,news_event,Vneconomy,low,auto_keyword_match: đình chỉ giao dịch
+HAI,2022-09-05,news_event,CafeF,low,auto_keyword_match: hose
+HAI,2022-09-06,investigation,auto_extreme,low,auto_detect: sell_imbalance=17.6x
+HAI,2022-09-08,investigation,auto_extreme,low,auto_detect: buy_imbalance=3.2x
+HAI,2022-09-15,news_event,Baodautu,low,auto_keyword_match: xử phạt
+HAI,2022-10-02,news_event,CafeF,low,"auto_keyword_match: ubcknn, xử phạt"
+HAI,2022-10-07,news_event,Vneconomy,low,auto_keyword_match: xử phạt
+HAI,2022-10-08,news_event,Fireant,low,auto_keyword_match: ubcknn
+HAI,2022-10-09,news_event,CafeF,low,auto_keyword_match: xử phạt
+HAI,2022-10-20,warning,HOSE,medium,HAI_002 | source_type=trading_restriction | HAI bị đưa vào diện kiểm soát
+HAI,2022-11-18,news_event,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+HAI,2022-12-03,news_event,DNSE,low,auto_keyword_match: xử phạt
+HAI,2022-12-05,news_event,CafeF,low,"auto_keyword_match: ubcknn, xử phạt"
+HAI,2022-12-06,news_event,CafeF,low,"auto_keyword_match: ubcknn, xử phạt"
+HAI,2023-01-12,news_event,Fireant,low,"auto_keyword_match: ubcknn, xử phạt"
+HAI,2023-01-13,news_event,DNSE,low,auto_keyword_match: xử phạt
+HAI,2023-01-30,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2023-02-02,news_event,Fireant,low,auto_keyword_match: ủy ban chứng khoán
+HAI,2023-03-17,news_event,CafeF,low,"auto_keyword_match: ubcknn, xử phạt"
+HAI,2023-03-18,news_event,CafeF,low,auto_keyword_match: xử phạt
+HAI,2023-03-20,news_event,DNSE,low,auto_keyword_match: đình chỉ giao dịch
+HAI,2023-04-06,news_event,DNSE,low,auto_keyword_match: hose
+HAI,2023-04-07,news_event,Vneconomy,low,auto_keyword_match: hose
+HAI,2023-04-10,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2023-04-20,news_event,Vneconomy,low,"auto_keyword_match: upcom, đình chỉ giao dịch"
+HAI,2023-04-24,news_event,CafeF,low,"auto_keyword_match: upcom, đình chỉ giao dịch"
+HAI,2023-04-26,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2023-05-11,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2023-05-13,news_event,CafeF,low,"auto_keyword_match: xử phạt, ủy ban chứng khoán"
+HAI,2023-06-05,news_event,Fireant,low,auto_keyword_match: ủy ban chứng khoán
+HAI,2023-06-26,news_event,Baodautu,low,auto_keyword_match: xử phạt
+HAI,2023-06-27,news_event,CafeF,low,auto_keyword_match: upcom
+HAI,2023-06-30,news_event,DNSE,low,auto_keyword_match: xử phạt
+HAI,2023-07-17,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2023-07-19,news_event,CafeF,low,auto_keyword_match: hnx
+HAI,2023-07-22,news_event,CafeF,low,auto_keyword_match: xử phạt
+HAI,2023-08-17,news_event,DNSE,low,auto_keyword_match: hose
+HAI,2023-08-25,news_event,CafeF,low,auto_keyword_match: upcom
+HAI,2023-08-31,news_event,CafeF,low,auto_keyword_match: ubcknn
+HAI,2023-09-28,news_event,Baodautu,low,auto_keyword_match: xử phạt
+HAI,2023-10-10,news_event,CafeF,low,auto_keyword_match: hnx
+HAI,2023-11-07,news_event,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+HAI,2023-11-09,news_event,DNSE,low,auto_keyword_match: ủy ban chứng khoán
+HAI,2023-11-14,news_event,DNSE,low,auto_keyword_match: hose
+HAI,2023-12-07,news_event,Vneconomy,low,auto_keyword_match: diện cảnh báo
+HAI,2023-12-16,news_event,CafeF,low,auto_keyword_match: ubcknn
+HAI,2023-12-26,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-01-02,news_event,Vneconomy,low,auto_keyword_match: hnx
+HAI,2024-01-05,news_event,CafeF,low,auto_keyword_match: hnx
+HAI,2024-02-27,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-03-02,news_event,Fireant,low,auto_keyword_match: ủy ban chứng khoán
+HAI,2024-03-04,news_event,Vneconomy,low,auto_keyword_match: upcom
+HAI,2024-03-19,news_event,CafeF,low,"auto_keyword_match: hose, tự doanh"
+HAI,2024-03-23,news_event,Fireant,low,auto_keyword_match: hose
+HAI,2024-04-09,news_event,CafeF,low,auto_keyword_match: hose
+HAI,2024-04-21,news_event,Fireant,low,auto_keyword_match: hnx
+HAI,2024-04-22,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-04-23,news_event,CafeF,low,auto_keyword_match: hose
+HAI,2024-04-25,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-05-07,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-05-10,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-05-11,news_event,Fireant,low,auto_keyword_match: tự doanh
+HAI,2024-06-13,news_event,DNSE,low,auto_keyword_match: xử phạt
+HAI,2024-06-17,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-06-20,news_event,Fireant,low,auto_keyword_match: upcom
+HAI,2024-07-02,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-07-13,news_event,DNSE,low,auto_keyword_match: xử phạt
+HAI,2024-07-14,news_event,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+HAI,2024-07-15,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-07-18,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-07-24,news_event,CafeF,low,"auto_keyword_match: upcom, ubcknn"
+HAI,2024-07-27,news_event,CafeF,low,auto_keyword_match: xả hàng
+HAI,2024-07-31,news_event,Fireant,low,auto_keyword_match: xả hàng
+HAI,2024-08-02,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-08-05,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-08-06,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-08-08,news_event,Fireant,low,auto_keyword_match: hose
+HAI,2024-08-14,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-08-15,news_event,Fireant,low,auto_keyword_match: ubcknn
+HAI,2024-08-30,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-09-20,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-09-27,news_event,Baodautu,low,auto_keyword_match: cảnh báo rủi ro
+HAI,2024-09-30,news_event,CafeF,low,auto_keyword_match: xử phạt
+HAI,2024-10-07,news_event,CafeF,low,auto_keyword_match: hose
+HAI,2024-10-17,news_event,DNSE,low,auto_keyword_match: xử phạt
+HAI,2024-10-25,news_event,Vneconomy,low,auto_keyword_match: ủy ban chứng khoán
+HAI,2024-12-04,news_event,Vneconomy,low,auto_keyword_match: hnx
+HAI,2024-12-24,news_event,Baodautu,low,auto_keyword_match: hose
+HAI,2024-12-28,news_event,DNSE,low,auto_keyword_match: xử phạt
+HAI,2025-01-02,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-01-03,news_event,DNSE,low,auto_keyword_match: xử phạt
+HAI,2025-01-13,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-01-14,news_event,DNSE,low,auto_keyword_match: xử phạt
+HAI,2025-01-16,news_event,DNSE,low,auto_keyword_match: xử phạt
+HAI,2025-01-23,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-02-10,news_event,Vneconomy,low,auto_keyword_match: hose
+HAI,2025-02-12,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-02-15,news_event,DNSE,low,auto_keyword_match: xử phạt
+HAI,2025-02-25,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-03-01,news_event,DNSE,low,auto_keyword_match: xử phạt
+HAI,2025-03-03,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-03-06,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-03-07,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-03-10,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-03-11,news_event,CafeF,low,auto_keyword_match: ubcknn
+HAI,2025-03-26,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-04-01,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-04-11,news_event,Fireant,low,"auto_keyword_match: ubcknn, xử phạt"
+HAI,2025-04-16,news_event,Fireant,low,"auto_keyword_match: ubcknn, xử phạt"
+HAI,2025-04-29,news_event,DNSE,low,auto_keyword_match: upcom
+HAI,2025-05-03,news_event,Fireant,low,auto_keyword_match: hose
+HAI,2025-05-05,news_event,Vneconomy,low,auto_keyword_match: xử phạt
+HAI,2025-05-15,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-05-20,news_event,Baodautu,low,auto_keyword_match: cảnh báo rủi ro
+HAI,2025-06-05,news_event,CafeF,low,auto_keyword_match: ủy ban chứng khoán
+HAI,2025-06-19,news_event,Vneconomy,low,auto_keyword_match: xử phạt
+HAI,2025-06-23,news_event,Fireant,low,auto_keyword_match: hnx
+HAI,2025-06-27,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-07-17,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-07-18,news_event,Vneconomy,low,auto_keyword_match: ủy ban chứng khoán
+HAI,2025-07-20,news_event,Fireant,low,auto_keyword_match: ubcknn
+HAI,2025-07-29,news_event,Fireant,low,auto_keyword_match: hose
+HAI,2025-08-04,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-08-22,news_event,Fireant,low,auto_keyword_match: xả hàng
+HAI,2025-08-23,news_event,CafeF,low,auto_keyword_match: xả hàng
+HAI,2025-09-12,news_event,CafeF,low,"auto_keyword_match: ubcknn, xử phạt"
+HAI,2025-09-19,news_event,Vneconomy,low,auto_keyword_match: hose
+HAI,2025-11-13,news_event,CafeF,low,auto_keyword_match: xử phạt
+HAI,2025-11-20,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-11-25,news_event,CafeF,low,auto_keyword_match: xử phạt
+HAI,2025-11-28,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-12-03,news_event,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-12-15,news_event,CafeF,low,auto_keyword_match: hose
+HAI,2025-12-30,news_event,CafeF,low,auto_keyword_match: tự doanh
+HDB,2017-12-04,news_event,DNSE,low,auto_keyword_match: hose
+HDB,2017-12-28,news_event,DNSE,low,auto_keyword_match: hose
+HDB,2018-01-05,news_event,CafeF,low,auto_keyword_match: hose
+HDB,2018-01-07,news_event,CafeF,low,auto_keyword_match: hose
+HDB,2018-01-12,news_event,DNSE,low,auto_keyword_match: hose
+HDB,2018-04-10,news_event,CafeF,low,auto_keyword_match: hose
+HDB,2020-10-23,news_event,Baodautu,low,auto_keyword_match: ủy ban chứng khoán
+HDB,2022-08-17,news_event,CafeF,low,auto_keyword_match: hose
+HDB,2024-07-10,news_event,CafeF,low,auto_keyword_match: tự doanh
+HPG,2016-10-10,news_event,CafeF,low,auto_keyword_match: xả hàng
+HPG,2016-10-11,news_event,CafeF,low,auto_keyword_match: xả hàng
+HPG,2017-08-06,news_event,CafeF,low,auto_keyword_match: hose
+HPG,2017-11-20,news_event,CafeF,low,auto_keyword_match: xả hàng
+HPG,2018-05-17,news_event,CafeF,low,auto_keyword_match: xả hàng
+HPG,2019-02-24,news_event,CafeF,low,auto_keyword_match: hose
+HPG,2019-09-29,news_event,CafeF,low,auto_keyword_match: tự doanh
+HPG,2019-10-27,news_event,CafeF,low,auto_keyword_match: tự doanh
+HPG,2020-11-28,news_event,CafeF,low,auto_keyword_match: tự doanh
+HPG,2021-02-18,news_event,Vneconomy,low,auto_keyword_match: hose
+HPG,2021-07-29,news_event,CafeF,low,auto_keyword_match: hose
+HPG,2021-10-04,news_event,CafeF,low,auto_keyword_match: hose
+HPG,2021-10-27,news_event,CafeF,low,auto_keyword_match: hose
+HPG,2021-11-24,news_event,CafeF,low,auto_keyword_match: hose
+HPG,2021-12-02,news_event,CafeF,low,auto_keyword_match: hose
+HPG,2022-01-01,news_event,DNSE,low,auto_keyword_match: hose
+HPG,2022-02-10,news_event,CafeF,low,auto_keyword_match: hose
+HPG,2022-03-09,news_event,CafeF,low,auto_keyword_match: hose
+HPG,2022-03-10,news_event,CafeF,low,auto_keyword_match: hose
+HPG,2022-03-15,news_event,CafeF,low,auto_keyword_match: hose
+HPG,2022-06-11,news_event,Fireant,low,auto_keyword_match: tự doanh
+HPG,2022-06-20,news_event,Fireant,low,auto_keyword_match: tự doanh
+HPG,2022-06-22,news_event,Fireant,low,auto_keyword_match: hose
+HPG,2022-06-29,news_event,Fireant,low,auto_keyword_match: tự doanh
+HPG,2022-08-15,news_event,CafeF,low,auto_keyword_match: hose
+HPG,2022-08-16,news_event,CafeF,low,auto_keyword_match: hose
+HPG,2022-08-21,news_event,Fireant,low,auto_keyword_match: hose
+HPG,2022-09-06,news_event,Fireant,low,auto_keyword_match: tự doanh
+HPG,2022-09-08,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+HPG,2022-09-10,news_event,Fireant,low,auto_keyword_match: tự doanh
+HPG,2022-09-13,news_event,Fireant,low,auto_keyword_match: tự doanh
+HPG,2022-09-14,news_event,Fireant,low,auto_keyword_match: tự doanh
+HPG,2022-11-03,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+HPG,2022-12-15,news_event,CafeF,low,"auto_keyword_match: hose, tự doanh"
+HPG,2022-12-26,news_event,CafeF,low,auto_keyword_match: tự doanh
+HPG,2023-01-11,news_event,CafeF,low,"auto_keyword_match: hose, tự doanh"
+HPG,2023-02-08,news_event,CafeF,low,auto_keyword_match: tự doanh
+HPG,2023-02-21,news_event,Fireant,low,auto_keyword_match: tự doanh
+HPG,2023-04-13,news_event,CafeF,low,auto_keyword_match: tự doanh
+HPG,2023-04-18,news_event,CafeF,low,auto_keyword_match: hose
+HPG,2023-05-17,news_event,CafeF,low,auto_keyword_match: tự doanh
+HPG,2023-06-13,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+HPG,2023-06-26,news_event,Fireant,low,auto_keyword_match: xả hàng
+HPG,2023-08-14,news_event,CafeF,low,auto_keyword_match: tự doanh
+HPG,2023-10-19,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+HPG,2024-01-19,news_event,CafeF,low,auto_keyword_match: tự doanh
+HPG,2024-02-15,news_event,CafeF,low,auto_keyword_match: tự doanh
+HPG,2024-03-01,news_event,CafeF,low,auto_keyword_match: tự doanh
+HPG,2024-05-15,news_event,CafeF,low,auto_keyword_match: hose
+HPG,2024-07-17,news_event,CafeF,low,auto_keyword_match: tự doanh
+HPG,2024-08-27,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+HPG,2025-04-30,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+HPG,2025-08-11,news_event,CafeF,low,auto_keyword_match: hose
+IDC,2017-07-08,news_event,CafeF,low,auto_keyword_match: hose
+IDC,2019-03-01,news_event,DNSE,low,auto_keyword_match: hnx
+IDC,2019-05-28,news_event,DNSE,low,auto_keyword_match: hose
+IDC,2019-08-21,news_event,CafeF,low,auto_keyword_match: upcom
+IDC,2019-11-26,news_event,Vneconomy,low,auto_keyword_match: hnx
+IDC,2019-12-02,news_event,Vneconomy,low,auto_keyword_match: hnx
+IDC,2020-02-17,news_event,DNSE,low,auto_keyword_match: hose
+IDC,2020-08-08,news_event,CafeF,low,auto_keyword_match: upcom
+IDC,2020-08-17,news_event,DNSE,low,auto_keyword_match: upcom
+IDC,2020-08-20,news_event,CafeF,low,auto_keyword_match: hose
+IDC,2021-09-20,news_event,CafeF,low,auto_keyword_match: hose
+IDC,2021-10-12,news_event,DNSE,low,auto_keyword_match: hose
+IDC,2021-10-16,news_event,DNSE,low,auto_keyword_match: hose
+IDC,2021-10-17,news_event,Vneconomy,low,auto_keyword_match: hose
+IDC,2022-04-19,news_event,DNSE,low,auto_keyword_match: hose
+IDC,2022-09-08,news_event,Fireant,low,auto_keyword_match: hose
+IDC,2022-09-11,news_event,CafeF,low,auto_keyword_match: tự doanh
+IDC,2022-09-29,news_event,DNSE,low,auto_keyword_match: hose
+IDC,2022-09-30,news_event,Fireant,low,auto_keyword_match: hose
+IDC,2022-10-09,news_event,CafeF,low,auto_keyword_match: hose
+IDC,2023-05-30,news_event,Baodautu,low,auto_keyword_match: hose
+IDC,2024-03-01,news_event,Vneconomy,low,auto_keyword_match: đẩy giá
+IDC,2024-12-31,news_event,DNSE,low,auto_keyword_match: xử phạt
+IDC,2025-06-28,news_event,Baodautu,low,auto_keyword_match: hose
+KBC,2017-10-24,news_event,CafeF,low,auto_keyword_match: xả hàng
+KBC,2018-01-15,news_event,DNSE,low,auto_keyword_match: hose
+KBC,2021-10-27,news_event,CafeF,low,auto_keyword_match: hose
+KBC,2021-12-27,news_event,CafeF,low,auto_keyword_match: hose
+KBC,2022-04-12,news_event,DNSE,low,auto_keyword_match: hose
+KBC,2022-11-11,news_event,Fireant,low,auto_keyword_match: tự doanh
+KBC,2023-08-29,news_event,CafeF,low,"auto_keyword_match: ubcknn, xử phạt"
+MBB,2016-02-22,news_event,CafeF,low,auto_keyword_match: xả hàng
+MBB,2019-10-13,news_event,CafeF,low,auto_keyword_match: tự doanh
+MBB,2019-10-27,news_event,CafeF,low,auto_keyword_match: tự doanh
+MBB,2021-04-19,news_event,CafeF,low,auto_keyword_match: tự doanh
+MBB,2023-08-08,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+MBB,2024-07-17,news_event,CafeF,low,auto_keyword_match: tự doanh
+MWG,2022-06-17,news_event,Fireant,low,auto_keyword_match: tự doanh
+MWG,2022-06-20,news_event,Fireant,low,auto_keyword_match: tự doanh
+MWG,2022-06-23,news_event,Fireant,low,auto_keyword_match: hose
+MWG,2022-07-14,news_event,Fireant,low,auto_keyword_match: hose
+MWG,2022-08-25,news_event,Fireant,low,auto_keyword_match: tự doanh
+MWG,2022-08-26,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+MWG,2022-08-28,news_event,Fireant,low,auto_keyword_match: tự doanh
+MWG,2022-09-13,news_event,Fireant,low,auto_keyword_match: tự doanh
+MWG,2022-09-20,news_event,Fireant,low,auto_keyword_match: tự doanh
+MWG,2023-02-02,news_event,CafeF,low,auto_keyword_match: tự doanh
+MWG,2023-07-13,news_event,CafeF,low,auto_keyword_match: tự doanh
+MWG,2023-10-12,news_event,CafeF,low,auto_keyword_match: tự doanh
+MWG,2023-11-02,news_event,DNSE,low,auto_keyword_match: xả hàng
+MWG,2024-01-16,news_event,CafeF,low,auto_keyword_match: hose
+MWG,2024-01-17,news_event,CafeF,low,auto_keyword_match: hose
+MWG,2024-05-14,news_event,CafeF,low,auto_keyword_match: tự doanh
+MWG,2024-05-15,news_event,CafeF,low,auto_keyword_match: hose
+MWG,2025-09-09,news_event,Fireant,low,auto_keyword_match: xả hàng
+NVL,2016-12-28,news_event,DNSE,low,auto_keyword_match: hose
+NVL,2017-07-17,news_event,Vneconomy,low,auto_keyword_match: hose
+NVL,2017-12-25,news_event,CafeF,low,auto_keyword_match: xả hàng
+NVL,2021-07-20,news_event,CafeF,low,auto_keyword_match: hose
+NVL,2022-01-13,news_event,CafeF,low,auto_keyword_match: hose
+NVL,2022-01-20,news_event,Fireant,low,auto_keyword_match: hose
+NVL,2022-06-04,news_event,Fireant,low,auto_keyword_match: tự doanh
+NVL,2022-07-29,news_event,CafeF,low,auto_keyword_match: hose
+NVL,2022-08-06,news_event,Fireant,low,auto_keyword_match: tự doanh
+NVL,2022-09-05,news_event,CafeF,low,auto_keyword_match: hose
+NVL,2022-10-24,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+NVL,2022-11-22,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+NVL,2022-11-23,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+NVL,2022-12-01,news_event,Fireant,low,auto_keyword_match: tự doanh
+NVL,2022-12-07,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+NVL,2022-12-10,news_event,Fireant,low,auto_keyword_match: tự doanh
+NVL,2022-12-14,news_event,CafeF,low,"auto_keyword_match: hose, tự doanh"
+NVL,2022-12-20,news_event,CafeF,low,"auto_keyword_match: hose, tự doanh"
+NVL,2022-12-29,news_event,CafeF,low,auto_keyword_match: tự doanh
+NVL,2023-01-09,news_event,CafeF,low,auto_keyword_match: tự doanh
+NVL,2023-03-06,news_event,CafeF,low,auto_keyword_match: hose
+NVL,2023-04-10,news_event,CafeF,low,auto_keyword_match: hose
+NVL,2023-04-11,news_event,CafeF,low,auto_keyword_match: hose
+NVL,2023-04-19,news_event,CafeF,low,"auto_keyword_match: hose, diện cảnh báo"
+NVL,2023-04-21,news_event,CafeF,low,auto_keyword_match: diện cảnh báo
+NVL,2023-06-08,news_event,CafeF,low,auto_keyword_match: tự doanh
+NVL,2023-07-05,news_event,CafeF,low,auto_keyword_match: hose
+NVL,2023-10-04,news_event,CafeF,low,auto_keyword_match: hose
+NVL,2023-10-30,news_event,CafeF,low,auto_keyword_match: diện cảnh báo
+NVL,2023-11-02,news_event,CafeF,low,auto_keyword_match: diện cảnh báo
+NVL,2023-11-15,news_event,CafeF,low,auto_keyword_match: tự doanh
+NVL,2023-11-28,news_event,CafeF,low,auto_keyword_match: hose
+NVL,2024-02-15,news_event,CafeF,low,auto_keyword_match: tự doanh
+NVL,2024-02-20,news_event,CafeF,low,auto_keyword_match: tự doanh
+NVL,2024-09-17,news_event,DNSE,low,auto_keyword_match: diện cảnh báo
+NVL,2024-09-18,news_event,CafeF,low,auto_keyword_match: diện cảnh báo
+NVL,2024-10-03,news_event,CafeF,low,auto_keyword_match: hose
+NVL,2024-10-31,news_event,Vneconomy,low,auto_keyword_match: hose
+NVL,2025-04-03,news_event,CafeF,low,auto_keyword_match: hose
+NVL,2025-07-02,news_event,Fireant,low,auto_keyword_match: hose
+NVL,2025-07-03,news_event,CafeF,low,auto_keyword_match: hose
+NVL,2025-08-07,news_event,CafeF,low,auto_keyword_match: hose
+NVL,2025-08-18,news_event,Fireant,low,auto_keyword_match: hose
+NVL,2025-08-19,news_event,CafeF,low,auto_keyword_match: hose
+NVL,2025-09-02,news_event,CafeF,low,auto_keyword_match: hose
+NVL,2025-10-02,news_event,Fireant,low,auto_keyword_match: hose
+NVL,2025-10-03,news_event,CafeF,low,auto_keyword_match: hose
+PDR,2023-06-23,news_event,Vneconomy,low,auto_keyword_match: đẩy giá
+PDR,2023-09-27,news_event,Vneconomy,low,auto_keyword_match: hnx
+PDR,2023-10-27,news_event,CafeF,low,auto_keyword_match: ubcknn
+PDR,2025-05-22,news_event,Vneconomy,low,auto_keyword_match: đẩy giá
+PDR,2025-08-07,news_event,Vneconomy,low,auto_keyword_match: xả hàng
+PLX,2018-01-15,news_event,DNSE,low,auto_keyword_match: hose
+PLX,2020-09-03,news_event,DNSE,low,auto_keyword_match: hose
+PLX,2020-09-18,news_event,Baodautu,low,auto_keyword_match: xả hàng
+PNJ,2018-07-16,news_event,DNSE,low,auto_keyword_match: hose
+PNJ,2022-05-26,news_event,Fireant,low,auto_keyword_match: tự doanh
+PNJ,2022-06-02,news_event,Fireant,low,auto_keyword_match: tự doanh
+PNJ,2023-07-28,news_event,CafeF,low,auto_keyword_match: tự doanh
+PNJ,2023-09-18,news_event,CafeF,low,auto_keyword_match: xử phạt
+PNJ,2024-01-16,news_event,Vneconomy,low,auto_keyword_match: hose
+PNJ,2024-01-17,news_event,Fireant,low,auto_keyword_match: hose
+PNJ,2024-10-07,news_event,CafeF,low,auto_keyword_match: xử phạt
+PNJ,2024-10-08,news_event,CafeF,low,auto_keyword_match: xử phạt
+PNJ,2024-10-09,news_event,DNSE,low,auto_keyword_match: xử phạt
+POW,2016-12-01,news_event,CafeF,low,auto_keyword_match: upcom
+POW,2016-12-11,news_event,CafeF,low,auto_keyword_match: upcom
+POW,2016-12-12,news_event,DNSE,low,auto_keyword_match: upcom
+POW,2018-01-18,news_event,Baodautu,low,auto_keyword_match: hnx
+POW,2018-02-28,news_event,CafeF,low,auto_keyword_match: upcom
+POW,2018-03-06,news_event,CafeF,low,auto_keyword_match: upcom
+POW,2018-06-25,news_event,DNSE,low,auto_keyword_match: hose
+POW,2018-10-08,news_event,DNSE,low,auto_keyword_match: hose
+POW,2018-11-19,news_event,DNSE,low,auto_keyword_match: hose
+POW,2018-12-18,news_event,DNSE,low,auto_keyword_match: hose
+POW,2018-12-19,news_event,DNSE,low,auto_keyword_match: hose
+POW,2019-01-04,news_event,DNSE,low,auto_keyword_match: hose
+POW,2022-03-27,news_event,Baodautu,low,auto_keyword_match: xử phạt
+POW,2022-09-09,news_event,DNSE,low,auto_keyword_match: hose
+POW,2023-09-22,news_event,DNSE,low,auto_keyword_match: hose
+POW,2024-09-09,news_event,CafeF,low,auto_keyword_match: hose
+PVT,2016-12-11,news_event,CafeF,low,auto_keyword_match: upcom
+PVT,2017-04-19,news_event,DNSE,low,auto_keyword_match: upcom
+PVT,2023-01-03,news_event,DNSE,low,auto_keyword_match: hose
+PVT,2023-01-10,news_event,Baodautu,low,auto_keyword_match: hose
+PVT,2023-01-17,news_event,DNSE,low,auto_keyword_match: hose
+PVT,2023-04-21,news_event,DNSE,low,auto_keyword_match: hose
+PVT,2024-04-24,news_event,Baodautu,low,auto_keyword_match: hose
+PVT,2024-07-08,news_event,DNSE,low,"auto_keyword_match: xử phạt, ủy ban chứng khoán"
+PVT,2024-11-23,news_event,DNSE,low,auto_keyword_match: hose
+PVT,2025-01-10,news_event,DNSE,low,auto_keyword_match: hose
+PVT,2025-06-26,news_event,DNSE,low,auto_keyword_match: hose
+PVT,2025-10-27,news_event,Baodautu,low,auto_keyword_match: hose
+PVT,2025-11-12,news_event,DNSE,low,auto_keyword_match: hose
+PVT,2025-11-13,news_event,CafeF,low,auto_keyword_match: hose
+PVT,2025-11-19,news_event,Baodautu,low,auto_keyword_match: hose
+REE,2018-08-28,news_event,Baodautu,low,auto_keyword_match: xử phạt
+REE,2019-11-28,news_event,Baodautu,low,auto_keyword_match: xử phạt
+REE,2022-05-26,news_event,Fireant,low,auto_keyword_match: tự doanh
+REE,2022-07-07,news_event,Fireant,low,auto_keyword_match: tự doanh
+REE,2022-07-24,news_event,CafeF,low,auto_keyword_match: xử phạt
+REE,2022-07-26,news_event,DNSE,low,auto_keyword_match: xử phạt
+REE,2023-01-06,news_event,DNSE,low,auto_keyword_match: upcom
+REE,2023-01-14,news_event,CafeF,low,auto_keyword_match: ủy ban chứng khoán
+REE,2023-12-29,news_event,Fireant,low,auto_keyword_match: ubcknn
+REE,2024-06-17,news_event,Fireant,low,auto_keyword_match: hose
+REE,2025-04-28,news_event,Baodautu,low,auto_keyword_match: xử phạt
+REE,2025-04-29,news_event,DNSE,low,auto_keyword_match: xử phạt
+REE,2025-09-30,news_event,CafeF,low,auto_keyword_match: xử phạt
+SAB,2016-09-15,news_event,CafeF,low,auto_keyword_match: hose
+SAB,2016-10-06,news_event,CafeF,low,auto_keyword_match: hose
+SAB,2016-11-07,news_event,CafeF,low,auto_keyword_match: hose
+SAB,2016-11-08,news_event,DNSE,low,auto_keyword_match: hose
+SAB,2016-11-10,news_event,CafeF,low,auto_keyword_match: hose
+SAB,2016-11-23,news_event,DNSE,low,auto_keyword_match: xử phạt
+SAB,2016-11-25,news_event,CafeF,low,auto_keyword_match: hose
+SAB,2016-11-28,news_event,DNSE,low,auto_keyword_match: hose
+SAB,2016-12-05,news_event,CafeF,low,auto_keyword_match: hose
+SAB,2016-12-23,news_event,CafeF,low,auto_keyword_match: upcom
+SAB,2016-12-30,news_event,CafeF,low,auto_keyword_match: upcom
+SAB,2017-02-21,news_event,CafeF,low,auto_keyword_match: upcom
+SAB,2017-07-17,news_event,Vneconomy,low,auto_keyword_match: hose
+SAB,2017-08-22,news_event,CafeF,low,auto_keyword_match: hnx
+SAB,2018-04-10,news_event,CafeF,low,auto_keyword_match: hose
+SAB,2018-06-05,news_event,Vneconomy,low,auto_keyword_match: hose
+SJC,2021-06-01,news_event,DNSE,low,auto_keyword_match: hnx
+SSI,2015-01-07,news_event,Vneconomy,low,auto_keyword_match: hose
+SSI,2015-07-02,news_event,Vneconomy,low,auto_keyword_match: hose
+SSI,2015-07-07,news_event,Vneconomy,low,auto_keyword_match: hnx
+SSI,2016-01-06,news_event,Vneconomy,low,auto_keyword_match: hnx
+SSI,2016-01-07,news_event,Vneconomy,low,auto_keyword_match: hose
+SSI,2016-04-04,news_event,CafeF,low,"auto_keyword_match: upcom, hnx"
+SSI,2016-04-05,news_event,Vneconomy,low,"auto_keyword_match: hnx, hose"
+SSI,2016-07-06,news_event,CafeF,low,"auto_keyword_match: upcom, hnx"
+SSI,2016-10-05,news_event,CafeF,low,auto_keyword_match: hnx
+SSI,2017-01-05,news_event,DNSE,low,auto_keyword_match: hose
+SSI,2017-01-09,news_event,CafeF,low,auto_keyword_match: hnx
+SSI,2017-04-06,news_event,Vneconomy,low,auto_keyword_match: hose
+SSI,2017-04-13,news_event,CafeF,low,auto_keyword_match: hnx
+SSI,2017-07-05,news_event,CafeF,low,auto_keyword_match: hose
+SSI,2017-10-05,news_event,Vneconomy,low,auto_keyword_match: hose
+SSI,2017-10-12,news_event,Baodautu,low,auto_keyword_match: hnx
+SSI,2017-10-16,news_event,DNSE,low,auto_keyword_match: hose
+SSI,2017-10-24,news_event,Baodautu,low,auto_keyword_match: hose
+SSI,2017-10-25,news_event,DNSE,low,auto_keyword_match: hose
+SSI,2018-01-09,news_event,CafeF,low,auto_keyword_match: hose
+SSI,2018-01-13,news_event,Vneconomy,low,auto_keyword_match: hnx
+SSI,2018-04-03,news_event,CafeF,low,auto_keyword_match: hose
+SSI,2018-04-06,news_event,CafeF,low,auto_keyword_match: hnx
+SSI,2018-04-11,news_event,Vneconomy,low,auto_keyword_match: hnx
+SSI,2018-07-05,news_event,Vneconomy,low,auto_keyword_match: hose
+SSI,2018-10-03,news_event,Vneconomy,low,auto_keyword_match: hose
+SSI,2019-01-04,news_event,CafeF,low,auto_keyword_match: hose
+SSI,2019-04-03,news_event,CafeF,low,auto_keyword_match: hose
+SSI,2019-04-08,news_event,Vneconomy,low,"auto_keyword_match: upcom, hnx"
+SSI,2019-07-05,news_event,DNSE,low,auto_keyword_match: hose
+SSI,2019-07-06,news_event,CafeF,low,auto_keyword_match: hnx
+SSI,2019-10-03,news_event,CafeF,low,auto_keyword_match: hose
+SSI,2020-01-09,news_event,CafeF,low,auto_keyword_match: hnx
+SSI,2020-02-07,news_event,DNSE,low,auto_keyword_match: upcom
+SSI,2020-03-13,news_event,CafeF,low,auto_keyword_match: hose
+SSI,2020-04-21,news_event,DNSE,low,auto_keyword_match: tự doanh
+SSI,2020-06-27,news_event,DNSE,low,auto_keyword_match: tự doanh
+SSI,2020-07-07,news_event,CafeF,low,auto_keyword_match: hnx
+SSI,2020-07-09,news_event,DNSE,low,auto_keyword_match: hnx
+SSI,2020-08-18,news_event,Baodautu,low,auto_keyword_match: hose
+SSI,2021-01-06,news_event,CafeF,low,auto_keyword_match: hose
+SSI,2021-03-09,news_event,CafeF,low,"auto_keyword_match: hnx, hose"
+SSI,2021-04-05,news_event,Vneconomy,low,auto_keyword_match: hose
+SSI,2021-04-07,news_event,CafeF,low,auto_keyword_match: hose
+SSI,2021-10-06,news_event,CafeF,low,auto_keyword_match: hose
+SSI,2022-01-18,news_event,Fireant,low,auto_keyword_match: hose
+SSI,2022-05-06,news_event,Fireant,low,auto_keyword_match: tự doanh
+SSI,2022-09-22,news_event,Fireant,low,auto_keyword_match: hose
+SSI,2023-04-05,news_event,CafeF,low,auto_keyword_match: hose
+SSI,2023-05-17,news_event,CafeF,low,auto_keyword_match: tự doanh
+SSI,2023-07-06,news_event,Fireant,low,auto_keyword_match: hose
+SSI,2023-10-19,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+SSI,2024-07-19,news_event,DNSE,low,auto_keyword_match: tự doanh
+SSI,2024-08-28,news_event,CafeF,low,auto_keyword_match: ubcknn
+SSI,2025-04-03,news_event,CafeF,low,auto_keyword_match: hose
+SSI,2025-07-04,news_event,CafeF,low,auto_keyword_match: hose
+SSI,2025-07-05,news_event,DNSE,low,auto_keyword_match: hose
+SSI,2025-10-06,news_event,CafeF,low,auto_keyword_match: hose
+SSI,2025-11-22,news_event,CafeF,low,auto_keyword_match: ubcknn
+STB,2016-05-13,news_event,DNSE,low,auto_keyword_match: hose
+STB,2017-03-28,news_event,Baodautu,low,auto_keyword_match: upcom
+STB,2017-09-29,news_event,Vneconomy,low,auto_keyword_match: upcom
+STB,2017-10-04,news_event,Vneconomy,low,auto_keyword_match: upcom
+STB,2017-10-05,news_event,DNSE,low,auto_keyword_match: upcom
+STB,2017-10-06,news_event,DNSE,low,auto_keyword_match: upcom
+STB,2019-04-24,news_event,Vneconomy,low,auto_keyword_match: hose
+STB,2020-06-15,news_event,Baodautu,low,auto_keyword_match: hose
+STB,2020-06-25,news_event,Baodautu,low,auto_keyword_match: hose
+STB,2020-07-24,news_event,Baodautu,low,auto_keyword_match: hose
+STB,2020-10-01,news_event,DNSE,low,auto_keyword_match: hose
+STB,2020-10-15,news_event,Baodautu,low,auto_keyword_match: hose
+STB,2020-10-28,news_event,Vneconomy,low,auto_keyword_match: hose
+STB,2020-10-29,news_event,DNSE,low,auto_keyword_match: hose
+STB,2021-11-06,news_event,CafeF,low,auto_keyword_match: ủy ban chứng khoán
+STB,2021-12-27,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+STB,2022-01-18,news_event,Fireant,low,auto_keyword_match: hose
+STB,2022-03-21,news_event,Fireant,low,auto_keyword_match: hose
+STB,2022-11-22,news_event,Fireant,low,auto_keyword_match: tự doanh
+STB,2023-03-09,news_event,CafeF,low,auto_keyword_match: tự doanh
+STB,2023-07-14,news_event,CafeF,low,auto_keyword_match: tự doanh
+STB,2023-10-19,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+STB,2024-05-14,news_event,CafeF,low,auto_keyword_match: tự doanh
+TCB,2020-07-06,news_event,CafeF,low,auto_keyword_match: hose
+TCB,2021-10-06,news_event,CafeF,low,auto_keyword_match: hose
+TCB,2021-12-27,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+TCB,2022-02-14,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+TCB,2022-06-17,news_event,Fireant,low,auto_keyword_match: tự doanh
+TCB,2022-10-24,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+TCB,2022-11-03,news_event,Fireant,low,auto_keyword_match: tự doanh
+TCB,2023-01-06,news_event,CafeF,low,auto_keyword_match: hose
+TCB,2023-10-05,news_event,CafeF,low,auto_keyword_match: hose
+TCB,2024-01-05,news_event,CafeF,low,auto_keyword_match: hose
+TCB,2024-07-05,news_event,CafeF,low,auto_keyword_match: hose
+TCB,2024-10-05,news_event,DNSE,low,auto_keyword_match: hose
+TCB,2025-03-31,news_event,CafeF,low,auto_keyword_match: tự doanh
+TCB,2025-04-04,news_event,Vneconomy,low,auto_keyword_match: hnx
+TCB,2025-07-01,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+TCB,2025-07-20,news_event,Fireant,low,auto_keyword_match: ubcknn
+TCB,2025-08-26,news_event,Baodautu,low,auto_keyword_match: hose
+TCB,2025-09-19,news_event,CafeF,low,auto_keyword_match: hose
+TCB,2025-09-26,news_event,CafeF,low,auto_keyword_match: hose
+TCB,2025-10-10,news_event,CafeF,low,auto_keyword_match: hose
+TCB,2025-10-16,news_event,CafeF,low,auto_keyword_match: hose
+TCB,2025-11-22,news_event,CafeF,low,auto_keyword_match: ubcknn
+TCH,2016-09-19,news_event,CafeF,low,auto_keyword_match: hose
+TCH,2020-07-20,news_event,DNSE,low,auto_keyword_match: hose
+TCH,2022-06-15,news_event,DNSE,low,auto_keyword_match: hose
+TPB,2018-01-03,news_event,DNSE,low,auto_keyword_match: hose
+TPB,2018-02-01,news_event,Baodautu,low,auto_keyword_match: hnx
+TPB,2018-03-14,news_event,CafeF,low,auto_keyword_match: hose
+TPB,2018-03-15,news_event,Baodautu,low,auto_keyword_match: hose
+TPB,2018-04-19,news_event,Baodautu,low,auto_keyword_match: hose
+TPB,2025-04-16,news_event,Fireant,low,auto_keyword_match: xử phạt
+VCB,2015-07-07,news_event,Vneconomy,low,auto_keyword_match: hnx
+VCB,2016-09-05,news_event,CafeF,low,auto_keyword_match: xả hàng
+VCB,2016-09-06,news_event,CafeF,low,auto_keyword_match: xả hàng
+VCB,2016-09-13,news_event,CafeF,low,"auto_keyword_match: hose, xả hàng"
+VCB,2016-10-05,news_event,Vneconomy,low,auto_keyword_match: hose
+VCB,2017-04-13,news_event,Vneconomy,low,auto_keyword_match: hnx
+VCB,2017-10-12,news_event,Vneconomy,low,auto_keyword_match: hnx
+VCB,2018-04-12,news_event,CafeF,low,auto_keyword_match: hose
+VCB,2018-04-16,news_event,CafeF,low,auto_keyword_match: xả hàng
+VCB,2018-06-28,news_event,Vneconomy,low,auto_keyword_match: hnx
+VCB,2019-07-26,news_event,CafeF,low,auto_keyword_match: hose
+VCB,2021-06-30,news_event,CafeF,low,auto_keyword_match: hose
+VCB,2021-10-04,news_event,CafeF,low,auto_keyword_match: hose
+VCB,2022-01-18,news_event,Fireant,low,auto_keyword_match: hose
+VCB,2022-06-04,news_event,Fireant,low,auto_keyword_match: tự doanh
+VCB,2022-08-02,news_event,CafeF,low,auto_keyword_match: hose
+VCB,2023-02-02,news_event,Fireant,low,auto_keyword_match: hose
+VCB,2023-11-15,news_event,CafeF,low,auto_keyword_match: tự doanh
+VCI,2019-12-20,news_event,CafeF,low,auto_keyword_match: tự doanh
+VCI,2020-05-08,news_event,CafeF,low,auto_keyword_match: hose
+VCI,2020-10-21,news_event,DNSE,low,auto_keyword_match: tự doanh
+VCI,2021-11-24,news_event,CafeF,low,auto_keyword_match: hose
+VCI,2022-09-20,news_event,Fireant,low,auto_keyword_match: tự doanh
+VCI,2022-09-22,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VHM,2018-05-17,news_event,Baodautu,low,auto_keyword_match: hose
+VHM,2020-07-05,news_event,CafeF,low,auto_keyword_match: hose
+VHM,2021-06-29,news_event,CafeF,low,auto_keyword_match: hose
+VHM,2021-10-04,news_event,CafeF,low,auto_keyword_match: hose
+VHM,2021-10-15,news_event,CafeF,low,auto_keyword_match: hose
+VHM,2021-10-29,news_event,CafeF,low,auto_keyword_match: hose
+VHM,2021-11-15,news_event,CafeF,low,auto_keyword_match: hose
+VHM,2021-11-17,news_event,Fireant,low,auto_keyword_match: hose
+VHM,2022-04-05,news_event,CafeF,low,auto_keyword_match: hose
+VHM,2022-05-18,news_event,CafeF,low,auto_keyword_match: tự doanh
+VHM,2022-08-02,news_event,CafeF,low,auto_keyword_match: hose
+VHM,2023-08-02,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VHM,2024-10-21,news_event,Fireant,low,auto_keyword_match: hose
+VHM,2024-11-12,news_event,CafeF,low,auto_keyword_match: tự doanh
+VIC,2016-01-11,news_event,CafeF,low,auto_keyword_match: xả hàng
+VIC,2016-01-13,news_event,CafeF,low,auto_keyword_match: xả hàng
+VIC,2016-04-05,news_event,CafeF,low,auto_keyword_match: xả hàng
+VIC,2016-04-07,news_event,CafeF,low,auto_keyword_match: xả hàng
+VIC,2016-04-12,news_event,CafeF,low,auto_keyword_match: hnx
+VIC,2016-11-19,news_event,CafeF,low,auto_keyword_match: hnx
+VIC,2017-01-02,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2017-01-07,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2017-04-13,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2017-05-18,news_event,CafeF,low,auto_keyword_match: upcom
+VIC,2017-07-05,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2017-07-07,news_event,CafeF,low,auto_keyword_match: upcom
+VIC,2017-08-22,news_event,CafeF,low,auto_keyword_match: hnx
+VIC,2018-03-15,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2018-03-26,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2018-04-10,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2018-04-12,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2019-04-07,news_event,CafeF,low,auto_keyword_match: tự doanh
+VIC,2019-11-28,news_event,DNSE,low,auto_keyword_match: hose
+VIC,2019-11-29,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2019-12-11,news_event,CafeF,low,auto_keyword_match: upcom
+VIC,2020-01-01,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2020-03-24,news_event,Baodautu,low,auto_keyword_match: diện cảnh báo
+VIC,2020-11-11,news_event,Vneconomy,low,auto_keyword_match: đẩy giá
+VIC,2021-03-03,news_event,DNSE,low,auto_keyword_match: hose
+VIC,2021-04-16,news_event,Baodautu,low,auto_keyword_match: hose
+VIC,2021-06-22,news_event,CafeF,low,"auto_keyword_match: hnx, hose"
+VIC,2021-06-26,news_event,DNSE,low,auto_keyword_match: hose
+VIC,2021-07-08,news_event,CafeF,low,auto_keyword_match: hnx
+VIC,2021-07-15,news_event,CafeF,low,auto_keyword_match: hnx
+VIC,2021-07-20,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2021-07-23,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2021-08-24,news_event,DNSE,low,auto_keyword_match: hose
+VIC,2021-10-04,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2021-10-15,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2022-02-08,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2022-02-10,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2022-03-18,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2022-04-05,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2022-05-18,news_event,CafeF,low,auto_keyword_match: tự doanh
+VIC,2022-08-02,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2022-08-10,news_event,DNSE,low,auto_keyword_match: hose
+VIC,2022-10-04,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2022-12-06,news_event,DNSE,low,auto_keyword_match: xử phạt
+VIC,2023-02-02,news_event,Fireant,low,auto_keyword_match: hose
+VIC,2023-02-04,news_event,CafeF,low,auto_keyword_match: ubcknn
+VIC,2023-09-01,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VIC,2023-09-10,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2023-09-18,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VIC,2023-09-19,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VIC,2023-12-06,news_event,CafeF,low,auto_keyword_match: hnx
+VIC,2024-07-09,news_event,DNSE,low,auto_keyword_match: xử phạt
+VIC,2024-07-16,news_event,CafeF,low,auto_keyword_match: xử phạt
+VIC,2025-06-18,news_event,CafeF,low,auto_keyword_match: xả hàng
+VIC,2025-07-29,news_event,CafeF,low,auto_keyword_match: xả hàng
+VIC,2025-08-19,news_event,CafeF,low,auto_keyword_match: hose
+VIC,2025-09-11,news_event,DNSE,low,auto_keyword_match: diện cảnh báo
+VIC,2025-10-17,news_event,CafeF,low,auto_keyword_match: diện cảnh báo
+VJC,2017-02-13,news_event,DNSE,low,auto_keyword_match: hose
+VJC,2018-01-15,news_event,DNSE,low,auto_keyword_match: hose
+VJC,2018-02-28,news_event,Baodautu,low,auto_keyword_match: hose
+VJC,2020-11-28,news_event,CafeF,low,auto_keyword_match: tự doanh
+VNI,2016-04-07,news_event,CafeF,low,auto_keyword_match: upcom
+VNI,2016-06-29,news_event,CafeF,low,auto_keyword_match: xả hàng
+VNI,2016-07-21,news_event,CafeF,low,auto_keyword_match: hnx
+VNI,2016-10-03,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2016-10-10,news_event,CafeF,low,auto_keyword_match: xả hàng
+VNI,2016-10-11,news_event,CafeF,low,auto_keyword_match: xả hàng
+VNI,2016-12-16,news_event,CafeF,low,auto_keyword_match: xả hàng
+VNI,2017-02-06,news_event,CafeF,low,auto_keyword_match: upcom
+VNI,2017-02-07,news_event,CafeF,low,auto_keyword_match: upcom
+VNI,2017-06-27,news_event,CafeF,low,auto_keyword_match: upcom
+VNI,2017-07-07,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2017-08-07,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2017-08-23,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2017-08-28,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2017-11-06,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2017-11-16,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2017-11-20,news_event,CafeF,low,auto_keyword_match: xả hàng
+VNI,2017-11-21,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2017-11-22,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2018-01-09,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2018-01-22,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2018-03-20,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2018-03-29,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2018-04-11,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2018-04-13,news_event,CafeF,low,auto_keyword_match: xả hàng
+VNI,2018-04-16,news_event,CafeF,low,auto_keyword_match: xả hàng
+VNI,2018-06-04,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2020-05-19,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2020-08-25,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2020-10-22,news_event,DNSE,low,auto_keyword_match: xử phạt
+VNI,2021-01-27,news_event,Vneconomy,low,auto_keyword_match: xả hàng
+VNI,2021-03-03,news_event,CafeF,low,auto_keyword_match: hnx
+VNI,2021-03-05,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2021-03-26,news_event,Vneconomy,low,auto_keyword_match: hnx
+VNI,2021-04-12,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2021-08-16,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2021-08-20,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2021-09-08,news_event,CafeF,low,auto_keyword_match: hnx
+VNI,2021-11-01,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2022-01-10,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VNI,2022-01-13,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VNI,2022-01-24,news_event,CafeF,low,auto_keyword_match: hose
+VNI,2022-02-28,news_event,Fireant,low,auto_keyword_match: làm giá
+VNI,2022-05-18,news_event,Vneconomy,low,"auto_keyword_match: tự doanh, xả hàng"
+VNI,2022-06-15,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VNI,2022-08-01,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VNI,2022-09-29,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VNI,2022-10-03,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VNI,2022-10-11,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VNI,2023-05-06,news_event,Vneconomy,low,auto_keyword_match: hose
+VNI,2023-09-06,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VNI,2023-09-22,news_event,Fireant,low,auto_keyword_match: hose
+VNI,2024-02-22,news_event,Fireant,low,auto_keyword_match: xả hàng
+VNI,2024-05-06,news_event,Fireant,low,auto_keyword_match: đẩy giá
+VNI,2024-05-22,news_event,Fireant,low,auto_keyword_match: xả hàng
+VNI,2024-06-14,news_event,Fireant,low,auto_keyword_match: xả hàng
+VNI,2024-08-01,news_event,Fireant,low,auto_keyword_match: xả hàng
+VNI,2024-09-05,news_event,Fireant,low,auto_keyword_match: hose
+VNI,2024-11-12,news_event,Vneconomy,low,"auto_keyword_match: đình chỉ giao dịch, diện cảnh báo"
+VNM,2016-06-29,news_event,CafeF,low,auto_keyword_match: xả hàng
+VNM,2016-08-04,news_event,CafeF,low,auto_keyword_match: hnx
+VNM,2016-09-05,news_event,CafeF,low,auto_keyword_match: xả hàng
+VNM,2016-09-06,news_event,CafeF,low,auto_keyword_match: xả hàng
+VNM,2016-09-07,news_event,CafeF,low,"auto_keyword_match: hose, xả hàng"
+VNM,2016-09-08,news_event,DNSE,low,auto_keyword_match: hose
+VNM,2016-09-12,news_event,CafeF,low,auto_keyword_match: xả hàng
+VNM,2016-09-13,news_event,CafeF,low,"auto_keyword_match: hose, xả hàng"
+VNM,2016-11-15,news_event,CafeF,low,auto_keyword_match: hose
+VNM,2016-11-21,news_event,CafeF,low,auto_keyword_match: hose
+VNM,2016-11-24,news_event,CafeF,low,"auto_keyword_match: hose, xả hàng"
+VNM,2016-11-29,news_event,CafeF,low,auto_keyword_match: hnx
+VNM,2016-12-01,news_event,CafeF,low,auto_keyword_match: xả hàng
+VNM,2017-01-02,news_event,CafeF,low,auto_keyword_match: hose
+VNM,2017-02-06,news_event,CafeF,low,auto_keyword_match: upcom
+VNM,2017-04-13,news_event,CafeF,low,auto_keyword_match: hose
+VNM,2017-08-22,news_event,CafeF,low,auto_keyword_match: hnx
+VNM,2018-04-16,news_event,CafeF,low,auto_keyword_match: xả hàng
+VNM,2018-05-15,news_event,CafeF,low,auto_keyword_match: xả hàng
+VNM,2019-10-27,news_event,CafeF,low,auto_keyword_match: tự doanh
+VNM,2020-05-09,news_event,CafeF,low,auto_keyword_match: tự doanh
+VNM,2021-04-19,news_event,CafeF,low,auto_keyword_match: tự doanh
+VNM,2022-01-05,news_event,DNSE,low,auto_keyword_match: hose
+VNM,2022-02-08,news_event,CafeF,low,auto_keyword_match: hose
+VNM,2022-03-09,news_event,CafeF,low,auto_keyword_match: hose
+VNM,2022-03-18,news_event,CafeF,low,auto_keyword_match: hose
+VNM,2022-03-24,news_event,CafeF,low,auto_keyword_match: hose
+VNM,2022-04-21,news_event,CafeF,low,auto_keyword_match: hose
+VNM,2022-08-24,news_event,CafeF,low,auto_keyword_match: hose
+VNM,2022-08-27,news_event,Fireant,low,auto_keyword_match: hose
+VNM,2022-09-08,news_event,Fireant,low,auto_keyword_match: hose
+VNM,2022-09-29,news_event,DNSE,low,auto_keyword_match: hose
+VNM,2022-09-30,news_event,Fireant,low,auto_keyword_match: hose
+VNM,2022-10-09,news_event,CafeF,low,auto_keyword_match: hose
+VNM,2023-08-07,news_event,CafeF,low,auto_keyword_match: tự doanh
+VNM,2025-08-12,news_event,DNSE,low,auto_keyword_match: hose
+VNM,2025-08-13,news_event,Vneconomy,low,auto_keyword_match: hose
+VPB,2017-07-18,news_event,CafeF,low,auto_keyword_match: hose
+VPB,2017-07-19,news_event,Vneconomy,low,auto_keyword_match: hose
+VPB,2017-08-09,news_event,Vneconomy,low,auto_keyword_match: hose
+VPB,2017-08-17,news_event,CafeF,low,auto_keyword_match: hose
+VPB,2017-08-23,news_event,CafeF,low,auto_keyword_match: hose
+VPB,2018-04-03,news_event,CafeF,low,auto_keyword_match: hose
+VPB,2018-07-16,news_event,DNSE,low,auto_keyword_match: hose
+VPB,2021-05-19,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VPB,2021-07-02,news_event,Vneconomy,low,auto_keyword_match: hose
+VPB,2021-11-24,news_event,CafeF,low,auto_keyword_match: hose
+VPB,2021-12-27,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VPB,2021-12-30,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VPB,2022-08-16,news_event,Fireant,low,auto_keyword_match: tự doanh
+VPB,2022-08-19,news_event,Fireant,low,auto_keyword_match: tự doanh
+VPB,2022-08-22,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VPB,2022-09-03,news_event,Fireant,low,auto_keyword_match: tự doanh
+VPB,2022-11-22,news_event,Fireant,low,auto_keyword_match: tự doanh
+VPB,2022-12-07,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VPB,2022-12-15,news_event,CafeF,low,"auto_keyword_match: hose, tự doanh"
+VPB,2022-12-21,news_event,CafeF,low,auto_keyword_match: xử phạt
+VPB,2022-12-28,news_event,CafeF,low,auto_keyword_match: tự doanh
+VPB,2022-12-29,news_event,CafeF,low,auto_keyword_match: tự doanh
+VPB,2023-03-24,news_event,CafeF,low,auto_keyword_match: tự doanh
+VPB,2023-03-27,news_event,CafeF,low,auto_keyword_match: tự doanh
+VPB,2023-04-03,news_event,CafeF,low,auto_keyword_match: tự doanh
+VPB,2023-08-02,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VPB,2023-08-08,news_event,Vneconomy,low,auto_keyword_match: tự doanh
+VPB,2024-07-19,news_event,DNSE,low,auto_keyword_match: tự doanh
+VPB,2024-10-17,news_event,CafeF,low,auto_keyword_match: giới hạn giao dịch
+VPB,2025-04-19,news_event,Baodautu,low,auto_keyword_match: tự doanh
+VPB,2025-08-20,news_event,Fireant,low,auto_keyword_match: tự doanh
+VPB,2025-12-01,news_event,CafeF,low,auto_keyword_match: hose
+VPB,2025-12-05,news_event,DNSE,low,auto_keyword_match: hose
+VPB,2025-12-08,news_event,Fireant,low,auto_keyword_match: hose
+VRE,2018-03-15,news_event,CafeF,low,auto_keyword_match: hose
+VRE,2018-07-16,news_event,DNSE,low,auto_keyword_match: hose
+VRE,2018-11-24,news_event,Vneconomy,low,auto_keyword_match: hose
+VRE,2022-01-13,news_event,CafeF,low,auto_keyword_match: hose
+VRE,2022-04-21,news_event,CafeF,low,auto_keyword_match: hose
+VRE,2023-10-17,news_event,CafeF,low,auto_keyword_match: hose
+VRE,2023-11-07,news_event,CafeF,low,"auto_keyword_match: hose, tự doanh"

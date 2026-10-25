@@ -1,0 +1,1027 @@
+﻿ticker,event_date,event_type,event_source,event_severity,notes
+HAI,2016-10-17,news_weak,Baodautu,low,auto_keyword_match: upcom
+ART,2016-10-25,news_weak,Baodautu,low,auto_keyword_match: hose
+HAI,2017-02-13,news_weak,Baodautu,low,auto_keyword_match: xử phạt
+STB,2017-03-28,news_weak,Baodautu,low,auto_keyword_match: upcom
+HAI,2017-06-20,news_weak,Baodautu,low,auto_keyword_match: hnx
+SSI,2017-10-12,news_weak,Baodautu,low,auto_keyword_match: hnx
+SSI,2017-10-24,news_weak,Baodautu,low,auto_keyword_match: hose
+POW,2018-01-18,news_weak,Baodautu,low,auto_keyword_match: hnx
+GAS,2018-01-31,news_weak,Baodautu,low,auto_keyword_match: xả hàng
+TPB,2018-02-01,news_weak,Baodautu,low,auto_keyword_match: hnx
+VJC,2018-02-28,news_weak,Baodautu,low,auto_keyword_match: hose
+TPB,2018-03-15,news_weak,Baodautu,low,auto_keyword_match: hose
+FPT,2018-03-21,news_weak,Baodautu,low,auto_keyword_match: hose
+FPT,2018-04-10,news_weak,Baodautu,low,"auto_keyword_match: hose, hnx"
+TPB,2018-04-19,news_weak,Baodautu,low,auto_keyword_match: hose
+HAI,2018-04-21,news_weak,Baodautu,low,auto_keyword_match: upcom
+FPT,2018-04-26,news_weak,Baodautu,low,auto_keyword_match: hose
+VHM,2018-05-17,news_weak,Baodautu,low,auto_keyword_match: hose
+HAI,2018-07-26,news_weak,Baodautu,low,auto_keyword_match: tự doanh
+REE,2018-08-28,news_weak,Baodautu,low,auto_keyword_match: xử phạt
+HAI,2019-10-23,news_weak,Baodautu,low,auto_keyword_match: xử phạt
+REE,2019-11-28,news_weak,Baodautu,low,auto_keyword_match: xử phạt
+VIC,2020-03-24,news_weak,Baodautu,low,auto_keyword_match: diện cảnh báo
+STB,2020-06-15,news_weak,Baodautu,low,auto_keyword_match: hose
+HAI,2020-06-18,news_weak,Baodautu,low,auto_keyword_match: hnx
+STB,2020-06-25,news_weak,Baodautu,low,auto_keyword_match: hose
+STB,2020-07-24,news_weak,Baodautu,low,auto_keyword_match: hose
+SSI,2020-08-18,news_weak,Baodautu,low,auto_keyword_match: hose
+FPT,2020-08-28,news_weak,Baodautu,low,auto_keyword_match: xả hàng
+FPT,2020-08-31,news_weak,Baodautu,low,auto_keyword_match: hose
+PLX,2020-09-18,news_weak,Baodautu,low,auto_keyword_match: xả hàng
+STB,2020-10-15,news_weak,Baodautu,low,auto_keyword_match: hose
+HDB,2020-10-23,news_weak,Baodautu,low,auto_keyword_match: ủy ban chứng khoán
+HAI,2021-02-20,news_weak,Baodautu,low,auto_keyword_match: xử phạt
+VIC,2021-04-16,news_weak,Baodautu,low,auto_keyword_match: hose
+BID,2021-04-18,news_weak,Baodautu,low,auto_keyword_match: hnx
+BID,2021-05-21,news_weak,Baodautu,low,auto_keyword_match: hose
+FLC,2022-01-11,news_weak,Baodautu,low,auto_keyword_match: hose
+HAI,2022-01-29,news_weak,Baodautu,low,auto_keyword_match: xử phạt
+HAI,2022-02-10,news_weak,Baodautu,low,auto_keyword_match: hose
+POW,2022-03-27,news_weak,Baodautu,low,auto_keyword_match: xử phạt
+HAI,2022-04-25,news_weak,Baodautu,low,auto_keyword_match: hose
+HAI,2022-05-17,news_weak,Baodautu,low,auto_keyword_match: tự doanh
+HAI,2022-05-18,news_weak,Baodautu,low,auto_keyword_match: hose
+HAI,2022-06-21,news_weak,Baodautu,low,auto_keyword_match: xử phạt
+FLC,2022-06-30,news_weak,Baodautu,low,auto_keyword_match: hose
+HAI,2022-09-15,news_weak,Baodautu,low,auto_keyword_match: xử phạt
+FLC,2022-12-26,news_weak,Baodautu,low,auto_keyword_match: xử phạt
+PVT,2023-01-10,news_weak,Baodautu,low,auto_keyword_match: hose
+FLC,2023-02-14,news_weak,Baodautu,low,auto_keyword_match: hose
+FLC,2023-02-24,news_weak,Baodautu,low,auto_keyword_match: đình chỉ giao dịch
+IDC,2023-05-30,news_weak,Baodautu,low,auto_keyword_match: hose
+HAI,2023-06-26,news_weak,Baodautu,low,auto_keyword_match: xử phạt
+HAI,2023-09-28,news_weak,Baodautu,low,auto_keyword_match: xử phạt
+PVT,2024-04-24,news_weak,Baodautu,low,auto_keyword_match: hose
+HAI,2024-09-27,news_weak,Baodautu,low,auto_keyword_match: cảnh báo rủi ro
+ART,2024-11-23,news_weak,Baodautu,low,auto_keyword_match: xử phạt
+HAI,2024-12-24,news_weak,Baodautu,low,auto_keyword_match: hose
+REE,2025-04-28,news_weak,Baodautu,low,auto_keyword_match: xử phạt
+VPB,2025-04-19,news_weak,Baodautu,low,auto_keyword_match: tự doanh
+HAI,2025-05-20,news_weak,Baodautu,low,auto_keyword_match: cảnh báo rủi ro
+IDC,2025-06-28,news_weak,Baodautu,low,auto_keyword_match: hose
+TCB,2025-08-26,news_weak,Baodautu,low,auto_keyword_match: hose
+PVT,2025-10-27,news_weak,Baodautu,low,auto_keyword_match: hose
+PVT,2025-11-19,news_weak,Baodautu,low,auto_keyword_match: hose
+VIC,2016-01-11,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VIC,2016-01-13,news_weak,CafeF,low,auto_keyword_match: xả hàng
+MBB,2016-02-22,news_weak,CafeF,low,auto_keyword_match: xả hàng
+GAS,2016-02-29,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2016-02-29,news_weak,CafeF,low,"auto_keyword_match: hose, hnx"
+HAI,2016-03-02,news_weak,CafeF,low,auto_keyword_match: hnx
+FPT,2016-03-09,news_weak,CafeF,low,auto_keyword_match: tự doanh
+SSI,2016-04-04,news_weak,CafeF,low,"auto_keyword_match: upcom, hnx"
+VIC,2016-04-05,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VNI,2016-04-07,news_weak,CafeF,low,auto_keyword_match: upcom
+VIC,2016-04-07,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VIC,2016-04-12,news_weak,CafeF,low,auto_keyword_match: hnx
+HAI,2016-05-09,news_weak,CafeF,low,auto_keyword_match: xử phạt
+VNM,2016-06-29,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VNI,2016-06-29,news_weak,CafeF,low,auto_keyword_match: xả hàng
+SSI,2016-07-06,news_weak,CafeF,low,"auto_keyword_match: upcom, hnx"
+VNI,2016-07-21,news_weak,CafeF,low,auto_keyword_match: hnx
+VNM,2016-08-04,news_weak,CafeF,low,auto_keyword_match: hnx
+VNM,2016-09-05,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VCB,2016-09-05,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VNM,2016-09-06,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VCB,2016-09-06,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VNM,2016-09-07,news_weak,CafeF,low,"auto_keyword_match: xả hàng, hose"
+VNM,2016-09-12,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VNM,2016-09-13,news_weak,CafeF,low,"auto_keyword_match: xả hàng, hose"
+VCB,2016-09-13,news_weak,CafeF,low,"auto_keyword_match: xả hàng, hose"
+SAB,2016-09-15,news_weak,CafeF,low,auto_keyword_match: hose
+TCH,2016-09-19,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2016-10-03,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2016-10-05,news_weak,CafeF,low,auto_keyword_match: hnx
+SAB,2016-10-06,news_weak,CafeF,low,auto_keyword_match: hose
+HPG,2016-10-10,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VNI,2016-10-10,news_weak,CafeF,low,auto_keyword_match: xả hàng
+HPG,2016-10-11,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VNI,2016-10-11,news_weak,CafeF,low,auto_keyword_match: xả hàng
+FPT,2016-10-31,news_weak,CafeF,low,auto_keyword_match: hose
+ACV,2016-11-01,news_weak,CafeF,low,auto_keyword_match: upcom
+SAB,2016-11-07,news_weak,CafeF,low,auto_keyword_match: hose
+ACV,2016-11-10,news_weak,CafeF,low,auto_keyword_match: upcom
+SAB,2016-11-10,news_weak,CafeF,low,auto_keyword_match: hose
+VNM,2016-11-15,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2016-11-19,news_weak,CafeF,low,auto_keyword_match: hnx
+VNM,2016-11-21,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2016-11-24,news_weak,CafeF,low,auto_keyword_match: hose
+VNM,2016-11-24,news_weak,CafeF,low,"auto_keyword_match: xả hàng, hose"
+SAB,2016-11-25,news_weak,CafeF,low,auto_keyword_match: hose
+BID,2016-11-28,news_weak,CafeF,low,auto_keyword_match: hose
+VNM,2016-11-29,news_weak,CafeF,low,auto_keyword_match: hnx
+POW,2016-12-01,news_weak,CafeF,low,auto_keyword_match: upcom
+VNM,2016-12-01,news_weak,CafeF,low,auto_keyword_match: xả hàng
+SAB,2016-12-05,news_weak,CafeF,low,auto_keyword_match: hose
+POW,2016-12-11,news_weak,CafeF,low,auto_keyword_match: upcom
+PVT,2016-12-11,news_weak,CafeF,low,auto_keyword_match: upcom
+VNI,2016-12-16,news_weak,CafeF,low,auto_keyword_match: xả hàng
+FPT,2016-12-20,news_weak,CafeF,low,auto_keyword_match: upcom
+FPT,2016-12-21,news_weak,CafeF,low,auto_keyword_match: upcom
+HAI,2016-12-22,news_weak,CafeF,low,auto_keyword_match: ubcknn
+SAB,2016-12-23,news_weak,CafeF,low,auto_keyword_match: upcom
+FPT,2016-12-30,news_weak,CafeF,low,auto_keyword_match: upcom
+SAB,2016-12-30,news_weak,CafeF,low,auto_keyword_match: upcom
+ART,2017-01-01,news_weak,CafeF,low,auto_keyword_match: upcom
+VNM,2017-01-02,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2017-01-02,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2017-01-06,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2017-01-07,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2017-01-07,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2017-01-09,news_weak,CafeF,low,auto_keyword_match: hnx
+VNM,2017-02-06,news_weak,CafeF,low,auto_keyword_match: upcom
+VNI,2017-02-06,news_weak,CafeF,low,auto_keyword_match: upcom
+VNI,2017-02-07,news_weak,CafeF,low,auto_keyword_match: upcom
+FPT,2017-02-12,news_weak,CafeF,low,auto_keyword_match: làm giá
+SAB,2017-02-21,news_weak,CafeF,low,auto_keyword_match: upcom
+ACV,2017-03-07,news_weak,CafeF,low,auto_keyword_match: hose
+ART,2017-04-05,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2017-04-13,news_weak,CafeF,low,auto_keyword_match: hnx
+VNM,2017-04-13,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2017-04-13,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2017-05-18,news_weak,CafeF,low,auto_keyword_match: upcom
+VNI,2017-06-27,news_weak,CafeF,low,auto_keyword_match: upcom
+ART,2017-07-05,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2017-07-05,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2017-07-05,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2017-07-07,news_weak,CafeF,low,auto_keyword_match: upcom
+VNI,2017-07-07,news_weak,CafeF,low,auto_keyword_match: hose
+IDC,2017-07-08,news_weak,CafeF,low,auto_keyword_match: hose
+VPB,2017-07-18,news_weak,CafeF,low,auto_keyword_match: hose
+ART,2017-07-26,news_weak,CafeF,low,auto_keyword_match: upcom
+BID,2017-08-02,news_weak,CafeF,low,auto_keyword_match: hose
+BID,2017-08-06,news_weak,CafeF,low,auto_keyword_match: hose
+HPG,2017-08-06,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2017-08-07,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2017-08-08,news_weak,CafeF,low,auto_keyword_match: ubcknn
+VPB,2017-08-17,news_weak,CafeF,low,auto_keyword_match: hose
+ART,2017-08-18,news_weak,CafeF,low,auto_keyword_match: hnx
+VNM,2017-08-22,news_weak,CafeF,low,auto_keyword_match: hnx
+SAB,2017-08-22,news_weak,CafeF,low,auto_keyword_match: hnx
+VIC,2017-08-22,news_weak,CafeF,low,auto_keyword_match: hnx
+VPB,2017-08-23,news_weak,CafeF,low,auto_keyword_match: hose
+FLC,2017-08-23,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2017-08-23,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2017-08-28,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2017-09-05,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2017-09-19,news_weak,CafeF,low,auto_keyword_match: upcom
+ACV,2017-09-22,news_weak,CafeF,low,auto_keyword_match: ubcknn
+ART,2017-10-05,news_weak,CafeF,low,auto_keyword_match: hose
+KBC,2017-10-24,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VNI,2017-11-06,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2017-11-16,news_weak,CafeF,low,auto_keyword_match: hose
+HPG,2017-11-20,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VNI,2017-11-20,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VNI,2017-11-21,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2017-11-22,news_weak,CafeF,low,auto_keyword_match: hose
+FLC,2017-12-14,news_weak,CafeF,low,auto_keyword_match: ubcknn
+NVL,2017-12-25,news_weak,CafeF,low,auto_keyword_match: xả hàng
+HDB,2018-01-05,news_weak,CafeF,low,auto_keyword_match: hose
+HDB,2018-01-07,news_weak,CafeF,low,auto_keyword_match: hose
+ART,2018-01-09,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2018-01-09,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2018-01-09,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2018-01-19,news_weak,CafeF,low,auto_keyword_match: đẩy giá
+VNI,2018-01-22,news_weak,CafeF,low,auto_keyword_match: hose
+GAS,2018-02-05,news_weak,CafeF,low,auto_keyword_match: đẩy giá
+POW,2018-02-28,news_weak,CafeF,low,auto_keyword_match: upcom
+POW,2018-03-06,news_weak,CafeF,low,auto_keyword_match: upcom
+TPB,2018-03-14,news_weak,CafeF,low,auto_keyword_match: hose
+VRE,2018-03-15,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2018-03-15,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2018-03-19,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2018-03-20,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2018-03-26,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2018-03-29,news_weak,CafeF,low,auto_keyword_match: hose
+VPB,2018-04-03,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2018-04-03,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2018-04-06,news_weak,CafeF,low,auto_keyword_match: hnx
+SAB,2018-04-10,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2018-04-10,news_weak,CafeF,low,auto_keyword_match: hose
+BVH,2018-04-10,news_weak,CafeF,low,auto_keyword_match: hose
+HDB,2018-04-10,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2018-04-11,news_weak,CafeF,low,auto_keyword_match: hose
+VCB,2018-04-12,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2018-04-12,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2018-04-13,news_weak,CafeF,low,auto_keyword_match: xả hàng
+BID,2018-04-16,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VNM,2018-04-16,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VNI,2018-04-16,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VCB,2018-04-16,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VNM,2018-05-15,news_weak,CafeF,low,auto_keyword_match: xả hàng
+HPG,2018-05-17,news_weak,CafeF,low,auto_keyword_match: xả hàng
+BID,2018-05-28,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2018-06-04,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2019-01-04,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2019-02-21,news_weak,CafeF,low,auto_keyword_match: ubcknn
+HPG,2019-02-24,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2019-03-08,news_weak,CafeF,low,auto_keyword_match: hnx
+SSI,2019-04-03,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2019-04-07,news_weak,CafeF,low,auto_keyword_match: tự doanh
+ACV,2019-06-22,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2019-07-06,news_weak,CafeF,low,auto_keyword_match: hnx
+VCB,2019-07-26,news_weak,CafeF,low,auto_keyword_match: hose
+IDC,2019-08-21,news_weak,CafeF,low,auto_keyword_match: upcom
+HAI,2019-09-22,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HPG,2019-09-29,news_weak,CafeF,low,auto_keyword_match: tự doanh
+SSI,2019-10-03,news_weak,CafeF,low,auto_keyword_match: hose
+MBB,2019-10-13,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HPG,2019-10-27,news_weak,CafeF,low,auto_keyword_match: tự doanh
+VNM,2019-10-27,news_weak,CafeF,low,auto_keyword_match: tự doanh
+MBB,2019-10-27,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2019-11-14,news_weak,CafeF,low,auto_keyword_match: hose
+CTG,2019-11-16,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2019-11-29,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2019-12-11,news_weak,CafeF,low,auto_keyword_match: upcom
+VCI,2019-12-20,news_weak,CafeF,low,auto_keyword_match: tự doanh
+VIC,2020-01-01,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2020-01-09,news_weak,CafeF,low,auto_keyword_match: hnx
+CTG,2020-01-19,news_weak,CafeF,low,auto_keyword_match: hose
+FLC,2020-03-03,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2020-03-13,news_weak,CafeF,low,auto_keyword_match: hose
+FRT,2020-04-25,news_weak,CafeF,low,auto_keyword_match: xả hàng
+VCI,2020-05-08,news_weak,CafeF,low,auto_keyword_match: hose
+VNM,2020-05-09,news_weak,CafeF,low,auto_keyword_match: tự doanh
+VNI,2020-05-19,news_weak,CafeF,low,auto_keyword_match: hose
+VHM,2020-07-05,news_weak,CafeF,low,auto_keyword_match: hose
+TCB,2020-07-06,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2020-07-07,news_weak,CafeF,low,auto_keyword_match: hnx
+DGC,2020-07-22,news_weak,CafeF,low,auto_keyword_match: hose
+IDC,2020-08-08,news_weak,CafeF,low,auto_keyword_match: upcom
+IDC,2020-08-20,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2020-08-25,news_weak,CafeF,low,auto_keyword_match: hose
+CTG,2020-09-06,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HPG,2020-11-28,news_weak,CafeF,low,auto_keyword_match: tự doanh
+VJC,2020-11-28,news_weak,CafeF,low,auto_keyword_match: tự doanh
+SSI,2021-01-06,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2021-03-03,news_weak,CafeF,low,auto_keyword_match: hnx
+VNI,2021-03-05,news_weak,CafeF,low,auto_keyword_match: hose
+BID,2021-03-09,news_weak,CafeF,low,"auto_keyword_match: hose, hnx"
+FPT,2021-03-09,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2021-03-09,news_weak,CafeF,low,"auto_keyword_match: hose, hnx"
+HAI,2021-03-09,news_weak,CafeF,low,"auto_keyword_match: hose, hnx"
+HAI,2021-03-30,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2021-03-30,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2021-04-07,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2021-04-08,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2021-04-12,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2021-04-12,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2021-04-12,news_weak,CafeF,low,auto_keyword_match: hose
+VNM,2021-04-19,news_weak,CafeF,low,auto_keyword_match: tự doanh
+MBB,2021-04-19,news_weak,CafeF,low,auto_keyword_match: tự doanh
+FPT,2021-06-01,news_weak,CafeF,low,"auto_keyword_match: tạm ngừng giao dịch, hose"
+FPT,2021-06-09,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2021-06-22,news_weak,CafeF,low,"auto_keyword_match: hose, hnx"
+VHM,2021-06-29,news_weak,CafeF,low,auto_keyword_match: hose
+VCB,2021-06-30,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2021-07-02,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2021-07-08,news_weak,CafeF,low,auto_keyword_match: hnx
+VIC,2021-07-15,news_weak,CafeF,low,auto_keyword_match: hnx
+NVL,2021-07-20,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2021-07-20,news_weak,CafeF,low,auto_keyword_match: hose
+ACV,2021-07-22,news_weak,CafeF,low,"auto_keyword_match: upcom, tạm ngừng giao dịch"
+VIC,2021-07-23,news_weak,CafeF,low,auto_keyword_match: hose
+ACV,2021-07-26,news_weak,CafeF,low,auto_keyword_match: upcom
+HPG,2021-07-29,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2021-08-16,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2021-08-20,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2021-08-23,news_weak,CafeF,low,auto_keyword_match: hnx
+VNI,2021-09-08,news_weak,CafeF,low,auto_keyword_match: hnx
+HAI,2021-09-13,news_weak,CafeF,low,"auto_keyword_match: upcom, hose"
+IDC,2021-09-20,news_weak,CafeF,low,auto_keyword_match: hose
+HPG,2021-10-04,news_weak,CafeF,low,auto_keyword_match: hose
+VHM,2021-10-04,news_weak,CafeF,low,auto_keyword_match: hose
+VCB,2021-10-04,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2021-10-04,news_weak,CafeF,low,auto_keyword_match: hose
+TCB,2021-10-06,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2021-10-06,news_weak,CafeF,low,auto_keyword_match: hose
+VHM,2021-10-15,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2021-10-15,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2021-10-15,news_weak,CafeF,low,auto_keyword_match: hose
+HPG,2021-10-27,news_weak,CafeF,low,auto_keyword_match: hose
+KBC,2021-10-27,news_weak,CafeF,low,auto_keyword_match: hose
+VHM,2021-10-29,news_weak,CafeF,low,auto_keyword_match: hose
+VNI,2021-11-01,news_weak,CafeF,low,auto_keyword_match: hose
+STB,2021-11-06,news_weak,CafeF,low,auto_keyword_match: ủy ban chứng khoán
+CTG,2021-11-12,news_weak,CafeF,low,auto_keyword_match: hose
+VHM,2021-11-15,news_weak,CafeF,low,auto_keyword_match: hose
+HPG,2021-11-24,news_weak,CafeF,low,auto_keyword_match: hose
+VCI,2021-11-24,news_weak,CafeF,low,auto_keyword_match: hose
+VPB,2021-11-24,news_weak,CafeF,low,auto_keyword_match: hose
+HPG,2021-12-02,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2021-12-03,news_weak,CafeF,low,auto_keyword_match: hose
+KBC,2021-12-27,news_weak,CafeF,low,auto_keyword_match: hose
+CTG,2021-12-27,news_weak,CafeF,low,auto_keyword_match: hose
+CTG,2021-12-29,news_weak,CafeF,low,auto_keyword_match: hose
+NVL,2022-01-13,news_weak,CafeF,low,auto_keyword_match: hose
+VRE,2022-01-13,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2022-01-16,news_weak,CafeF,low,"auto_keyword_match: xử phạt, ubcknn"
+VNI,2022-01-24,news_weak,CafeF,low,auto_keyword_match: hose
+VNM,2022-02-08,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2022-02-08,news_weak,CafeF,low,auto_keyword_match: hose
+HPG,2022-02-10,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2022-02-10,news_weak,CafeF,low,auto_keyword_match: hose
+HPG,2022-03-09,news_weak,CafeF,low,auto_keyword_match: hose
+VNM,2022-03-09,news_weak,CafeF,low,auto_keyword_match: hose
+HPG,2022-03-10,news_weak,CafeF,low,auto_keyword_match: hose
+HPG,2022-03-15,news_weak,CafeF,low,auto_keyword_match: hose
+VNM,2022-03-18,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2022-03-18,news_weak,CafeF,low,auto_keyword_match: hose
+VNM,2022-03-24,news_weak,CafeF,low,auto_keyword_match: hose
+VHM,2022-04-05,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2022-04-05,news_weak,CafeF,low,auto_keyword_match: hose
+VNM,2022-04-21,news_weak,CafeF,low,auto_keyword_match: hose
+VRE,2022-04-21,news_weak,CafeF,low,auto_keyword_match: hose
+VHM,2022-05-18,news_weak,CafeF,low,auto_keyword_match: tự doanh
+VIC,2022-05-18,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2022-07-11,news_weak,CafeF,low,auto_keyword_match: hose
+REE,2022-07-24,news_weak,CafeF,low,auto_keyword_match: xử phạt
+NVL,2022-07-29,news_weak,CafeF,low,auto_keyword_match: hose
+VHM,2022-08-02,news_weak,CafeF,low,auto_keyword_match: hose
+VCB,2022-08-02,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2022-08-02,news_weak,CafeF,low,auto_keyword_match: hose
+HPG,2022-08-15,news_weak,CafeF,low,auto_keyword_match: hose
+HPG,2022-08-16,news_weak,CafeF,low,auto_keyword_match: hose
+FLC,2022-08-17,news_weak,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+HDB,2022-08-17,news_weak,CafeF,low,auto_keyword_match: hose
+FLC,2022-08-18,news_weak,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+FLC,2022-08-19,news_weak,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+VNM,2022-08-24,news_weak,CafeF,low,auto_keyword_match: hose
+FLC,2022-08-24,news_weak,CafeF,low,"auto_keyword_match: đình chỉ giao dịch, hose"
+FLC,2022-09-01,news_weak,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+HAI,2022-09-05,news_weak,CafeF,low,auto_keyword_match: hose
+NVL,2022-09-05,news_weak,CafeF,low,auto_keyword_match: hose
+IDC,2022-09-11,news_weak,CafeF,low,auto_keyword_match: tự doanh
+FLC,2022-09-29,news_weak,CafeF,low,auto_keyword_match: diện cảnh báo
+HAI,2022-10-02,news_weak,CafeF,low,"auto_keyword_match: xử phạt, ubcknn"
+VIC,2022-10-04,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2022-10-05,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2022-10-09,news_weak,CafeF,low,auto_keyword_match: xử phạt
+VNM,2022-10-09,news_weak,CafeF,low,auto_keyword_match: hose
+IDC,2022-10-09,news_weak,CafeF,low,auto_keyword_match: hose
+FLC,2022-10-18,news_weak,CafeF,low,auto_keyword_match: hose
+FLC,2022-11-18,news_weak,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+HAI,2022-11-18,news_weak,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+ART,2022-11-18,news_weak,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+HAI,2022-12-05,news_weak,CafeF,low,"auto_keyword_match: xử phạt, ubcknn"
+HAI,2022-12-06,news_weak,CafeF,low,"auto_keyword_match: xử phạt, ubcknn"
+NVL,2022-12-14,news_weak,CafeF,low,"auto_keyword_match: tự doanh, hose"
+HPG,2022-12-15,news_weak,CafeF,low,"auto_keyword_match: tự doanh, hose"
+VPB,2022-12-15,news_weak,CafeF,low,"auto_keyword_match: tự doanh, hose"
+NVL,2022-12-20,news_weak,CafeF,low,"auto_keyword_match: tự doanh, hose"
+VPB,2022-12-21,news_weak,CafeF,low,auto_keyword_match: xử phạt
+HPG,2022-12-26,news_weak,CafeF,low,auto_keyword_match: tự doanh
+VPB,2022-12-28,news_weak,CafeF,low,auto_keyword_match: tự doanh
+VPB,2022-12-29,news_weak,CafeF,low,auto_keyword_match: tự doanh
+NVL,2022-12-29,news_weak,CafeF,low,auto_keyword_match: tự doanh
+TCB,2023-01-06,news_weak,CafeF,low,auto_keyword_match: hose
+NVL,2023-01-09,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HPG,2023-01-11,news_weak,CafeF,low,"auto_keyword_match: tự doanh, hose"
+REE,2023-01-14,news_weak,CafeF,low,auto_keyword_match: ủy ban chứng khoán
+HAI,2023-01-30,news_weak,CafeF,low,auto_keyword_match: tự doanh
+MWG,2023-02-02,news_weak,CafeF,low,auto_keyword_match: tự doanh
+VIC,2023-02-04,news_weak,CafeF,low,auto_keyword_match: ubcknn
+HPG,2023-02-08,news_weak,CafeF,low,auto_keyword_match: tự doanh
+FLC,2023-02-16,news_weak,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+FLC,2023-02-19,news_weak,CafeF,low,auto_keyword_match: upcom
+FLC,2023-02-21,news_weak,CafeF,low,auto_keyword_match: upcom
+FLC,2023-02-22,news_weak,CafeF,low,auto_keyword_match: upcom
+FLC,2023-03-01,news_weak,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+AMD,2023-03-01,news_weak,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+NVL,2023-03-06,news_weak,CafeF,low,auto_keyword_match: hose
+FLC,2023-03-08,news_weak,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+STB,2023-03-09,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2023-03-17,news_weak,CafeF,low,"auto_keyword_match: xử phạt, ubcknn"
+HAI,2023-03-18,news_weak,CafeF,low,auto_keyword_match: xử phạt
+VPB,2023-03-24,news_weak,CafeF,low,auto_keyword_match: tự doanh
+VPB,2023-03-27,news_weak,CafeF,low,auto_keyword_match: tự doanh
+VPB,2023-04-03,news_weak,CafeF,low,auto_keyword_match: tự doanh
+SSI,2023-04-05,news_weak,CafeF,low,auto_keyword_match: hose
+ART,2023-04-06,news_weak,CafeF,low,auto_keyword_match: hnx
+NVL,2023-04-10,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2023-04-10,news_weak,CafeF,low,auto_keyword_match: tự doanh
+NVL,2023-04-11,news_weak,CafeF,low,auto_keyword_match: hose
+HPG,2023-04-13,news_weak,CafeF,low,auto_keyword_match: tự doanh
+DGC,2023-04-13,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HPG,2023-04-18,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2023-04-18,news_weak,CafeF,low,auto_keyword_match: xử phạt
+NVL,2023-04-19,news_weak,CafeF,low,"auto_keyword_match: hose, diện cảnh báo"
+NVL,2023-04-21,news_weak,CafeF,low,auto_keyword_match: diện cảnh báo
+FLC,2023-04-24,news_weak,CafeF,low,"auto_keyword_match: upcom, đình chỉ giao dịch"
+HAI,2023-04-24,news_weak,CafeF,low,"auto_keyword_match: upcom, đình chỉ giao dịch"
+HAI,2023-04-26,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2023-05-11,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2023-05-13,news_weak,CafeF,low,"auto_keyword_match: xử phạt, ủy ban chứng khoán"
+HPG,2023-05-17,news_weak,CafeF,low,auto_keyword_match: tự doanh
+SSI,2023-05-17,news_weak,CafeF,low,auto_keyword_match: tự doanh
+FLC,2023-05-23,news_weak,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+FLC,2023-05-24,news_weak,CafeF,low,auto_keyword_match: upcom
+NVL,2023-06-08,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2023-06-27,news_weak,CafeF,low,auto_keyword_match: upcom
+NVL,2023-07-05,news_weak,CafeF,low,auto_keyword_match: hose
+ART,2023-07-06,news_weak,CafeF,low,auto_keyword_match: hnx
+FLC,2023-07-11,news_weak,CafeF,low,"auto_keyword_match: upcom, diện cảnh báo"
+FPT,2023-07-13,news_weak,CafeF,low,auto_keyword_match: tự doanh
+MWG,2023-07-13,news_weak,CafeF,low,auto_keyword_match: tự doanh
+STB,2023-07-14,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2023-07-17,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2023-07-19,news_weak,CafeF,low,auto_keyword_match: hnx
+HAI,2023-07-22,news_weak,CafeF,low,auto_keyword_match: xử phạt
+ART,2023-07-26,news_weak,CafeF,low,auto_keyword_match: xử phạt
+PNJ,2023-07-28,news_weak,CafeF,low,auto_keyword_match: tự doanh
+VNM,2023-08-07,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HPG,2023-08-14,news_weak,CafeF,low,auto_keyword_match: tự doanh
+FPT,2023-08-16,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2023-08-25,news_weak,CafeF,low,auto_keyword_match: upcom
+KBC,2023-08-29,news_weak,CafeF,low,"auto_keyword_match: xử phạt, ubcknn"
+HAI,2023-08-31,news_weak,CafeF,low,auto_keyword_match: ubcknn
+VIC,2023-09-10,news_weak,CafeF,low,auto_keyword_match: hose
+PNJ,2023-09-18,news_weak,CafeF,low,auto_keyword_match: xử phạt
+CTG,2023-10-03,news_weak,CafeF,low,auto_keyword_match: hose
+NVL,2023-10-04,news_weak,CafeF,low,auto_keyword_match: hose
+FRT,2023-10-04,news_weak,CafeF,low,auto_keyword_match: hose
+TCB,2023-10-05,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2023-10-10,news_weak,CafeF,low,auto_keyword_match: hnx
+MWG,2023-10-12,news_weak,CafeF,low,auto_keyword_match: tự doanh
+VRE,2023-10-17,news_weak,CafeF,low,auto_keyword_match: hose
+PDR,2023-10-27,news_weak,CafeF,low,auto_keyword_match: ubcknn
+NVL,2023-10-30,news_weak,CafeF,low,auto_keyword_match: diện cảnh báo
+NVL,2023-11-02,news_weak,CafeF,low,auto_keyword_match: diện cảnh báo
+VRE,2023-11-07,news_weak,CafeF,low,"auto_keyword_match: tự doanh, hose"
+HAI,2023-11-07,news_weak,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+NVL,2023-11-15,news_weak,CafeF,low,auto_keyword_match: tự doanh
+VCB,2023-11-15,news_weak,CafeF,low,auto_keyword_match: tự doanh
+FLC,2023-11-25,news_weak,CafeF,low,auto_keyword_match: xử phạt
+NVL,2023-11-28,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2023-12-06,news_weak,CafeF,low,auto_keyword_match: hnx
+HAI,2023-12-16,news_weak,CafeF,low,auto_keyword_match: ubcknn
+HAI,2023-12-26,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-01-05,news_weak,CafeF,low,auto_keyword_match: hnx
+TCB,2024-01-05,news_weak,CafeF,low,auto_keyword_match: hose
+MWG,2024-01-16,news_weak,CafeF,low,auto_keyword_match: hose
+MWG,2024-01-17,news_weak,CafeF,low,auto_keyword_match: hose
+HPG,2024-01-19,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HPG,2024-02-15,news_weak,CafeF,low,auto_keyword_match: tự doanh
+NVL,2024-02-15,news_weak,CafeF,low,auto_keyword_match: tự doanh
+NVL,2024-02-20,news_weak,CafeF,low,auto_keyword_match: tự doanh
+FLC,2024-02-25,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2024-02-27,news_weak,CafeF,low,auto_keyword_match: tự doanh
+BID,2024-02-28,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2024-02-28,news_weak,CafeF,low,auto_keyword_match: hose
+HPG,2024-03-01,news_weak,CafeF,low,auto_keyword_match: tự doanh
+FRT,2024-03-11,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2024-03-19,news_weak,CafeF,low,"auto_keyword_match: tự doanh, hose"
+HAI,2024-04-09,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2024-04-22,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-04-23,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2024-04-25,news_weak,CafeF,low,auto_keyword_match: tự doanh
+ACV,2024-05-06,news_weak,CafeF,low,"auto_keyword_match: upcom, hnx"
+HAI,2024-05-07,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-05-10,news_weak,CafeF,low,auto_keyword_match: tự doanh
+FRT,2024-05-11,news_weak,CafeF,low,auto_keyword_match: hose
+STB,2024-05-14,news_weak,CafeF,low,auto_keyword_match: tự doanh
+MWG,2024-05-14,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HPG,2024-05-15,news_weak,CafeF,low,auto_keyword_match: hose
+MWG,2024-05-15,news_weak,CafeF,low,auto_keyword_match: hose
+ACV,2024-05-24,news_weak,CafeF,low,auto_keyword_match: upcom
+HAI,2024-06-17,news_weak,CafeF,low,auto_keyword_match: tự doanh
+FPT,2024-06-18,news_weak,CafeF,low,auto_keyword_match: xả hàng
+FRT,2024-06-20,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2024-06-24,news_weak,CafeF,low,auto_keyword_match: xả hàng
+FRT,2024-06-26,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2024-06-26,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-07-02,news_weak,CafeF,low,auto_keyword_match: tự doanh
+FRT,2024-07-03,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2024-07-03,news_weak,CafeF,low,auto_keyword_match: tự doanh
+TCB,2024-07-05,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2024-07-10,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HDB,2024-07-10,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-07-14,news_weak,CafeF,low,auto_keyword_match: đình chỉ giao dịch
+HAI,2024-07-15,news_weak,CafeF,low,auto_keyword_match: tự doanh
+VIC,2024-07-16,news_weak,CafeF,low,auto_keyword_match: xử phạt
+HPG,2024-07-17,news_weak,CafeF,low,auto_keyword_match: tự doanh
+MBB,2024-07-17,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-07-18,news_weak,CafeF,low,auto_keyword_match: tự doanh
+ACV,2024-07-24,news_weak,CafeF,low,"auto_keyword_match: upcom, ubcknn"
+HAI,2024-07-24,news_weak,CafeF,low,"auto_keyword_match: upcom, ubcknn"
+HAI,2024-07-27,news_weak,CafeF,low,auto_keyword_match: xả hàng
+HAI,2024-08-02,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-08-05,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-08-06,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-08-14,news_weak,CafeF,low,auto_keyword_match: tự doanh
+FRT,2024-08-15,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2024-08-28,news_weak,CafeF,low,auto_keyword_match: ubcknn
+HAI,2024-08-30,news_weak,CafeF,low,auto_keyword_match: tự doanh
+POW,2024-09-09,news_weak,CafeF,low,auto_keyword_match: hose
+NVL,2024-09-18,news_weak,CafeF,low,auto_keyword_match: diện cảnh báo
+HAI,2024-09-20,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2024-09-30,news_weak,CafeF,low,auto_keyword_match: xử phạt
+NVL,2024-10-03,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2024-10-07,news_weak,CafeF,low,auto_keyword_match: hose
+PNJ,2024-10-07,news_weak,CafeF,low,auto_keyword_match: xử phạt
+PNJ,2024-10-08,news_weak,CafeF,low,auto_keyword_match: xử phạt
+VPB,2024-10-17,news_weak,CafeF,low,auto_keyword_match: giới hạn giao dịch
+ART,2024-10-29,news_weak,CafeF,low,auto_keyword_match: xử phạt
+VHM,2024-11-12,news_weak,CafeF,low,auto_keyword_match: tự doanh
+FLC,2024-11-27,news_weak,CafeF,low,auto_keyword_match: xử phạt
+GAB,2024-11-27,news_weak,CafeF,low,auto_keyword_match: xử phạt
+HAI,2025-01-02,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-01-13,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-01-23,news_weak,CafeF,low,auto_keyword_match: tự doanh
+FPT,2025-02-03,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-02-12,news_weak,CafeF,low,auto_keyword_match: tự doanh
+ACV,2025-02-20,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2025-02-25,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-03-03,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-03-06,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-03-07,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-03-10,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-03-11,news_weak,CafeF,low,auto_keyword_match: ubcknn
+FPT,2025-03-19,news_weak,CafeF,low,auto_keyword_match: tự doanh
+FPT,2025-03-20,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-03-26,news_weak,CafeF,low,auto_keyword_match: tự doanh
+FPT,2025-03-31,news_weak,CafeF,low,auto_keyword_match: tự doanh
+TCB,2025-03-31,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-04-01,news_weak,CafeF,low,auto_keyword_match: tự doanh
+NVL,2025-04-03,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2025-04-03,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2025-05-15,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-06-05,news_weak,CafeF,low,auto_keyword_match: ủy ban chứng khoán
+VIC,2025-06-18,news_weak,CafeF,low,auto_keyword_match: xả hàng
+HAI,2025-06-27,news_weak,CafeF,low,auto_keyword_match: tự doanh
+NVL,2025-07-03,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2025-07-04,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2025-07-17,news_weak,CafeF,low,auto_keyword_match: tự doanh
+FPT,2025-07-18,news_weak,CafeF,low,auto_keyword_match: tự doanh
+VIC,2025-07-29,news_weak,CafeF,low,auto_keyword_match: xả hàng
+HAI,2025-08-04,news_weak,CafeF,low,auto_keyword_match: tự doanh
+NVL,2025-08-07,news_weak,CafeF,low,auto_keyword_match: hose
+HPG,2025-08-11,news_weak,CafeF,low,auto_keyword_match: hose
+FPT,2025-08-11,news_weak,CafeF,low,auto_keyword_match: hose
+NVL,2025-08-19,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2025-08-19,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2025-08-23,news_weak,CafeF,low,auto_keyword_match: xả hàng
+NVL,2025-09-02,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2025-09-12,news_weak,CafeF,low,"auto_keyword_match: xử phạt, ubcknn"
+TCB,2025-09-19,news_weak,CafeF,low,auto_keyword_match: hose
+TCB,2025-09-26,news_weak,CafeF,low,auto_keyword_match: hose
+REE,2025-09-30,news_weak,CafeF,low,auto_keyword_match: xử phạt
+NVL,2025-10-03,news_weak,CafeF,low,auto_keyword_match: hose
+SSI,2025-10-06,news_weak,CafeF,low,auto_keyword_match: hose
+TCB,2025-10-10,news_weak,CafeF,low,auto_keyword_match: hose
+TCB,2025-10-16,news_weak,CafeF,low,auto_keyword_match: hose
+VIC,2025-10-17,news_weak,CafeF,low,auto_keyword_match: diện cảnh báo
+FPT,2025-10-21,news_weak,CafeF,low,auto_keyword_match: tự doanh
+PVT,2025-11-13,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2025-11-13,news_weak,CafeF,low,auto_keyword_match: xử phạt
+HAI,2025-11-20,news_weak,CafeF,low,auto_keyword_match: tự doanh
+TCB,2025-11-22,news_weak,CafeF,low,auto_keyword_match: ubcknn
+SSI,2025-11-22,news_weak,CafeF,low,auto_keyword_match: ubcknn
+HAI,2025-11-25,news_weak,CafeF,low,auto_keyword_match: xử phạt
+HAI,2025-11-28,news_weak,CafeF,low,auto_keyword_match: tự doanh
+VPB,2025-12-01,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2025-12-03,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-12-15,news_weak,CafeF,low,auto_keyword_match: hose
+HAI,2025-12-30,news_weak,CafeF,low,auto_keyword_match: tự doanh
+HAI,2025-01-03,news_weak,DNSE,low,auto_keyword_match: xử phạt
+PVT,2025-01-10,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2025-01-14,news_weak,DNSE,low,auto_keyword_match: xử phạt
+HAI,2025-01-16,news_weak,DNSE,low,auto_keyword_match: xử phạt
+HAI,2025-02-15,news_weak,DNSE,low,auto_keyword_match: xử phạt
+HAI,2025-03-01,news_weak,DNSE,low,auto_keyword_match: xử phạt
+HAI,2025-04-29,news_weak,DNSE,low,auto_keyword_match: upcom
+REE,2025-04-29,news_weak,DNSE,low,auto_keyword_match: xử phạt
+PVT,2025-06-26,news_weak,DNSE,low,auto_keyword_match: hose
+SSI,2025-07-05,news_weak,DNSE,low,auto_keyword_match: hose
+GAS,2025-07-08,news_weak,DNSE,low,auto_keyword_match: upcom
+VNM,2025-08-12,news_weak,DNSE,low,auto_keyword_match: hose
+VIC,2025-09-11,news_weak,DNSE,low,auto_keyword_match: diện cảnh báo
+PVT,2025-11-12,news_weak,DNSE,low,auto_keyword_match: hose
+VPB,2025-12-05,news_weak,DNSE,low,auto_keyword_match: hose
+NVL,2024-09-17,news_weak,DNSE,low,auto_keyword_match: diện cảnh báo
+TCB,2024-10-05,news_weak,DNSE,low,auto_keyword_match: hose
+PNJ,2024-10-09,news_weak,DNSE,low,auto_keyword_match: xử phạt
+HAI,2024-10-17,news_weak,DNSE,low,auto_keyword_match: xử phạt
+PVT,2024-11-23,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2024-12-28,news_weak,DNSE,low,auto_keyword_match: xử phạt
+IDC,2024-12-31,news_weak,DNSE,low,auto_keyword_match: xử phạt
+STB,2016-05-13,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2016-05-27,news_weak,DNSE,low,auto_keyword_match: ủy ban chứng khoán
+ACV,2016-05-27,news_weak,DNSE,low,auto_keyword_match: upcom
+HAI,2016-06-15,news_weak,DNSE,low,auto_keyword_match: upcom
+ART,2016-06-22,news_weak,DNSE,low,auto_keyword_match: upcom
+HAI,2016-08-25,news_weak,DNSE,low,auto_keyword_match: hose
+VNM,2016-09-08,news_weak,DNSE,low,auto_keyword_match: hose
+SAB,2016-11-08,news_weak,DNSE,low,auto_keyword_match: hose
+DGC,2016-11-15,news_weak,DNSE,low,auto_keyword_match: hnx
+ACV,2016-11-21,news_weak,DNSE,low,auto_keyword_match: upcom
+SAB,2016-11-23,news_weak,DNSE,low,auto_keyword_match: xử phạt
+SAB,2016-11-28,news_weak,DNSE,low,auto_keyword_match: hose
+ACV,2016-12-07,news_weak,DNSE,low,auto_keyword_match: upcom
+FPT,2016-12-09,news_weak,DNSE,low,auto_keyword_match: upcom
+POW,2016-12-12,news_weak,DNSE,low,auto_keyword_match: upcom
+NVL,2016-12-28,news_weak,DNSE,low,auto_keyword_match: hose
+SSI,2017-01-05,news_weak,DNSE,low,auto_keyword_match: hose
+FPT,2017-01-13,news_weak,DNSE,low,auto_keyword_match: upcom
+HAI,2017-02-08,news_weak,DNSE,low,auto_keyword_match: hose
+VJC,2017-02-13,news_weak,DNSE,low,auto_keyword_match: hose
+ART,2017-03-22,news_weak,DNSE,low,auto_keyword_match: upcom
+PVT,2017-04-19,news_weak,DNSE,low,auto_keyword_match: upcom
+HAI,2017-07-03,news_weak,DNSE,low,auto_keyword_match: hnx
+FPT,2017-07-05,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2017-07-28,news_weak,DNSE,low,auto_keyword_match: hnx
+HAI,2017-09-04,news_weak,DNSE,low,auto_keyword_match: hnx
+FRT,2017-09-08,news_weak,DNSE,low,auto_keyword_match: hose
+FPT,2017-10-05,news_weak,DNSE,low,auto_keyword_match: hose
+STB,2017-10-05,news_weak,DNSE,low,auto_keyword_match: upcom
+STB,2017-10-06,news_weak,DNSE,low,auto_keyword_match: upcom
+SSI,2017-10-16,news_weak,DNSE,low,auto_keyword_match: hose
+SSI,2017-10-25,news_weak,DNSE,low,auto_keyword_match: hose
+HDB,2017-12-04,news_weak,DNSE,low,auto_keyword_match: hose
+HDB,2017-12-28,news_weak,DNSE,low,auto_keyword_match: hose
+TPB,2018-01-03,news_weak,DNSE,low,auto_keyword_match: hose
+HDB,2018-01-12,news_weak,DNSE,low,auto_keyword_match: hose
+KBC,2018-01-15,news_weak,DNSE,low,auto_keyword_match: hose
+PLX,2018-01-15,news_weak,DNSE,low,auto_keyword_match: hose
+VJC,2018-01-15,news_weak,DNSE,low,auto_keyword_match: hose
+FLC,2018-01-25,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2018-03-28,news_weak,DNSE,low,auto_keyword_match: hnx
+FRT,2018-04-27,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2018-06-20,news_weak,DNSE,low,auto_keyword_match: hose
+POW,2018-06-25,news_weak,DNSE,low,auto_keyword_match: hose
+BID,2018-07-16,news_weak,DNSE,low,auto_keyword_match: hose
+PNJ,2018-07-16,news_weak,DNSE,low,auto_keyword_match: hose
+VPB,2018-07-16,news_weak,DNSE,low,auto_keyword_match: hose
+VRE,2018-07-16,news_weak,DNSE,low,auto_keyword_match: hose
+BVH,2018-07-16,news_weak,DNSE,low,auto_keyword_match: hose
+ART,2018-07-17,news_weak,DNSE,low,auto_keyword_match: hnx
+ART,2018-08-14,news_weak,DNSE,low,auto_keyword_match: hnx
+ART,2018-09-29,news_weak,DNSE,low,auto_keyword_match: hnx
+POW,2018-10-08,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2018-11-09,news_weak,DNSE,low,auto_keyword_match: diện kiểm soát
+POW,2018-11-19,news_weak,DNSE,low,auto_keyword_match: hose
+POW,2018-12-18,news_weak,DNSE,low,auto_keyword_match: hose
+POW,2018-12-19,news_weak,DNSE,low,auto_keyword_match: hose
+POW,2019-01-04,news_weak,DNSE,low,auto_keyword_match: hose
+IDC,2019-03-01,news_weak,DNSE,low,auto_keyword_match: hnx
+FPT,2019-04-03,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2019-04-27,news_weak,DNSE,low,auto_keyword_match: hnx
+IDC,2019-05-28,news_weak,DNSE,low,auto_keyword_match: hose
+GVR,2019-05-31,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2019-06-24,news_weak,DNSE,low,auto_keyword_match: upcom
+SSI,2019-07-05,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2019-07-26,news_weak,DNSE,low,auto_keyword_match: hose
+ART,2019-11-05,news_weak,DNSE,low,auto_keyword_match: ủy ban chứng khoán
+VIC,2019-11-28,news_weak,DNSE,low,auto_keyword_match: hose
+FLC,2019-12-26,news_weak,DNSE,low,auto_keyword_match: hose
+GVR,2020-01-03,news_weak,DNSE,low,auto_keyword_match: hose
+GAB,2020-02-03,news_weak,DNSE,low,auto_keyword_match: tự doanh
+SSI,2020-02-07,news_weak,DNSE,low,auto_keyword_match: upcom
+IDC,2020-02-17,news_weak,DNSE,low,auto_keyword_match: hose
+GVR,2020-03-04,news_weak,DNSE,low,auto_keyword_match: upcom
+GVR,2020-03-10,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2020-03-12,news_weak,DNSE,low,"auto_keyword_match: hnx, diện cảnh báo"
+GVR,2020-03-17,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2020-04-09,news_weak,DNSE,low,auto_keyword_match: xử phạt
+SSI,2020-04-21,news_weak,DNSE,low,auto_keyword_match: tự doanh
+ACV,2020-06-02,news_weak,DNSE,low,auto_keyword_match: upcom
+HAI,2020-06-12,news_weak,DNSE,low,auto_keyword_match: hnx
+SSI,2020-06-27,news_weak,DNSE,low,auto_keyword_match: tự doanh
+SSI,2020-07-09,news_weak,DNSE,low,auto_keyword_match: hnx
+DGC,2020-07-13,news_weak,DNSE,low,auto_keyword_match: hnx
+ART,2020-07-17,news_weak,DNSE,low,auto_keyword_match: upcom
+TCH,2020-07-20,news_weak,DNSE,low,auto_keyword_match: hose
+BVH,2020-07-20,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2020-08-17,news_weak,DNSE,low,auto_keyword_match: xử phạt
+IDC,2020-08-17,news_weak,DNSE,low,auto_keyword_match: upcom
+HAI,2020-08-18,news_weak,DNSE,low,auto_keyword_match: xử phạt
+PLX,2020-09-03,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2020-09-07,news_weak,DNSE,low,auto_keyword_match: hose
+STB,2020-10-01,news_weak,DNSE,low,auto_keyword_match: hose
+VCI,2020-10-21,news_weak,DNSE,low,auto_keyword_match: tự doanh
+VNI,2020-10-22,news_weak,DNSE,low,auto_keyword_match: xử phạt
+FLC,2020-10-22,news_weak,DNSE,low,auto_keyword_match: hnx
+STB,2020-10-29,news_weak,DNSE,low,auto_keyword_match: hose
+FLC,2020-12-25,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2021-01-19,news_weak,DNSE,low,auto_keyword_match: cảnh báo rủi ro
+HAI,2021-02-21,news_weak,DNSE,low,auto_keyword_match: xử phạt
+VIC,2021-03-03,news_weak,DNSE,low,auto_keyword_match: hose
+FPT,2021-03-19,news_weak,DNSE,low,auto_keyword_match: hose
+FLC,2021-03-23,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2021-05-26,news_weak,DNSE,low,auto_keyword_match: xử phạt
+SJC,2021-06-01,news_weak,DNSE,low,auto_keyword_match: hnx
+FPT,2021-06-14,news_weak,DNSE,low,auto_keyword_match: hose
+VIC,2021-06-26,news_weak,DNSE,low,auto_keyword_match: hose
+VIC,2021-08-24,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2021-08-27,news_weak,DNSE,low,auto_keyword_match: hose
+IDC,2021-10-12,news_weak,DNSE,low,auto_keyword_match: hose
+IDC,2021-10-16,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2021-10-19,news_weak,DNSE,low,auto_keyword_match: hose
+ART,2021-12-21,news_weak,DNSE,low,auto_keyword_match: hose
+HPG,2022-01-01,news_weak,DNSE,low,auto_keyword_match: hose
+VNM,2022-01-05,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2022-01-26,news_weak,DNSE,low,auto_keyword_match: hose
+FLC,2022-04-10,news_weak,DNSE,low,auto_keyword_match: hose
+KBC,2022-04-12,news_weak,DNSE,low,auto_keyword_match: hose
+IDC,2022-04-19,news_weak,DNSE,low,auto_keyword_match: hose
+FLC,2022-04-20,news_weak,DNSE,low,auto_keyword_match: diện cảnh báo
+HAI,2022-05-19,news_weak,DNSE,low,auto_keyword_match: hose
+DGC,2022-06-11,news_weak,DNSE,low,auto_keyword_match: upcom
+TCH,2022-06-15,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2022-07-13,news_weak,DNSE,low,auto_keyword_match: hose
+REE,2022-07-26,news_weak,DNSE,low,auto_keyword_match: xử phạt
+FLC,2022-08-03,news_weak,DNSE,low,auto_keyword_match: đình chỉ giao dịch
+VIC,2022-08-10,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2022-08-17,news_weak,DNSE,low,auto_keyword_match: đình chỉ giao dịch
+HAI,2022-08-27,news_weak,DNSE,low,auto_keyword_match: hose
+POW,2022-09-09,news_weak,DNSE,low,auto_keyword_match: hose
+GAB,2022-09-21,news_weak,DNSE,low,auto_keyword_match: diện cảnh báo
+VNM,2022-09-29,news_weak,DNSE,low,auto_keyword_match: hose
+IDC,2022-09-29,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2022-12-03,news_weak,DNSE,low,auto_keyword_match: xử phạt
+VIC,2022-12-06,news_weak,DNSE,low,auto_keyword_match: xử phạt
+PVT,2023-01-03,news_weak,DNSE,low,auto_keyword_match: hose
+REE,2023-01-06,news_weak,DNSE,low,auto_keyword_match: upcom
+HAI,2023-01-13,news_weak,DNSE,low,auto_keyword_match: xử phạt
+PVT,2023-01-17,news_weak,DNSE,low,auto_keyword_match: hose
+FLC,2023-02-17,news_weak,DNSE,low,auto_keyword_match: upcom
+FLC,2023-02-20,news_weak,DNSE,low,"auto_keyword_match: upcom, hose"
+HAI,2023-03-20,news_weak,DNSE,low,auto_keyword_match: đình chỉ giao dịch
+HAI,2023-04-06,news_weak,DNSE,low,auto_keyword_match: hose
+PVT,2023-04-21,news_weak,DNSE,low,auto_keyword_match: hose
+BID,2023-05-30,news_weak,DNSE,low,auto_keyword_match: hose
+HAI,2023-06-30,news_weak,DNSE,low,auto_keyword_match: xử phạt
+ART,2023-07-18,news_weak,DNSE,low,"auto_keyword_match: upcom, hose"
+HAI,2023-08-17,news_weak,DNSE,low,auto_keyword_match: hose
+POW,2023-09-22,news_weak,DNSE,low,auto_keyword_match: hose
+FLC,2023-10-04,news_weak,DNSE,low,auto_keyword_match: xử phạt
+MWG,2023-11-02,news_weak,DNSE,low,auto_keyword_match: xả hàng
+HAI,2023-11-09,news_weak,DNSE,low,auto_keyword_match: ủy ban chứng khoán
+HAI,2023-11-14,news_weak,DNSE,low,auto_keyword_match: hose
+FPT,2024-03-06,news_weak,DNSE,low,auto_keyword_match: hose
+ART,2024-05-27,news_weak,DNSE,low,auto_keyword_match: xử phạt
+HAI,2024-06-13,news_weak,DNSE,low,auto_keyword_match: xử phạt
+PVT,2024-07-08,news_weak,DNSE,low,"auto_keyword_match: xử phạt, ủy ban chứng khoán"
+VIC,2024-07-09,news_weak,DNSE,low,auto_keyword_match: xử phạt
+HAI,2024-07-13,news_weak,DNSE,low,auto_keyword_match: xử phạt
+VPB,2024-07-19,news_weak,DNSE,low,auto_keyword_match: tự doanh
+SSI,2024-07-19,news_weak,DNSE,low,auto_keyword_match: tự doanh
+VPB,2025-12-08,news_weak,Fireant,low,auto_keyword_match: hose
+NVL,2025-10-02,news_weak,Fireant,low,auto_keyword_match: hose
+MWG,2025-09-09,news_weak,Fireant,low,auto_keyword_match: xả hàng
+HAI,2025-08-22,news_weak,Fireant,low,auto_keyword_match: xả hàng
+VPB,2025-08-20,news_weak,Fireant,low,auto_keyword_match: tự doanh
+NVL,2025-08-18,news_weak,Fireant,low,auto_keyword_match: hose
+HAI,2025-07-29,news_weak,Fireant,low,auto_keyword_match: hose
+GAS,2025-07-27,news_weak,Fireant,low,auto_keyword_match: hose
+TCB,2025-07-20,news_weak,Fireant,low,auto_keyword_match: ubcknn
+HAI,2025-07-20,news_weak,Fireant,low,auto_keyword_match: ubcknn
+NVL,2025-07-02,news_weak,Fireant,low,auto_keyword_match: hose
+FPT,2025-06-29,news_weak,Fireant,low,auto_keyword_match: hose
+HAI,2025-06-23,news_weak,Fireant,low,auto_keyword_match: hnx
+HAI,2025-05-03,news_weak,Fireant,low,auto_keyword_match: hose
+HAI,2025-04-16,news_weak,Fireant,low,"auto_keyword_match: xử phạt, ubcknn"
+TPB,2025-04-16,news_weak,Fireant,low,auto_keyword_match: xử phạt
+HAI,2025-04-11,news_weak,Fireant,low,"auto_keyword_match: xử phạt, ubcknn"
+BID,2025-02-13,news_weak,Fireant,low,auto_keyword_match: ubcknn
+FPT,2024-11-22,news_weak,Fireant,low,auto_keyword_match: xả hàng
+VHM,2024-10-21,news_weak,Fireant,low,auto_keyword_match: hose
+VNI,2024-09-05,news_weak,Fireant,low,auto_keyword_match: hose
+HAI,2024-08-15,news_weak,Fireant,low,auto_keyword_match: ubcknn
+HAI,2024-08-08,news_weak,Fireant,low,auto_keyword_match: hose
+VNI,2024-08-01,news_weak,Fireant,low,auto_keyword_match: xả hàng
+HAI,2024-07-31,news_weak,Fireant,low,auto_keyword_match: xả hàng
+HAI,2024-06-20,news_weak,Fireant,low,auto_keyword_match: upcom
+REE,2024-06-17,news_weak,Fireant,low,auto_keyword_match: hose
+VNI,2024-06-14,news_weak,Fireant,low,auto_keyword_match: xả hàng
+FRT,2024-06-10,news_weak,Fireant,low,auto_keyword_match: hose
+VNI,2024-05-22,news_weak,Fireant,low,auto_keyword_match: xả hàng
+HAI,2024-05-11,news_weak,Fireant,low,auto_keyword_match: tự doanh
+FRT,2024-05-09,news_weak,Fireant,low,auto_keyword_match: hose
+VNI,2024-05-06,news_weak,Fireant,low,auto_keyword_match: đẩy giá
+HAI,2024-04-21,news_weak,Fireant,low,auto_keyword_match: hnx
+HAI,2024-03-23,news_weak,Fireant,low,auto_keyword_match: hose
+HAI,2024-03-02,news_weak,Fireant,low,auto_keyword_match: ủy ban chứng khoán
+FLC,2024-02-26,news_weak,Fireant,low,auto_keyword_match: hose
+VNI,2024-02-22,news_weak,Fireant,low,auto_keyword_match: xả hàng
+PNJ,2024-01-17,news_weak,Fireant,low,auto_keyword_match: hose
+REE,2023-12-29,news_weak,Fireant,low,auto_keyword_match: ubcknn
+VNI,2023-09-22,news_weak,Fireant,low,auto_keyword_match: hose
+FLC,2023-07-16,news_weak,Fireant,low,"auto_keyword_match: upcom, đình chỉ giao dịch"
+SSI,2023-07-06,news_weak,Fireant,low,auto_keyword_match: hose
+HPG,2023-06-26,news_weak,Fireant,low,auto_keyword_match: xả hàng
+HAI,2023-06-05,news_weak,Fireant,low,auto_keyword_match: ủy ban chứng khoán
+FPT,2023-05-28,news_weak,Fireant,low,auto_keyword_match: hose
+FLC,2023-03-07,news_weak,Fireant,low,auto_keyword_match: đình chỉ giao dịch
+HPG,2023-02-21,news_weak,Fireant,low,auto_keyword_match: tự doanh
+VCB,2023-02-02,news_weak,Fireant,low,auto_keyword_match: hose
+VIC,2023-02-02,news_weak,Fireant,low,auto_keyword_match: hose
+HAI,2023-02-02,news_weak,Fireant,low,auto_keyword_match: ủy ban chứng khoán
+HAI,2023-01-12,news_weak,Fireant,low,"auto_keyword_match: xử phạt, ubcknn"
+NVL,2022-12-10,news_weak,Fireant,low,auto_keyword_match: tự doanh
+NVL,2022-12-01,news_weak,Fireant,low,auto_keyword_match: tự doanh
+STB,2022-11-22,news_weak,Fireant,low,auto_keyword_match: tự doanh
+VPB,2022-11-22,news_weak,Fireant,low,auto_keyword_match: tự doanh
+KBC,2022-11-11,news_weak,Fireant,low,auto_keyword_match: tự doanh
+TCB,2022-11-03,news_weak,Fireant,low,auto_keyword_match: tự doanh
+HAI,2022-10-08,news_weak,Fireant,low,auto_keyword_match: ubcknn
+VNM,2022-09-30,news_weak,Fireant,low,auto_keyword_match: hose
+IDC,2022-09-30,news_weak,Fireant,low,auto_keyword_match: hose
+SSI,2022-09-22,news_weak,Fireant,low,auto_keyword_match: hose
+VCI,2022-09-20,news_weak,Fireant,low,auto_keyword_match: tự doanh
+MWG,2022-09-20,news_weak,Fireant,low,auto_keyword_match: tự doanh
+HPG,2022-09-14,news_weak,Fireant,low,auto_keyword_match: tự doanh
+HPG,2022-09-13,news_weak,Fireant,low,auto_keyword_match: tự doanh
+MWG,2022-09-13,news_weak,Fireant,low,auto_keyword_match: tự doanh
+HPG,2022-09-10,news_weak,Fireant,low,auto_keyword_match: tự doanh
+VNM,2022-09-08,news_weak,Fireant,low,auto_keyword_match: hose
+IDC,2022-09-08,news_weak,Fireant,low,auto_keyword_match: hose
+HPG,2022-09-06,news_weak,Fireant,low,auto_keyword_match: tự doanh
+VPB,2022-09-03,news_weak,Fireant,low,auto_keyword_match: tự doanh
+MWG,2022-08-28,news_weak,Fireant,low,auto_keyword_match: tự doanh
+VNM,2022-08-27,news_weak,Fireant,low,auto_keyword_match: hose
+MWG,2022-08-25,news_weak,Fireant,low,auto_keyword_match: tự doanh
+HPG,2022-08-21,news_weak,Fireant,low,auto_keyword_match: hose
+HAI,2022-08-20,news_weak,Fireant,low,auto_keyword_match: ubcknn
+VPB,2022-08-19,news_weak,Fireant,low,auto_keyword_match: tự doanh
+VPB,2022-08-16,news_weak,Fireant,low,auto_keyword_match: tự doanh
+HAI,2022-08-15,news_weak,Fireant,low,auto_keyword_match: tự doanh
+NVL,2022-08-06,news_weak,Fireant,low,auto_keyword_match: tự doanh
+GAS,2022-07-23,news_weak,Fireant,low,auto_keyword_match: tự doanh
+MWG,2022-07-14,news_weak,Fireant,low,auto_keyword_match: hose
+REE,2022-07-07,news_weak,Fireant,low,auto_keyword_match: tự doanh
+FRT,2022-07-06,news_weak,Fireant,low,auto_keyword_match: hose
+HPG,2022-06-29,news_weak,Fireant,low,auto_keyword_match: tự doanh
+FLC,2022-06-29,news_weak,Fireant,low,auto_keyword_match: hose
+MWG,2022-06-23,news_weak,Fireant,low,auto_keyword_match: hose
+HPG,2022-06-22,news_weak,Fireant,low,auto_keyword_match: hose
+HPG,2022-06-20,news_weak,Fireant,low,auto_keyword_match: tự doanh
+MWG,2022-06-20,news_weak,Fireant,low,auto_keyword_match: tự doanh
+TCB,2022-06-17,news_weak,Fireant,low,auto_keyword_match: tự doanh
+HAI,2022-06-17,news_weak,Fireant,low,auto_keyword_match: tự doanh
+MWG,2022-06-17,news_weak,Fireant,low,auto_keyword_match: tự doanh
+HPG,2022-06-11,news_weak,Fireant,low,auto_keyword_match: tự doanh
+NVL,2022-06-04,news_weak,Fireant,low,auto_keyword_match: tự doanh
+VCB,2022-06-04,news_weak,Fireant,low,auto_keyword_match: tự doanh
+PNJ,2022-06-02,news_weak,Fireant,low,auto_keyword_match: tự doanh
+PNJ,2022-05-26,news_weak,Fireant,low,auto_keyword_match: tự doanh
+REE,2022-05-26,news_weak,Fireant,low,auto_keyword_match: tự doanh
+FLC,2022-05-26,news_weak,Fireant,low,auto_keyword_match: diện cảnh báo
+SSI,2022-05-06,news_weak,Fireant,low,auto_keyword_match: tự doanh
+STB,2022-03-21,news_weak,Fireant,low,auto_keyword_match: hose
+VNI,2022-02-28,news_weak,Fireant,low,auto_keyword_match: làm giá
+NVL,2022-01-20,news_weak,Fireant,low,auto_keyword_match: hose
+FLC,2022-01-19,news_weak,Fireant,low,auto_keyword_match: ubcknn
+STB,2022-01-18,news_weak,Fireant,low,auto_keyword_match: hose
+VCB,2022-01-18,news_weak,Fireant,low,auto_keyword_match: hose
+SSI,2022-01-18,news_weak,Fireant,low,auto_keyword_match: hose
+HAI,2021-11-18,news_weak,Fireant,low,"auto_keyword_match: upcom, hnx"
+VHM,2021-11-17,news_weak,Fireant,low,auto_keyword_match: hose
+HAI,2021-10-26,news_weak,Fireant,low,auto_keyword_match: upcom
+HAI,2021-09-27,news_weak,Fireant,low,auto_keyword_match: xử phạt
+FLC,2025-12-27,news_weak,Vneconomy,low,auto_keyword_match: upcom
+HAI,2025-09-19,news_weak,Vneconomy,low,auto_keyword_match: hose
+VNM,2025-08-13,news_weak,Vneconomy,low,auto_keyword_match: hose
+PDR,2025-08-07,news_weak,Vneconomy,low,auto_keyword_match: xả hàng
+HAI,2025-07-18,news_weak,Vneconomy,low,auto_keyword_match: ủy ban chứng khoán
+TCB,2025-07-01,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+FPT,2025-07-01,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+HAI,2025-06-19,news_weak,Vneconomy,low,auto_keyword_match: xử phạt
+PDR,2025-05-22,news_weak,Vneconomy,low,auto_keyword_match: đẩy giá
+HAI,2025-05-05,news_weak,Vneconomy,low,auto_keyword_match: xử phạt
+HPG,2025-04-30,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+FPT,2025-04-30,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+TCB,2025-04-04,news_weak,Vneconomy,low,auto_keyword_match: hnx
+HAI,2025-02-10,news_weak,Vneconomy,low,auto_keyword_match: hose
+HAI,2024-12-04,news_weak,Vneconomy,low,auto_keyword_match: hnx
+VNI,2024-11-12,news_weak,Vneconomy,low,"auto_keyword_match: đình chỉ giao dịch, diện cảnh báo"
+NVL,2024-10-31,news_weak,Vneconomy,low,auto_keyword_match: hose
+HAI,2024-10-25,news_weak,Vneconomy,low,auto_keyword_match: ủy ban chứng khoán
+HPG,2024-08-27,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+HAI,2024-03-04,news_weak,Vneconomy,low,auto_keyword_match: upcom
+IDC,2024-03-01,news_weak,Vneconomy,low,auto_keyword_match: đẩy giá
+PNJ,2024-01-16,news_weak,Vneconomy,low,auto_keyword_match: hose
+HAI,2024-01-02,news_weak,Vneconomy,low,auto_keyword_match: hnx
+HAI,2023-12-07,news_weak,Vneconomy,low,auto_keyword_match: diện cảnh báo
+HPG,2023-10-19,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+STB,2023-10-19,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+SSI,2023-10-19,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+PDR,2023-09-27,news_weak,Vneconomy,low,auto_keyword_match: hnx
+VIC,2023-09-19,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+VIC,2023-09-18,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+VNI,2023-09-06,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+VIC,2023-09-01,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+MBB,2023-08-08,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+VPB,2023-08-08,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+VHM,2023-08-02,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+VPB,2023-08-02,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+AMD,2023-07-17,news_weak,Vneconomy,low,"auto_keyword_match: upcom, đình chỉ giao dịch"
+GAB,2023-07-17,news_weak,Vneconomy,low,"auto_keyword_match: upcom, đình chỉ giao dịch"
+FLC,2023-07-12,news_weak,Vneconomy,low,auto_keyword_match: diện cảnh báo
+PDR,2023-06-23,news_weak,Vneconomy,low,auto_keyword_match: đẩy giá
+HPG,2023-06-13,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+VNI,2023-05-06,news_weak,Vneconomy,low,auto_keyword_match: hose
+HAI,2023-04-20,news_weak,Vneconomy,low,"auto_keyword_match: upcom, đình chỉ giao dịch"
+HAI,2023-04-07,news_weak,Vneconomy,low,auto_keyword_match: hose
+FLC,2023-02-28,news_weak,Vneconomy,low,auto_keyword_match: upcom
+FLC,2023-02-25,news_weak,Vneconomy,low,"auto_keyword_match: upcom, đình chỉ giao dịch"
+GAB,2023-02-17,news_weak,Vneconomy,low,auto_keyword_match: đình chỉ giao dịch
+GAB,2022-12-28,news_weak,Vneconomy,low,auto_keyword_match: diện kiểm soát
+VPB,2022-12-07,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+NVL,2022-12-07,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+NVL,2022-11-23,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+NVL,2022-11-22,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+HPG,2022-11-03,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+TCB,2022-10-24,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+NVL,2022-10-24,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+VNI,2022-10-11,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+HAI,2022-10-07,news_weak,Vneconomy,low,auto_keyword_match: xử phạt
+VNI,2022-10-03,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+VNI,2022-09-29,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+VCI,2022-09-22,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+HPG,2022-09-08,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+HAI,2022-09-04,news_weak,Vneconomy,low,auto_keyword_match: đình chỉ giao dịch
+FLC,2022-08-30,news_weak,Vneconomy,low,auto_keyword_match: upcom
+MWG,2022-08-26,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+VPB,2022-08-22,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+VNI,2022-08-01,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+FLC,2022-07-04,news_weak,Vneconomy,low,"auto_keyword_match: hose, diện cảnh báo"
+HAI,2022-07-04,news_weak,Vneconomy,low,"auto_keyword_match: hose, diện cảnh báo"
+VNI,2022-06-15,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+FLC,2022-05-25,news_weak,Vneconomy,low,auto_keyword_match: hose
+HAI,2022-05-25,news_weak,Vneconomy,low,auto_keyword_match: hose
+VNI,2022-05-18,news_weak,Vneconomy,low,"auto_keyword_match: xả hàng, tự doanh"
+FLC,2022-05-06,news_weak,Vneconomy,low,auto_keyword_match: diện kiểm soát
+FLC,2022-04-19,news_weak,Vneconomy,low,auto_keyword_match: diện cảnh báo
+FLC,2022-04-18,news_weak,Vneconomy,low,auto_keyword_match: hose
+HAI,2022-04-18,news_weak,Vneconomy,low,auto_keyword_match: hose
+FLC,2022-04-11,news_weak,Vneconomy,low,auto_keyword_match: hose
+HAI,2022-04-11,news_weak,Vneconomy,low,auto_keyword_match: hose
+TCB,2022-02-14,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+HAI,2022-01-30,news_weak,Vneconomy,low,auto_keyword_match: xử phạt
+FLC,2022-01-23,news_weak,Vneconomy,low,auto_keyword_match: xử phạt
+VNI,2022-01-13,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+VNI,2022-01-10,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+VPB,2021-12-30,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+TCB,2021-12-27,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+STB,2021-12-27,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+VPB,2021-12-27,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+IDC,2021-10-17,news_weak,Vneconomy,low,auto_keyword_match: hose
+HAI,2021-09-02,news_weak,Vneconomy,low,auto_keyword_match: xử phạt
+VPB,2021-07-02,news_weak,Vneconomy,low,auto_keyword_match: hose
+HAI,2021-06-25,news_weak,Vneconomy,low,auto_keyword_match: hnx
+VPB,2021-05-19,news_weak,Vneconomy,low,auto_keyword_match: tự doanh
+CTG,2021-04-06,news_weak,Vneconomy,low,auto_keyword_match: hose
+SSI,2021-04-05,news_weak,Vneconomy,low,auto_keyword_match: hose
+VNI,2021-03-26,news_weak,Vneconomy,low,auto_keyword_match: hnx
+FPT,2021-03-10,news_weak,Vneconomy,low,auto_keyword_match: hose
+HPG,2021-02-18,news_weak,Vneconomy,low,auto_keyword_match: hose
+VNI,2021-01-27,news_weak,Vneconomy,low,auto_keyword_match: xả hàng
+VIC,2020-11-11,news_weak,Vneconomy,low,auto_keyword_match: đẩy giá
+STB,2020-10-28,news_weak,Vneconomy,low,auto_keyword_match: hose
+IDC,2019-12-02,news_weak,Vneconomy,low,auto_keyword_match: hnx
+IDC,2019-11-26,news_weak,Vneconomy,low,auto_keyword_match: hnx
+HAI,2019-09-18,news_weak,Vneconomy,low,auto_keyword_match: diện cảnh báo
+HAI,2019-05-07,news_weak,Vneconomy,low,auto_keyword_match: hose
+STB,2019-04-24,news_weak,Vneconomy,low,auto_keyword_match: hose
+SSI,2019-04-08,news_weak,Vneconomy,low,"auto_keyword_match: upcom, hnx"
+HAI,2018-12-25,news_weak,Vneconomy,low,auto_keyword_match: hose
+FPT,2018-12-05,news_weak,Vneconomy,low,auto_keyword_match: upcom
+VRE,2018-11-24,news_weak,Vneconomy,low,auto_keyword_match: hose
+HAI,2018-11-22,news_weak,Vneconomy,low,auto_keyword_match: hose
+HAI,2018-11-12,news_weak,Vneconomy,low,auto_keyword_match: hose
+SSI,2018-10-03,news_weak,Vneconomy,low,auto_keyword_match: hose
+SSI,2018-07-05,news_weak,Vneconomy,low,auto_keyword_match: hose
+VCB,2018-06-28,news_weak,Vneconomy,low,auto_keyword_match: hnx
+SAB,2018-06-05,news_weak,Vneconomy,low,auto_keyword_match: hose
+HAI,2018-04-19,news_weak,Vneconomy,low,auto_keyword_match: hose
+FPT,2018-04-18,news_weak,Vneconomy,low,auto_keyword_match: hose
+SSI,2018-04-11,news_weak,Vneconomy,low,auto_keyword_match: hnx
+SSI,2018-01-13,news_weak,Vneconomy,low,auto_keyword_match: hnx
+HAI,2017-12-28,news_weak,Vneconomy,low,auto_keyword_match: xử phạt
+VCB,2017-10-12,news_weak,Vneconomy,low,auto_keyword_match: hnx
+SSI,2017-10-05,news_weak,Vneconomy,low,auto_keyword_match: hose
+STB,2017-10-04,news_weak,Vneconomy,low,auto_keyword_match: upcom
+STB,2017-09-29,news_weak,Vneconomy,low,auto_keyword_match: upcom
+FPT,2017-09-19,news_weak,Vneconomy,low,auto_keyword_match: hose
+VPB,2017-08-09,news_weak,Vneconomy,low,auto_keyword_match: hose
+VPB,2017-07-19,news_weak,Vneconomy,low,auto_keyword_match: hose
+SAB,2017-07-17,news_weak,Vneconomy,low,auto_keyword_match: hose
+NVL,2017-07-17,news_weak,Vneconomy,low,auto_keyword_match: hose
+VCB,2017-04-13,news_weak,Vneconomy,low,auto_keyword_match: hnx
+SSI,2017-04-06,news_weak,Vneconomy,low,auto_keyword_match: hose
+FPT,2017-01-12,news_weak,Vneconomy,low,auto_keyword_match: hose
+FPT,2016-12-31,news_weak,Vneconomy,low,auto_keyword_match: upcom
+HAI,2016-12-21,news_weak,Vneconomy,low,auto_keyword_match: hnx
+VCB,2016-10-05,news_weak,Vneconomy,low,auto_keyword_match: hose
+SSI,2016-04-05,news_weak,Vneconomy,low,"auto_keyword_match: hose, hnx"
+SSI,2016-01-07,news_weak,Vneconomy,low,auto_keyword_match: hose
+SSI,2016-01-06,news_weak,Vneconomy,low,auto_keyword_match: hnx
+HAI,2016-01-04,news_weak,Vneconomy,low,"auto_keyword_match: xử phạt, ủy ban chứng khoán"
+FLC,2015-11-07,news_weak,Vneconomy,low,auto_keyword_match: hose
+SSI,2015-07-07,news_weak,Vneconomy,low,auto_keyword_match: hnx
+VCB,2015-07-07,news_weak,Vneconomy,low,auto_keyword_match: hnx
+SSI,2015-07-02,news_weak,Vneconomy,low,auto_keyword_match: hose
+SSI,2015-01-07,news_weak,Vneconomy,low,auto_keyword_match: hose

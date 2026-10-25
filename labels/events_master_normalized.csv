@@ -1,0 +1,12 @@
+﻿event_id,ticker,event_date,title,event_type,severity,source,verified
+AMD_001,AMD,2022-06-01,AMD bị cảnh báo giao dịch bất thường,abnormal_trading,medium,HOSE,1
+AMD_002,AMD,2023-01-18,AMD vi phạm công bố thông tin,disclosure_violation,medium,HOSE,1
+ART_001,ART,2022-08-12,ART bị cảnh báo giao dịch,supervisory_warning,medium,HNX,1
+ART_002,ART,2023-03-22,ART bị hạn chế giao dịch,trading_restriction,high,HNX,1
+FLC_001,FLC,2022-01-10,UBCK xử phạt liên quan thao túng giá cổ phiếu FLC,market_manipulation,high,UBCKNN,1
+FLC_002,FLC,2022-09-05,Cổ phiếu FLC bị đình chỉ giao dịch,trading_restriction,high,HOSE,1
+FLC_003,FLC,2023-02-15,FLC bị cảnh báo vi phạm công bố thông tin,disclosure_violation,medium,HOSE,1
+GAB_001,GAB,2022-11-10,GAB bị cảnh báo bất thường,abnormal_trading,medium,HOSE,1
+GAB_002,GAB,2023-04-01,GAB vi phạm công bố thông tin,disclosure_violation,medium,HOSE,1
+HAI_001,HAI,2022-03-15,Cảnh báo giao dịch bất thường cổ phiếu HAI,abnormal_trading,medium,HOSE,1
+HAI_002,HAI,2022-10-20,HAI bị đưa vào diện kiểm soát,trading_restriction,medium,HOSE,1
