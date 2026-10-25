@@ -49,10 +49,6 @@ uv run python src/data/run_cleaning.py --input-dir data/raw --output-dir data/in
 uv run python src/features/run_feature_engineering.py --input-dir data/interim --output-dir data/processed
 ```
 
-> ⚠️ Ghi chú paths: defaults trong code/YAML cũ (`data/raw_data`, `data/data_cleaning`,
-> `data/data_features`) **không khớp** cây `raw/interim/processed` ở trên — luôn truyền
-> `--input-dir/--output-dir` tường minh. Chưa đổi defaults để giữ zero behavior change.
-
 ## Liên hệ pipeline
 
 | Bước | Runner | Config |
